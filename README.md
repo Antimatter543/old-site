@@ -5,3 +5,9 @@
 
  So, in our index.html, the stuff between --- is called 'front matter'; anything with the --- --- will be processed by Jekyll.
  So every file with layout: default will generate the full HTML doc by replacing {{content}} in _layouts/defaults.html with the contents of the file. POG
+
+ AHHH:
+ page.title refers to the 'title' in --- for that page.
+ site.posts refers to the _posts folder in the site directory (I think). Pog!
+ There's a way  to test this:
+ just add page.default in some text so see what shows up.
