@@ -6,7 +6,9 @@
  site.posts refers to the _posts folder in the site directory (I think). Pog!
  There's a way  to test this:
  just add page.layout in some text so see what shows up (theoretically, if you put this in default.html, 
- the home page should show up with 'default' wherever you put page.layout)
+ the home page (index.html on the main (site) directory) should show up with 'default' wherever you put page.layout)
+ 
+ ::IT DOES IT DOES I UNDERSTAND THE THINGS I UNDERSTAND!!!!!!!!!!!!::
  //
 
  Here's why you made a folder called 'blog', then put index.html in it.
