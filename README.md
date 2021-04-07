@@ -11,7 +11,14 @@
  So every file with layout: default will generate the full HTML doc by replacing {{content}} in _layouts/defaults.html with the contents of the file. POG
 
  AHHH:
- page.title refers to the 'title' in --- for that page.
+ page.title refers to the 'title' in --- X --- for that page.
  site.posts refers to the _posts folder in the site directory (I think). Pog!
  There's a way  to test this:
- just add page.default in some text so see what shows up.
+ just add page.layout in some text so see what shows up (theoretically, if you put this in default.html, the home page should show up with 'default' wherever you put page.layout)
+ //
+
+ Here's why you made a folder called 'blog', then put index.html in it.
+ Basically, on the main page you have a thing going to /blog (which would be a folder). In this folder, you have the index.html, which is the thing that the website reads first or whatever. Basically, you could've also had the main page link to blog.html (also on the main directory), but these are the same thing.
+ I guess it looks neater this way. Yeah.
+
+ Oh, by main page I guess I meant default.html.
