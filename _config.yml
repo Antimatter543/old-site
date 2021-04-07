@@ -1,5 +1,5 @@
-	name: Antimatter
-	markdown: kramdown
+name: Antimatter
+markdown: kramdown
 
-  permalink: /blog/:year/:month/:day/:title 
-  # pretty # https://jekyllrb.com/docs/permalinks/ is equiv. to permalink: /:categories/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title 
+# pretty # https://jekyllrb.com/docs/permalinks/ is equiv. to permalink: /:categories/:year/:month/:day/:title
