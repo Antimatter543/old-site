@@ -1,5 +1,9 @@
 name: Antimatter
 markdown: kramdown
+title: Anti's Blog
+description: "Testing the description"
+baseurl: ""
+url: "https://antimatter543.github.io"
 
 permalink: /blog/:year/:month/:day/:title 
 # pretty # https://jekyllrb.com/docs/permalinks/ is equiv. to permalink: /:categories/:year/:month/:day/:title
