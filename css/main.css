@@ -17,6 +17,15 @@ Basically, class is for a whole section, id is a specific thing in that section 
     width: 20%;
 }
 /* The below removes the bullet points from the stuff */
+/* Header */
+header {
+    padding: 10px;
+    border-top: 5px solid #101010;
+    border-bottom: 1px solid #e8e8e8;
+    text-align: right;
+    color: #9d9d9d;
+    font-size: 25px;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -43,14 +52,7 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-header {
-    padding: 10px;
-    border-top: 5px solid #333;
-    border-bottom: 1px solid #e8e8e8;
-    text-align: right;
-    color: #9d9d9d;
-    font-size: 15px;
-}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
