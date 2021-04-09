@@ -1,3 +1,9 @@
+/* Removes browser default settings */
+* {
+    margin: 0;
+    padding: 0;
+  }
+
 body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
@@ -14,14 +20,19 @@ Basically, class is for a whole section, id is a specific thing in that section 
 .text {
     margin: 60px auto; 
     /* That margin means top, bot is 60px, right, left are auto'd */
-    width: 20%;
+    width: 50%;
 }
-/* The below removes the bullet points from the stuff */
-/* Header */
-header {
-    padding: 10px;
-    border-top: 5px solid #101010;
-    border-bottom: 1px solid #e8e8e8;
+
+
+/* Layout Styles */
+/* ----------------------------------------------------------*/
+
+/* Site header - You could just have header but for some reason we're gonna make it a class .site-header */
+
+.site-header {
+    min-height: 55px;
+    border-bottom: 5px solid #101010;
+    border-top: 1px solid #e8e8e8;
     text-align: right;
     color: #9d9d9d;
     font-size: 25px;

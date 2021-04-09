@@ -22,3 +22,6 @@
  I guess I don't like when everything's on one page, so I will have different .md's. 
  But, I kinda don't really want to make folders and put index.html for each thing (cv, etc.).
  On second thoughts, why not?
+
+
+Page title overrides site title from head.html
