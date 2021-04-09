@@ -4,8 +4,16 @@ body {
 }
 /* OH I THINK THE BODY BEING 70% + margin means if we put the nav in the body, it won't be able to take the whole thing.
 OOOOOOOH I GET IT!!
-So essentially, we can either have a nav that overrides the width and margin, or change body. Pog. See how karpathy did it. */
-/* nav ul, footer ul {
+So essentially, we can either have a nav that overrides the width and margin, or change body. Pog. See how karpathy did it.
+If you want body to be normal, but have a section (i.e the text) be at 70% or whatever, just make a container class or something! 
+(by this i mean do #text or .text, see https://www.w3schools.com/css/css_selectors.asp
+Basically, class is for a whole section, id is a specific thing in that section (so we want to make a class) .text */
+.text {
+    margin: 60px auto;
+    width: 70%;
+}
+/* The below removes the bullet points from the stuff */
+nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -14,7 +22,7 @@ So essentially, we can either have a nav that overrides the width and margin, or
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-} */
+}
 a {
     text-decoration: none;
     color: #999;
