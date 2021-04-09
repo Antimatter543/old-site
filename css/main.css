@@ -44,11 +44,12 @@ p {
     color: #333;
 }
 header {
-    padding: 60px;
+    padding: 10px;
+    border-top: 5px solid #333;
+    border-bottom: 1px solid #e8e8e8;
     text-align: right;
-    background: #101010;
     color: #9d9d9d;
-    font-size: 30px;
+    font-size: 15px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
