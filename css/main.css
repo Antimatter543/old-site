@@ -10,7 +10,7 @@ If you want body to be normal, but have a section (i.e the text) be at 70% or wh
 Basically, class is for a whole section, id is a specific thing in that section (so we want to make a class) .text */
 .text {
     margin: 60px auto;
-    width: 70%;
+    width: 20%;
 }
 /* The below removes the bullet points from the stuff */
 nav ul, footer ul {
