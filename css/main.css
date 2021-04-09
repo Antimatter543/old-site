@@ -2,7 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+/* OH I THINK THE BODY BEING 70% + margin means if we put the nav in the body, it won't be able to take the whole thing.
+OOOOOOOH I GET IT!!
+So essentially, we can either have a nav that overrides the width and margin, or change body. Pog. See how karpathy did it. */
+/* nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -11,7 +14,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
+} */
 a {
     text-decoration: none;
     color: #999;
