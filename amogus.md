@@ -5,4 +5,5 @@ permalink: /amogus/
 includelink: true
 ---
 
-See my [website](https://karpathy.ai/).
+<h1> It seems that </h1>
+<br> You sus </br>
