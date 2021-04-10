@@ -1,12 +1,20 @@
 <header class='site-header'>
-    <a class='site-title' href="{{ site.baseurl }}">{{ site.title}}</a>
+    <div class='wrap'>
+
+        <div style="float:left; margin-top:10px; margin-right:10px;">
+            <a href="/">
+              <img src="/assets/homeimg.jpg" width="40">
+            </a>
+        </div>
+        <a class='site-title' href="{{ site.baseurl }}">{{ site.title}}</a>
     
-    <nav class = 'site-nav'>
-        <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/cv">CV</a></li>
-            <li><a href="/blog">Blog</a></li>
-        </ul>
-    </nav>
+        <nav class = 'site-nav'>
+            <ul>
+                <li><a class="page-link" href="/">Home</a></li>
+                <li><a class="page-link" href="/about">About</a></li>
+                <li><a class="page-link" href="/cv">CV</a></li>
+                <li><a class="page-link" href="/blog">Blog</a></li>
+            </ul>
+        </nav>
+    </div>
 </header>

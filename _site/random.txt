@@ -25,3 +25,6 @@
 
 
 Page title overrides site title from head.html
+
+https://jekyllrb.com/docs/variables/
+https://jekyllrb.com/docs/pages/

@@ -7,14 +7,28 @@
 /* Links */
 a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+a:visited { color: #000000; }
+
+/* Utility */
+
+.wrap:before,
+.wrap:after { content:""; display:table; }
+.wrap:after { clear: both; }
+.wrap {
+  max-width: 800px;
+  padding: 0 30px;
+  margin: 5px auto;
+  zoom: 1;
+}
+
+/* body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; } */
 body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 300;
     background-color: #fdfdfd;
-}
+  }
 /* OH I THINK THE BODY BEING 70% + margin means if we put the nav in the body, it won't be able to take the whole thing.
 OOOOOOOH I GET IT!!
 So essentially, we can either have a nav that overrides the width and margin, or change body. Pog. See how karpathy did it.
@@ -24,7 +38,7 @@ Basically, class is for a whole section, id is a specific thing in that section 
 .text {
     margin: 60px auto; 
     /* That margin means top, bot is 60px, right, left are auto'd */
-    width: 50%;
+    width: 80%;
 }
 
 
@@ -34,33 +48,48 @@ Basically, class is for a whole section, id is a specific thing in that section 
 /* Site header - You could just have header but for some reason we're gonna make it a class .site-header */
 
 .site-header {
-    min-height: 55px;
     border-top: 5px solid #424242;
     border-bottom: 1px solid #e8e8e8;
     min-height: 56px;
-    color: #9d9d9d;
+    color: #424242;
 }
 /* .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; } */
 
-/* Title on the left, line_height is the position in the div */
-.site-title {display: block; font-size: 26px; font-weight: 300; line-height: 56px; letter-spacing: -1px; float: left; margin-bottom: 0px; z-index: 1; }
-.site-title, .site-title:visited { color: #424242; }
-
-/* This is the About, etc. Stuff on the right */
-.site-nav { float: right; line-height: 54px; }
-
-/* These 2 displays hide a checkbox and a burger thing (wtf, why are they there??) */
-.site-nav .nav-trigger { display: none; }
+.site-title,
+.site-title:hover,
+.site-title:visited {
+  display: block;
+  color: #333;
+  font-size: 26px;
+  letter-spacing: -1px;
+  float: left;
+  line-height: 56px;
+  position: relative;
+  z-index: 1;
+  color: #424242;
+}
+/* This is the About, etc. Stuff on the right - Site Nav */
+.site-nav { float: right; line-height: 56px; }
 .site-nav .menu-icon { display: none; }
-/* Color of about */
-.site-nav .page-link { color: #111; line-height: 1.5; }
+/* These 2 displays hide a checkbox and a burger thing (wtf, why are they there??) */
+.site-nav .nav-trigger {
+display: none;
+clear: both;
+margin-bottom: 5px;
+ }
+/* Color of links. */
+.site-nav .page-link{
+color: #665d5d;
+line-height: 1.5;
+font-weight: 500;
+font-size: 17px;
+padding: 10px;
+}
 
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -74,13 +103,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.6;
     color: #333;
+    margin-bottom: 20px
 }
 
 footer {
@@ -96,3 +126,148 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+/* Post styles */
+/* ----------------------------------------------------------*/
+
+.post-header { margin: 10px 0 30px; }
+
+.post-header h1 {
+  font-size: 36px;
+  letter-spacing: -1.75px;
+  line-height: 1;
+  font-weight: 300;
+}
+
+.post-header .meta {
+  font-size: 15px;
+  color: #818181;
+  margin-top: 5px;
+}
+
+.post-content { margin: 0 0 30px; }
+
+.post-content > * { margin: 20px 0; }
+
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  line-height: 1;
+  font-weight: 300;
+  margin: 40px 0 20px;
+}
+
+.post-content h2 {
+  font-size: 32px;
+  letter-spacing: -1.25px;
+}
+
+.post-content h3 {
+  font-size: 26px;
+  letter-spacing: -1px;
+}
+
+.post-content h4 {
+  font-size: 20px;
+  letter-spacing: -1px;
+}
+
+.post-content blockquote {
+  border-left: 4px solid #e8e8e8;
+  padding-left: 20px;
+  font-size: 18px;
+  opacity: .6;
+  letter-spacing: -1px;
+  font-style: italic;
+  margin: 30px 0;
+}
+
+.post-content ul,
+.post-content ol { padding-left: 20px; }
+
+.post pre,
+.post code {
+  border: 1px solid #d5d5e9;
+  background-color: #eef;
+  padding: 8px 12px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  font-size: 15px;
+  overflow:auto;
+}
+
+.post code { padding: 1px 5px; }
+
+.post ul,
+.post ol { margin-left: 1.35em; }
+
+.post pre code {
+  border: 0;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+
+/* Stuff below occurs only when screen is <=600px (so basically for phones) */
+@media screen and (max-width: 600px) {
+
+    .wrap { padding: 0 12px; }
+  
+    .site-nav {
+      position: fixed;
+      z-index: 10;
+      top: 14px; right: 8px;
+      background-color: white;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      border: 1px solid #e8e8e8;
+    }
+  
+    .site-nav .menu-icon {
+      display: block;
+      font-size: 24px;
+      color: #505050;
+      float: right;
+      width: 36px;
+      text-align: center;
+      line-height: 36px;
+    }
+  
+    .site-nav .menu-icon svg { width: 18px; height: 16px; }
+  
+    .site-nav .trigger {
+      clear: both;
+      margin-bottom: 5px;
+      display: none;
+    }
+  
+    .site-nav:hover .trigger { display: block; }
+  
+    .site-nav .page-link {
+      display: block;
+      text-align: right;
+      line-height: 1.25;
+      padding: 5px 10px;
+      margin: 0;
+    }
+  
+    .post-header h1 { font-size: 36px; }
+    .post-content h2 { font-size: 28px; }
+    .post-content h3 { font-size: 22px; }
+    .post-content h4 { font-size: 18px; }
+    .post-content blockquote { padding-left: 10px; }
+    .post-content ul,
+    .post-content ol { padding-left: 10px; }
+  
+    .site-footer .column {
+      float: none;
+      clear: both;
+      width: auto;
+      margin: 0 0 15px; }
+}
+  

@@ -1,10 +1,20 @@
 ---
 layout: default
+title: Anti's Site
 ---
 <div class="blurb">
 	<h1>Under maintenance</h1>
-	<div class='text'>
+	<ul class="posts">
+
+		{% for post in site.posts %}
+			<li>
+				<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			</li>	
+		{% endfor %}
+	</ul>
 		<p>I'm Antimatter, a guy. I do things sometimes. <a href="/about"> Some random text that links to /about</a></p>
-	</div>
+		<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+		<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+
 	
 </div><!-- /.blurb -->
