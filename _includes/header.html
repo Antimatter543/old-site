@@ -9,12 +9,15 @@
         <a class='site-title' href="{{ site.baseurl }}">{{ site.title}}</a>
     
         <nav class = 'site-nav'>
-            <ul>
-                <li><a class="page-link" href="/">Home</a></li>
-                <li><a class="page-link" href="/about">About</a></li>
-                <li><a class="page-link" href="/cv">CV</a></li>
-                <li><a class="page-link" href="/blog">Blog</a></li>
-            </ul>
+            
+            <a class="page-link" href="/"> Home</a>
+
+            {% for page in site.pages %}
+                {% if page.title and page.includelink %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                {% endif %}
+          {% endfor %}
+          <!-- add 'and page.includelink to the if statement if you want to hide some stuff.' -->
         </nav>
     </div>
 </header>

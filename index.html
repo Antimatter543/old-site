@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Anti's Site
+title: Site
+includelink: false
 ---
 <div class="blurb">
 	<h1>Under maintenance</h1>
@@ -9,6 +10,8 @@ title: Anti's Site
 		{% for post in site.posts %}
 			<li>
 				<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+				<br>
+				<!-- {{ post.excerpt }} -->
 			</li>	
 		{% endfor %}
 	</ul>

@@ -1,3 +1,5 @@
+/* Base */
+/*  */
 /* Removes browser default settings */
 * {
     margin: 0;
@@ -35,13 +37,31 @@ So essentially, we can either have a nav that overrides the width and margin, or
 If you want body to be normal, but have a section (i.e the text) be at 70% or whatever, just make a container class or something! 
 (by this i mean do #text or .text, see https://www.w3schools.com/css/css_selectors.asp
 Basically, class is for a whole section, id is a specific thing in that section (so we want to make a class) .text */
-.text {
-    margin: 60px auto; 
-    /* That margin means top, bot is 60px, right, left are auto'd */
-    width: 80%;
+
+a {
+  text-decoration: none;
+  color: #999;
+}
+a:hover {
+  text-decoration: underline;
 }
 
 
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #333;
+  margin-bottom: 20px
+}
+
+ul.posts { 
+  margin: 20px auto 40px; 
+  font-size: 1.5em;
+}
+
+ul.posts li {
+  list-style: none;
+}
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
@@ -68,16 +88,17 @@ Basically, class is for a whole section, id is a specific thing in that section 
   z-index: 1;
   color: #424242;
 }
-/* This is the About, etc. Stuff on the right - Site Nav */
+
+  /* This is the About, etc. Stuff on the right - Site Nav */
 .site-nav { float: right; line-height: 56px; }
 .site-nav .menu-icon { display: none; }
-/* These 2 displays hide a checkbox and a burger thing (wtf, why are they there??) */
+  /* These 2 displays hide a checkbox and a burger thing (wtf, why are they there??) */
 .site-nav .nav-trigger {
 display: none;
 clear: both;
 margin-bottom: 5px;
  }
-/* Color of links. */
+  /* Color of links. */
 .site-nav .page-link{
 color: #665d5d;
 line-height: 1.5;
@@ -95,37 +116,65 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.2em;
-    line-height: 1.6;
-    color: #333;
-    margin-bottom: 20px
+
+/* Site footer */
+
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 30px 0;
 }
 
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+.footer-heading {
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: -.5px;
+  margin-bottom: 15px;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+.site-footer .column { float: left; margin-bottom: 15px; }
+
+.footer-col-1 {
+  width: 270px; /*fallback*/
+  width: -webkit-calc(35% - 10px);
+  width: -moz-calc(35% - 10px);
+  width: -o-calc(35% - 10px);
+  width: calc(35% - 10px);
+  margin-right: 10px
+}
+.footer-col-2 {
+  width: 175px; /*fallback*/
+  width: -webkit-calc(23.125% - 10px);
+  width: -moz-calc(23.125% - 10px);
+  width: -o-calc(23.125% - 10px);
+  width: calc(23.125% - 10px);
+  margin-right: 10px
+}
+.footer-col-3 {
+  width: 335px; /*fallback*/
+  width: -webkit-calc(41.875%);
+  width: -moz-calc(41.875%);
+  width: -o-calc(41.875%);
+  width: calc(41.875%);
 }
 
-ul.posts li {
-    list-style: none;
+.site-footer ul { list-style: none; }
+
+.site-footer li,
+.site-footer p {
+  font-size: 15px;
+  letter-spacing: -.3px;
+  color: #828282;
 }
+
+.github-icon-svg,
+.twitter-icon-svg {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: 3px;
+}
+
 /* Post styles */
 /* ----------------------------------------------------------*/
 

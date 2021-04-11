@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Yo Mama
-permalink: /about
+title: About
+permalink: /about/
+includelink: true
 ---
 
 Hey, how's it going!
