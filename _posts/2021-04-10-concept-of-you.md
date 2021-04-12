@@ -3,7 +3,7 @@ layout: post
 title: "The Concept of You"
 date: 2021-04-07
 excerpt: 'yo this an excerpt1'
-
+includelink: false
 ---
 Will be edited and refined later on, I just wanted to actually put something here.
 Editor’s Note (19/11/20): This can also be viewed as perspective change, / changing perspectives. If you read the following below and aren’t thinking about perspective changing, then… Er… I’m not sure what you’re thinking about.

@@ -25,7 +25,7 @@ a:visited { color: #000000; }
 
 /* body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; } */
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 300;
@@ -48,7 +48,7 @@ a:hover {
 
 
 p {
-  font-size: 1.2em;
+  font-size: 1;
   line-height: 1.6;
   color: #333;
   margin-bottom: 20px
@@ -319,4 +319,17 @@ nav ul li, footer ul li {
       width: auto;
       margin: 0 0 15px; }
 }
+
+/* TESTING TESTING */
+.fuckyallhover {
+  visibility: hidden;
+  position: relative;
+  z-index: 1;
+  margin-left: -1em;
+  margin-top: -1em;
+  }
   
+  /* https://www.w3schools.com/css/css_tooltip.asp THIS IS WHAT WE WANT */
+  .textbitch:hover .fuckyallhover {
+  visibility: visible;
+  }
