@@ -17,7 +17,8 @@ a:visited { color: #000000; }
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 800px;
+  /* Change max width? */
+  max-width: 900px;
   padding: 0 30px;
   margin: 5px auto;
   zoom: 1;
@@ -333,3 +334,36 @@ nav ul li, footer ul li {
   .textbitch:hover .fuckyallhover {
   visibility: visible;
   }
+
+
+.project-items {
+  text-align: center
+}
+
+.project-page {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin: 20px;
+  display: inline-block;
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-size: 230px 230px;
+  opacity: 1;
+  position: relative;
+}
+.project-title {
+  font-size: 20px;
+  /* font-family: "Montserrat", sans-serif; */
+  font-weight: bold;
+  position: absolute;
+  right: 10px;
+  left: 10px;
+  top: 10px;
+  padding: 5px;
+  background-color: rgb(141, 131, 131);
+}
+
+#rps {
+  background-image: url(../assets/homeimg.jpg);
+}
