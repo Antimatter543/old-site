@@ -3,7 +3,6 @@ layout: post
 title: "Test post will delete later"
 date: 2021-04-10
 meta: 'Is this an excerpt or something? The hell is meta?'
-excerpt: 'yo this an excerpt2'
 includelink: true
 comments: true
 ---

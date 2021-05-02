@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Concept of You"
-date: 2021-04-07
-excerpt: 'yo this an excerpt1'
+date: 2021-04-10
+reviewed: 2021-04-10
 includelink: false
 ---
 Will be edited and refined later on, I just wanted to actually put something here.
