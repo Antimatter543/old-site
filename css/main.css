@@ -282,6 +282,23 @@ nav ul li, footer ul li {
   padding-left: 0;
 }
 
+/* Skills stuff */
+.skills {
+	list-style-type: none;
+}
+
+.skills ul { 
+margin: 20px auto 40px; 
+font-size: 1.1em;
+}
+
+.skills .padding li{
+	padding-bottom: 5px;
+}
+
+.skills .skillset {
+font-size: 25px;
+}
 
 /* Stuff below occurs only when screen is <=600px (so basically for phones) */
 @media screen and (max-width: 600px) {
