@@ -8,7 +8,9 @@ excerpt: 'A little analysis on my first ever hackathon. Hosted by Coder One as t
 ---
 
 
-{Intro + Background info, etc. Picture poggers!!}
-Bruh.
+<h1> {Intro + Background info, etc. Picture poggers!!} </h1>
+<h2> Games </h2>
+Bruh.{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}
+<p> {Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!} </p>
 
 https://docs.gocoder.one/ Documentation for the 2021 (May version) if you're keen to delve further.
