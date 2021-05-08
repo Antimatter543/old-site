@@ -5,6 +5,20 @@ date: 2021-04-10
 reviewed: 2021-04-10
 includelink: false
 ---
+<style>
+p {
+  text-align: justify;
+}
+.post pre, .post code {
+    border: none;
+    background-color: #eee;
+}
+</style>
+
+Just a little analysis on my first ever hackathon. Hosted by Coder One as their AI Sports Challenge 2021, it seemed like a fun starting point and I learnt <em>a lot </em> in this (especially around workflows and realistic team-based projects).
+(I just moved this excerpt looking thing from first-hackathon because I'm a horder and I didn't want to delete this for whatever reason.)
+<hr style="border:none; height:1px; background-color: #333;">
+<br>
 Will be edited and refined later on, I just wanted to actually put something here.
 Editor’s Note (19/11/20): This can also be viewed as perspective change, / changing perspectives. If you read the following below and aren’t thinking about perspective changing, then… Er… I’m not sure what you’re thinking about.
 
