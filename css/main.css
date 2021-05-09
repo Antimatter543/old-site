@@ -209,6 +209,7 @@ nav ul li, footer ul li {
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
+  text-align: center;
 }
 
 .post-header .meta {
@@ -391,6 +392,7 @@ font-size: 25px;
   background-size: 230px 230px;
   opacity: 1;
   position: relative;
+  cursor: pointer;
 }
 .project-title {
   font-size: 20px;
@@ -402,6 +404,7 @@ font-size: 25px;
   top: 10px;
   padding: 5px;
   background-color: rgb(141, 131, 131);
+  cursor: pointer;
 }
 
 #rps {

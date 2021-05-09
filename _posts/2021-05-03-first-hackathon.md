@@ -14,3 +14,6 @@ Bruh.{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, 
 <p> {Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!} </p>
 
 https://docs.gocoder.one/ Documentation for the 2021 (May version) if you're keen to delve further.
+
+
+Next time, I'm getting at least top 8 :).
