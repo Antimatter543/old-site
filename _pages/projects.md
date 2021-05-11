@@ -28,3 +28,7 @@ Currently doing Coder One Hackathon, Coursera Deep Learning Specialisation, QxQ 
     </div>
 
 </div>
+
+
+
+<!-- DO THIS https://github.com/jitinnair1/gradfolio/blob/master/_pages/projects.md -->

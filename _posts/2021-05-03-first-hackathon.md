@@ -2,15 +2,108 @@
 layout: post
 title: "Dungeons and Data Structures Hackathon Reflection"
 date: 2021-05-03
-reviewed: 2021-05-03
+reviewed: 2021-05-11
 includelink: true
 excerpt: 'A little analysis on my first ever hackathon. Hosted by Coder One as their AI Sports Challenge 2021, it seemed like a fun starting point and I learnt <em>a lot </em> in this (especially around workflows and realistic team-based projects).'
+comments: true
 ---
+<h3> Abstract (Spoilers) </h3>
+First hackathon I've done. Joined a team, learnt a bunch of stuff about workflows, git, branches and communicating with a team among other things. Skip to <em> The Game </em> if you're a boring nancy, and skip to <em> Results </em> if you're the most boring nancy. T'was a wild week.
+
+Here's our github repo: <a href="https://github.com/chrisrabe/ai-sports-2021"> AI sports 2021 </a>.
+
+<h2> Background Information </h2>
+<a href="https://www.gocoder.one/aisports"> Coderone </a> is a (recent) startup company who so far hosts AI competitions. In December 2020, they hosted their first hackathon - a bomberesque game where your bot vs' another bot and wins by having more points than the enemy or letting the enemy die.
+{GIF}
+
+Unfortunately, I wasn't there for that.
+Instead, the variation of the game when I joined (May 2021) was where your goal was to eliminate the enemy. Kill or be killed. This was my first ever hackathon, and there were people who already had previous experience from Coderone's other hackathon. Ready to kill my bot.
+
+Fun.
+
+{GIF OF DIE GAME}
+
+Anyways, I scouted out their previous game's repo and inspected the #1 agent's code (Jigglybluff). Safe to say I did not know what I was looking at (I think that'd be the case for most of the repos I looked at). In hindsight it looks like they wrote for a bunch of special cases (i.e spam if statements), which works well when you have good knowledge of the game. A few days before the <b> kill </b> version started, they set up a #LFT (Looking For Team) chat. 
+I was planning on going solo, but yolo. Maybe a team would be good? (Spoilers: yes.) 
+
+After writing a quick self intro, someone we shall call Silent asked if I wanted to join their team. I asked a few questions, then joined. There were already 2 other people in the team. I was going to talk about them straight up, but there's some terminology there so it's better if I explain the game first.
+
+<h3> The Game </h3>
+{ANOTHER GIF OF THE GAME}
+
+Here's the <a href ='https://docs.gocoder.one/'> game docs </a> for this version of the game if you're keen to delve further. As said before, it's a 1v1 kill or be killed situation. The game is a 9x9 map where players spawn with <code> 3 (initial ammo, hp, player diameter) </code> at a set position. Maps are symmetrical and pickups (ammo, powerups) spawn at random tiles every once in a while. You damage the enemy with bombs (more specifically, the 'blast' entities it shoots out). A powerup increases the player diameter by 1, so the length of the blast zone that explodes from the bomb is  <code> player_diameter //  2 </code>.
+
+Also, there's <b> fire </b> that starts spreading at 1800 ticks, and encircles the map until everything has a fire (technically a 'blast' with no expiry date) object on it.
+You can destroy the wood tiles with bombs, but the shiny stuff is immortal.
+
+<h4> Tournament Rules </h4>
+There's qualifiers, which is a round-robin tournaments. Here's the resulting W/L list.
+{Resulting W/L list for qualifiers}
+
+The bot we submitted was the algo-bot instead of vm bot (we'll talk about that later).
+
+For playoffs - I didn't know they'd do this - but all the top 16 bots from qualifiers already played vs each other, and I think only the top 4? or top 8? were featured on stream. Sad! Definitely did not tell my english teacher about the stream (oops).
+
+ 
+
+Previously they used python but this time they decided to use a thing called <a href='https://www.docker.com/'> Docker </a> (something about letting other programming languages submit their bots as long as it runs in Docker - linux container or something). All I'm saying is I'm very grateful that I joined a team because to someone who's never used this type of thing before, what the <em> hell </em> is a Docker image?
+
+Let's go meet the team!
+
+<h3> The Team </h3>
+<p>Silent - Software engineer guy, participated last time. Very pog. </p>
+<p> Anti - Me guy, it's me! </p>
+Waz - Data science guy, participated last time. Very nice.
+
+Gaurav - High school student 2 cores guy, participated last time. Very nice.
+<s> 
+Alex - Consists of 2 people (5th members) who didn't do anything so they essentially left after a few 
+days joining. Basically, the guys that joined & quit. Alex is the term used for this. 
+</s>
+
+<h4> The team but more </h4>
+
+<b> Silent </b> was essentially the team leader. Once the game started (or close to it), he shared the private repo we would be committing in for the duration of the hackathon.
+The codebase he set up abstracted away the weird Docker stuff so our team could just focus on actually coding the bot instead of worrying about the infrastructure. He drew diagrams explaining the structure of the project as well as set up a discord server for the team, having chats for strategies, replays, todos, bug-fixes, etc (team decision).
+Dude is also crazy good at finding bugs in code. We had meetings about once every day @ ~8PM, just to see where everyone is, and what the next few goals/long term goals are. Very pog.
+
+Personally, I think the code <em> may </em> have been a bit over-organised for my own taste (in the latter half of the project anyways), but it was still definitely useful & workable. Highly-highly organised environments are not my thing (my room will vouch for this; only I know where everything belongs in this domain).
+
+<b> Anti </b>- My main role was the brain decision guy, as well as the originator of the algo-bot (or atleast the continuer of it once the team began focusing on a bot that used value-map). For instance, in the repo, I'm the one that made basic_avoid and the properties of enemy_immediate_trapped and enemy_onestep_trapped among others. Onestep trap is a very useful concept, which I'll probably use and expand on in later tournaments. Obviously, bugs came and bugs died. I probably spend around ~4-7 hours / day for a week working on the bot, and that's not including the time I wasn't at my PC. I slept thinking about it, and woke up thinking about it.
+
+The main reason why I voted to do the algo-bot (even when the valuemap bot was better at this point) was to get a feel for how pre-RL solutions worked - the nitty gritty, pure coded algorithms that told the bot what to do when to do it. 
+That way, once I eventually do create an RL solution, I can appreciate the ?elegancy? of it much more. Let's just say there was *a lot* of working memory and debugging required to properly write those algorithms. Not to mention, an RL bot can greatly exceed the level of human-capable coding & understanding of the game if done right (and if the game is complex enough such that humans can't figure out an optimal strategy without RL).
 
 
-<h1> {Intro + Background info, etc. Picture poggers!!} </h1>
-<h2> Games </h2>
-Bruh.{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}
-<p> {Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!}{Intro + Background info, etc. Picture poggers!!} </p>
+<b> Waz </b> - He mainly worked on the value-map bot, and experimenting with creating better versions of how the value map operated - setting rewards, using different discount rates & the method of propagation, etc. I didn't get to see what he was doing too much because I was too busy with algo-bot, but Silent & Waz were the ones that worked on vm-bot the most.
 
-https://docs.gocoder.one/ Documentation for the 2021 (May version) if you're keen to delve further.
+<b> Gaurav </b> - Gaurav did what he did. He worked on the pickup and block destroy, and probably some other things that I'm not aware about. (I don't know about my team, but I <em> really </em> didn't want to work on pickup or block destroy for some reason, so this guy basically took the L for me. Pog. I think Silent helped a bit with those too.)
+
+
+<h3> Our Bot / Results </h3>
+
+Here's the github repository again. Talking about the bot(s) first, then the results.
+
+<h4> Bot </h4>
+From our in-house scrims, the vm-bot consistently the algo-bot one it had the 'retreat' strategy, which was essentially a valuemap version of the basic avoid strat.
+However, when our local 2 core Gaurav ran the image, the vm bot was glitching out (and the algo-bot, but less so). Turns out that the vm bot was returning & executing strategies too late -- it was too slow. Now, we didn't find this until the day we had to submit for playoffs, so we quickly had to submit the algo-bot which I had diligently been working on, just watching it *lose and lose and lose* to vm-bot. Luckily, I had manage to create an immediate_enemy_trapped property (added it to the gamestate), and along with some last minute bugfixes with the team, algobot made it through qualifiers. Turns out working on algo-bot was useful after all.
+
+
+Even then, there were clear optimisations that we could make in terms of speed, so Silent began timing and setting benchmarks for each strategy, execution, etc. After enhancing the functionality of algo-bot to be a better killer, have some rudimentary zoning mechanism, better avoidance of hazards, etc. we submitted that one as our final bot.
+
+<h4> Results </h4>
+
+TL;dr - Made it through qualifiers, lost in playoffs.
+{results}
+To be honest, it was oofed when our bot didn't even make it to semi-finals but 🤷. Not bad for a first time. At least we beat some teams, and actually looking back at the replays, our bot fared quite well.
+{Show the .csv file}.
+
+It consistently managed to bring *Bruh* (which was the team we lost to in qualifiers) to the 2100 tick stage -- so our bot was actually decent early-mid game, but in the end, we didn't work enough on the fire & emphasis on the centre of the map. Which makes sense; we only started focusing on fire at the final few days of the hackathon.
+
+
+{What I learnt}
+Conclusions
+{What an interesting experience!}
+
+Next time, I'm most likely going to heavily invest in an RL bot and *potentially* play solo, just to see how different that is for a change. Trying new things is always beneficial for learning.
+Next time, I'm getting at least top 8 :).
