@@ -5,7 +5,8 @@ title: Archive
 includelink: true
 ---
 
-<div>
+<div class='post'>
+	<div class='post-content'>
 	{% for post in site.posts %}
 	{% unless post.next %}
 	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
@@ -18,4 +19,5 @@ includelink: true
 	{% endunless %}
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
 	{% endfor %}
+	</div>
 </div>
