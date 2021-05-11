@@ -296,6 +296,21 @@ text-decoration: underline;
   padding-left: 0;
 }
 
+.post img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
+.post iframe { 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	height: 400px;
+  }
+
 /* Skills stuff */
 .skills {
 	list-style-type: none;
@@ -313,6 +328,7 @@ font-size: 1.1em;
 .skills .skillset {
 font-size: 25px;
 }
+
 
 /* Stuff below occurs only when screen is <=600px (so basically for phones) */
 @media screen and (max-width: 600px) {
@@ -422,5 +438,5 @@ font-size: 25px;
   background-image: url(../assets/homeimg.jpg);
 }
 #coderone {
-	background-image: url(../assets/coderonelogo.png);
+	background-image: url(../assets/coderone/coderonelogo.png);
   }
