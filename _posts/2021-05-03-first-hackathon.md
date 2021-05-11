@@ -11,11 +11,14 @@ comments: true
 First hackathon I've done. Joined a team, learnt a bunch of stuff about workflows, git, branches and communicating with a team among other things. Skip to <em> The Game </em> if you're a boring nancy, and skip to <em> Results </em> if you're the most boring nancy. T'was a wild week.
 
 Here's our github repo: <a href="https://github.com/chrisrabe/ai-sports-2021"> AI sports 2021 </a>.
+
 Silent (team leader) also made his own reflection type thing: <a href="https://docs.google.com/document/d/1ozkP3XgFPLWy1wzUtgNeFF_y5ijLSH4Aw17bPBEn7fM/"> Here it is. </a> See May 1st Logs for my definitely not cherrypicked praise hehe.
 
 <h2> Background Information </h2>
 <a href="https://www.gocoder.one/aisports"> Coderone </a> is a (recent) startup company who so far hosts AI competitions. In December 2020, they hosted their first hackathon - a bomberesque game where your bot vs' another bot and wins by having more points than the enemy or letting the enemy die.
-{GIF}
+
+<img src="/assets/coderone/oldgame.gif" alt="Gif of the old game">
+<small> Gif of the old game. </small>
 
 Unfortunately, I wasn't there for that.
 Instead, the variation of the game when I joined (May 2021) was where your goal was to eliminate the enemy. Kill or be killed. This was my first ever hackathon, and there were people who already had previous experience from Coderone's other hackathon. Ready to kill my bot.
@@ -23,6 +26,7 @@ Instead, the variation of the game when I joined (May 2021) was where your goal 
 Fun.
 
 <img src="/assets/coderone/game.gif" alt="Gif of the game. Not yoinked from Valgrowth's article.">
+<small> Gif of the new game. Kill or be killed. </small>
 
 Anyways, I scouted out their previous game's repo and inspected the #1 agent's code (Jigglybluff). Safe to say I did not know what I was looking at (I think that'd be the case for most of the repos I looked at). In hindsight it looks like they wrote for a bunch of special cases (i.e spam if statements), which works well when you have good knowledge of the game. A few days before the <b> kill </b> version started, they set up a #LFT (Looking For Team) chat. 
 I was planning on going solo, but yolo. Maybe a team would be good? (Spoilers: yes.) 
@@ -30,7 +34,6 @@ I was planning on going solo, but yolo. Maybe a team would be good? (Spoilers: y
 After writing a quick self intro, someone we shall call Silent asked if I wanted to join their team. I asked a few questions, then joined. There were already 2 other people in the team. I was going to talk about them straight up, but there's some terminology there so it's better if I explain the game first.
 
 <h3> The Game </h3>
-{ANOTHER GIF OF THE GAME}
 
 Here's the <a href ='https://docs.gocoder.one/'> game docs </a> for this version of the game if you're keen to delve further. As said before, it's a 1v1 kill or be killed situation. The game is a 9x9 map where players spawn with <code> 3 (initial ammo, hp, player diameter) </code> at a set position. Maps are symmetrical and pickups (ammo, powerups) spawn at random tiles every once in a while. You damage the enemy with bombs (more specifically, the 'blast' entities it shoots out). A powerup increases the player diameter by 1, so the length of the blast zone that explodes from the bomb is  <code> player_diameter //  2 </code>.
 
