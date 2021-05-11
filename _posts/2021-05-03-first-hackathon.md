@@ -38,9 +38,7 @@ Also, there's <b> fire </b> that starts spreading at 1800 ticks, and encircles t
 You can destroy the wood tiles with bombs, but the shiny stuff is immortal.
 
 <h4> Tournament Rules </h4>
-There's qualifiers, which is a round-robin tournaments. Here's the resulting W/L list.
-{Resulting W/L list for qualifiers}
-
+There's qualifiers, which is a round-robin tournaments. Results in... Results.
 The bot we submitted was the algo-bot instead of vm bot (we'll talk about that later).
 
 For playoffs - I didn't know they'd do this - but all the top 16 bots from qualifiers already played vs each other, and I think only the top 4? or top 8? were featured on stream. Sad! Definitely did not tell my english teacher about the stream (oops).
@@ -49,7 +47,7 @@ For playoffs - I didn't know they'd do this - but all the top 16 bots from quali
 
 Previously they used python but this time they decided to use a thing called <a href='https://www.docker.com/'> Docker </a> (something about letting other programming languages submit their bots as long as it runs in Docker - linux container or something). All I'm saying is I'm very grateful that I joined a team because to someone who's never used this type of thing before, what the <em> hell </em> is a Docker image?
 
-Let's go meet the team!
+Anyways, let's go meet the team!
 
 <h3> The Team </h3>
 <p>Silent - Software engineer guy, participated last time. Very pog. </p>
@@ -124,7 +122,7 @@ Due to computation resource issues, we switched from vm-bot to algo-bot before Q
 
 This was definitely a fun experience, and I'll 100% do it again. The sheer amount I learnt from my team alone made this worthwhile even if we hadn't gone through qualifiers.
 
-Next time, I'm most likely going to heavily invest in an RL bot and *potentially* play solo, just to see how different that is for a change. Trying new things is always beneficial for learning. And also, I'd like to see how much I was relying on my team here. I know they definitely helped out a **lot**, but I think going solo will have its own host of challenges and force me to either rise to the occassion / fail miserably. Both are fine; you learn either way.
+Next time, I'm most likely going to heavily invest in an RL bot and *potentially* play solo, just to see how different that is for a change. Trying new things is always beneficial for learning. And also, I'd like to see how much I was relying on my team here. I know they definitely helped out a **lot**, but I think going solo will have its own host of challenges and force me to either rise to the occasion / fail miserably. Both are fine; you learn either way.
 
 
 Next time, I'm getting at least top 8 :).
@@ -135,5 +133,8 @@ Cya!
 <br>
 <br>
 <br>
-Bonus: A video of me playing trying to beat the bot.
-{me vs bot replay}
+Bonus: A video of me playing trying to beat the bot. I tried 5 different times to get a good video, but messed up 5 different ways. Got onestepped in one, but this one was just... Pitiful for me. Oof. Decided to cut my losses and just upload it.
+<iframe src="https://www.youtube.com/embed/XJo87YbiHUo"> </iframe>
+
+As of now, this is the site you go on to vs enemies when you're using the docker image https://app.gocoder.one/game.
+If you have a replay json file, you can shove it in https://app.gocoder.one/replays.
