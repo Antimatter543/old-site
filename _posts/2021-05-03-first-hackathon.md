@@ -67,7 +67,9 @@ days joining. Basically, the guys that joined & quit. Alex is the term used for 
 The codebase he set up abstracted away the weird Docker stuff so our team could just focus on actually coding the bot instead of worrying about the infrastructure. He drew diagrams explaining the structure of the project as well as set up a discord server for the team, having chats for strategies, replays, todos, bug-fixes, etc (team decision).
 Dude is also crazy good at finding bugs in code. We had meetings about once every day @ ~8PM, just to see where everyone is, and what the next few goals/long term goals are. Very pog.
 
-Personally, I think the code <em> may </em> have been a bit over-organised for my own taste (in the latter half of the project anyways), but it was still definitely useful & workable. Highly-highly organised environments are not my thing (my room will vouch for this; only I know where everything belongs in this domain).
+He also showed us how to use git (more than the very basic stuff), and set up a develop branch that we branch AGAIN to add features. Showed how to pull, merge, push, compare to prevent any conflicts. Very epic.
+
+As a side note, the code <em> may </em> have been a bit over-organised for my own taste (in the latter half of the project anyways), but it was still definitely useful & workable. Highly-highly organised environments are not my thing (my room will vouch for this; only I know where everything belongs in this domain).
 
 <b> Anti </b>- My main role was the brain decision guy, as well as the originator of the algo-bot (or atleast the continuer of it once the team began focusing on a bot that used value-map). For instance, in the repo, I'm the one that made basic_avoid and the properties of enemy_immediate_trapped and enemy_onestep_trapped among others. Onestep trap is a very useful concept, which I'll probably use and expand on in later tournaments. Obviously, bugs came and bugs died. I probably spend around ~4-7 hours / day for a week working on the bot, and that's not including the time I wasn't at my PC. I slept thinking about it, and woke up thinking about it.
 
@@ -101,9 +103,15 @@ To be honest, it was oofed when our bot didn't even make it to semi-finals but ð
 It consistently managed to bring *Bruh* (which was the team we lost to in qualifiers) to the 2100 tick stage -- so our bot was actually decent early-mid game, but in the end, we didn't work enough on the fire & emphasis on the centre of the map. Which makes sense; we only started focusing on fire at the final few days of the hackathon.
 
 
-{What I learnt}
-Conclusions
+
+<h3> Conclusion </h3>
+Due to computation resource issues, we switched from vm-bot to algo-bot before Qualifiers, which luckily wasn't that much worse than our vm-bot since I had kept on working on it. Then, we continued upgrading the bot, adding in better pathfinding + hazard avoidance as well as better killable detection (+ a tiny amount of fire-zone code) before handing it in to playoffs. Still lost, but we held our ground in the battles, consistently making it to endgames of 1800-2100 ticks before eventually dying out.
+
+This was definitely a fun experience, and I'll 100% do it again. The sheer amount I learnt from my team alone made this worthwhile even if we hadn't gone through qualifiers.
 {What an interesting experience!}
 
 Next time, I'm most likely going to heavily invest in an RL bot and *potentially* play solo, just to see how different that is for a change. Trying new things is always beneficial for learning.
 Next time, I'm getting at least top 8 :).
+
+Bonus: A video of me playing trying to beat the bot.
+{me vs bot replay}
