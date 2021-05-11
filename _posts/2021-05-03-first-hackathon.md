@@ -117,8 +117,9 @@ Thanks to OtherBarry (Team Bruh) for providing a quick script that pulls the inf
 
 It consistently managed to bring *Bruh* (which was the team we lost to in qualifiers) to the 2100 tick stage -- so our bot was actually decent early-mid game, but in the end, we didn't work enough on the fire & emphasis on the centre of the map. Which makes sense; we only started focusing on fire at the final few days of the hackathon. 
 
+If I were to give any suggestions to the Coder One peeps, it's Docker. There has been expressed confusion about Docker from multiple people. Thankfully I didn't have to suffer as much since it was abstracted away but yeah. Luckily, I think they're already working on a better solution, so that's cool! Depending on the time of game, perhaps the hackathon duration could also be extended. This wouldn't be so much a direct improvement as much as a change, but it might be a welcome feature for those that don't have a lot of free time/day on their hands. Also the bots should theoretically become more complex (and hopefully fun to watch!) - unless there's an obvious stale meta but that's a different story.
 
-
+Overall, good work Coder One people!
 
 <h3> Conclusion </h3>
 Due to computation resource issues, we switched from vm-bot to algo-bot before Qualifiers, which luckily wasn't that much worse than our vm-bot since I had kept on working on it. Then, we continued upgrading the bot, adding in better pathfinding + hazard avoidance as well as better killable detection (+ a tiny amount of fire-zone code) before handing it in to playoffs. Still lost, but we held our ground in the battles, consistently making it to endgames of 1800-2100 ticks before eventually dying out.
