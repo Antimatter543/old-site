@@ -2,13 +2,13 @@
 layout: post
 title: "Dungeons and Data Structures Hackathon Reflection"
 date: 2021-05-03
-reviewed: 2021-05-11
+reviewed: 2021-05-12
 includelink: true
 excerpt: 'A little analysis on my first ever hackathon. Hosted by Coder One as their AI Sports Challenge 2021, it seemed like a fun starting point and I learnt <em>a lot </em> in this (especially around workflows and realistic team-based projects).'
 comments: true
 ---
 <h3> Abstract (Spoilers) </h3>
-First hackathon I've done. Joined a team, learnt a bunch of stuff about workflows, git, branches and communicating with a team among other things. Skip to <em> The Game </em> if you're a boring nancy, and skip to <em> Results </em> if you're the most boring nancy. T'was a wild week.
+First hackathon I've done. Joined a team, learnt a bunch of stuff about workflows, git, branches and communicating with a team among other things. Skip to <em> The Game </em> if you're a boring nancy, and skip to <em> Results </em> if you're the most boring nancy. T'was a wild week. Team name: Totoro.
 
 Here's our github repo: <a href="https://github.com/chrisrabe/ai-sports-2021"> AI sports 2021 </a>.
 
@@ -28,7 +28,11 @@ Fun.
 <img src="/assets/coderone/game.gif" alt="Gif of the game. Not yoinked from Valgrowth's article.">
 <small> Gif of the new game. Kill or be killed. </small>
 
-Anyways, I scouted out their previous game's repo and inspected the #1 agent's code (Jigglybluff). Safe to say I did not know what I was looking at (I think that'd be the case for most of the repos I looked at). In hindsight it looks like they wrote for a bunch of special cases (i.e spam if statements), which works well when you have good knowledge of the game. A few days before the <b> kill </b> version started, they set up a #LFT (Looking For Team) chat. 
+Anyways, I scouted out their previous game's repo and inspected the #1 agent's code (Jigglybluff). Safe to say I did not know what I was looking at (I think that'd be the case for most of the repos I looked at). In hindsight it looks like they wrote for a bunch of special cases (i.e spam if statements), which works well when you have good knowledge of the game. Edit: The MadMan himself actually commented on this. Essentially, the if statements were placed in a hierarchy such that the least-expensive scenarios (conditions) were placed first, so that if the condition is True, the next action/strategy is returned. This means that the most expensive functions will be ran only once all the less-expensive cases are shown to be False, thus leading to time efficiency.
+Coincidentally, this is also what our team did in the algo-bot's brain when we were optimising our bot with respect to time. Huh!
+
+
+A few days before the <b> kill </b> version started, they set up a #LFT (Looking For Team) chat. 
 I was planning on going solo, but yolo. Maybe a team would be good? (Spoilers: yes.) 
 
 After writing a quick self intro, someone we shall call Silent asked if I wanted to join their team. I asked a few questions, then joined. There were already 2 other people in the team. I was going to talk about them straight up, but there's some terminology there so it's better if I explain the game first.
@@ -88,22 +92,22 @@ That way, once I eventually do create an RL solution, I can appreciate the ?eleg
 
 <h3> Our Bot / Results </h3>
 
-Here's the github repository again. Talking about the bot(s) first, then the results.
+Here's the github repository again. Talking about the bot(s) first, then the results. Our team name was Totoro (and for fun, our final submission was 'Spicy Totoro'. Don't ask me why, I have no clue.)
 
 <h4> Bot </h4>
 From our in-house scrims, the vm-bot consistently the algo-bot one it had the 'retreat' strategy, which was essentially a valuemap version of the basic avoid strat.
-However, when our local 2 core Gaurav ran the image, the vm bot was glitching out (and the algo-bot, but less so). Turns out that the vm bot was returning & executing strategies too late -- it was too slow. Now, we didn't find this until the day we had to submit for playoffs, so we quickly had to submit the algo-bot which I had diligently been working on, just watching it *lose and lose and lose* to vm-bot. Luckily, I had manage to create an immediate_enemy_trapped property (added it to the gamestate), and along with some last minute bugfixes with the team, algobot made it through qualifiers. Turns out working on algo-bot was useful after all.
+However, when our local 2 core Gaurav ran the image, the vm bot was glitching out (and the algo-bot, but less so). Turns out that the vm bot was returning & executing strategies too late -- it was too slow. Now, we didn't find this until the day we had to submit for playoffs, so we quickly had to submit the algo-bot which I had diligently been working on, just watching it *lose and lose and lose* to vm-bot. Luckily, I had just created an immediate_enemy_trapped property (added it to the gamestate), and along with some last minute bugfixes with the team, algobot made it through qualifiers. Turns out working on algo-bot was useful after all.
 
 <iframe src="https://www.youtube.com/embed/gwcoWbcj13s"> </iframe>
 <small> A later version of algo-bot vs aggro bot. These are both post-qualifiers, and aggro bot is well... A more aggro version of algo bot. Algo bot was submitted. Clean onestep kill by algo-bot at the end (that's my baby!) </small>
 
-Even then, there were clear optimisations that we could make in terms of speed, so Silent began timing and setting benchmarks for each strategy, execution, etc. After enhancing the functionality of algo-bot to be a better killer, have some rudimentary zoning mechanism, better avoidance of hazards, etc. we submitted that one as our final bot.
+Even then, there were clear optimisations that we could make in terms of speed, so Silent began timing and setting benchmarks for each strategy, execution, etc. After the team enhanced the functionality of algo-bot to be a better killer, have some rudimentary zoning mechanism, better avoidance of hazards, etc. we submitted that one as our final bot.
 
 **<a href="https://docs.google.com/document/d/1ozkP3XgFPLWy1wzUtgNeFF_y5ijLSH4Aw17bPBEn7fM/edit#"> Here's Silent's reflection that he somehow already made. </a>**
 
 <h4> Results </h4>
 
-TL;dr - Made it through qualifiers, lost in playoffs. 
+TL;dr - Made it through qualifiers (came 13th), lost in playoffs. 
 
 <img src="/assets/coderone/coderoneRankingsMay2021.png"  height='500' alt="Results for the qualifiers rounds. Not the greatest, not the worst.">
 
@@ -120,6 +124,7 @@ It consistently managed to bring *Bruh* (which was the team we lost to in qualif
 If I were to give any suggestions to the Coder One peeps, it's Docker. There has been expressed confusion about Docker from multiple people. Thankfully I didn't have to suffer as much since it was abstracted away but yeah. Luckily, I think they're already working on a better solution, so that's cool! Depending on the time of game, perhaps the hackathon duration could also be extended. This wouldn't be so much a direct improvement as much as a change, but it might be a welcome feature for those that don't have a lot of free time/day on their hands. Also the bots should theoretically become more complex (and hopefully fun to watch!) - unless there's an obvious stale meta but that's a different story.
 
 Overall, good work Coder One people!
+Shoutout to Valgrowth's comeback vs Wigglyblob (the team of Jigglybluff) in the grand finals. Wild games. Quite unfortunate for Wiggly, bit it is what it is.
 
 <h3> Conclusion </h3>
 Due to computation resource issues, we switched from vm-bot to algo-bot before Qualifiers, which luckily wasn't that much worse than our vm-bot since I had kept on working on it. Then, we continued upgrading the bot, adding in better pathfinding + hazard avoidance as well as better killable detection (+ a tiny amount of fire-zone code) before handing it in to playoffs. Still lost, but we held our ground in the battles, consistently making it to endgames of 1800-2100 ticks before eventually dying out.
@@ -137,8 +142,11 @@ Cya!
 <br>
 <br>
 <br>
-Bonus: A video of me playing trying to beat the bot. I tried 5 different times to get a good video, but messed up 5 different ways. Got onestepped in one, but this one was just... Pitiful for me. Oof. Decided to cut my losses and just upload it.
 <iframe src="https://www.youtube.com/embed/XJo87YbiHUo"> </iframe>
+<small>
+Bonus: A video of me playing trying to beat the bot. I tried 5 different times to get a good video, but messed up 5 different ways. Got onestepped in one, but this one was just... Pitiful for me. Oof. Decided to cut my losses and just upload it. </small>
 
+<small>
 As of now, this is the site you go on to vs enemies when you're using the docker image https://app.gocoder.one/game.
 If you have a replay json file, you can shove it in https://app.gocoder.one/replays.
+</small>

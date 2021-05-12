@@ -1,25 +1,55 @@
 ---
-layout: default
-title: Site
+layout: page
+title: Home Page
 includelink: false
 ---
-<div class="blurb">
-	<h1>Under maintenance</h1>
-	<ul class="posts">
+<h1> UNDER MAINTENANCE! </h1>
 
-		{% for post in site.posts %}
-			<li>
-				{% if post.includelink %}
-				<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-				<br>
-				<!-- {{ post.excerpt }} -->
-				{% endif %}	
-			</li>	
-		{% endfor %}
-	</ul>
-		<p>I'm Antimatter, a guy. I do things sometimes. <a href="/about"> Some random text that links to /about</a></p>
-		<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-		<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<h1> Quick About </h1>
 
-	
-</div><!-- /.blurb -->
+Home page: Mini-summary of the entire site, I guess. 
+<p>I'm Antimatter, a guy. I do things sometimes. <a href="/about"> Some random text that links to /about</a></p>
+I enjoy a lot of things, and have recently (2019 onwards) rekindled my passion for reading. 
+
+
+{Get rid of about.md and just put stuff here instead? }
+<br>
+<br>
+<br>
+<h1> Favourite Projects </h1>
+{Well.. Probably my only projects right now would be my favourite projects}
+
+<br>
+<br>
+<br>
+
+<h1>Blog</h1>
+This website was created around February 2021, and is continually updated as I... update it.
+However, you'll notice that some of the blog posts are pre-2021. This is just because that's the date when I had originally explored the concept. 
+If you click on the article, the most recent date where it's been reviewed will show (which is when it was published here).
+
+<ul class="posts">
+    {% for post in site.posts %}
+        <li>
+            {% if post.includelink %}
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <br>
+                {% if post.excerpt %}
+                <p> {{ post.excerpt }} </p>
+                {% endif %}
+            {% endif %}
+        </li>	
+    {% endfor %}
+</ul>
+
+<span class='page-divider'> 
+    <span class='one'></span>
+    <span class='two'></span>
+</span>
+
+This site has been <em> creatively inspired </em> by many other websites (>7), but I'll name the first few that have been inspired from the most:
+karpathy.github.io
+https://www.christopherlovell.co.uk/
+Jekyll Minima 
+https://github.com/hankquinlan/hankquinlan.github.io/
+{That other thing for the projects page} 
