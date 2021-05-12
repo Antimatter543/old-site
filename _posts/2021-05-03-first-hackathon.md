@@ -28,8 +28,8 @@ Fun.
 <img src="/assets/coderone/game.gif" alt="Gif of the game. Not yoinked from Valgrowth's article.">
 <small> Gif of the new game. Kill or be killed. </small>
 
-Anyways, I scouted out their previous game's repo and inspected the #1 agent's code (Jigglybluff). Safe to say I did not know what I was looking at (I think that'd be the case for most of the repos I looked at). In hindsight it looks like they wrote for a bunch of special cases (i.e spam if statements), which works well when you have good knowledge of the game. Edit: The MadMan himself actually commented on this. Essentially, the if statements were placed in a hierarchy such that the least-expensive scenarios (conditions) were placed first, so that if the condition is True, the next action/strategy is returned. This means that the most expensive functions will be ran only once all the less-expensive cases are shown to be False, thus leading to time efficiency.
-Coincidentally, this is also what our team did in the algo-bot's brain when we were optimising our bot with respect to time. Huh!
+Anyways, I scouted out their previous game's repo and inspected the #1 agent's code (Jigglybluff). Safe to say I did not know what I was looking at (I think that'd be the case for most of the repos I looked at). In hindsight it looks like they wrote for a bunch of special cases (i.e spam if statements), which works well when you have good knowledge of the game. Edit: The MadMan himself actually commented on this. The if statements were essentially a strategy hierarchy, which allowed only required information to be executed instead of every possible function needed over the entire bot. In other words, if we could kill an enemy, there's no reason to calculate anything (including the pathfinding, etc.) involved in executing a pickup strategy. Ultimately, this leads to increased efficiency (since you basically made the 'worst case' of your current bot the 'normal case' of your previous bot (w.r.t computation resources)).
+Coincidentally, our team also did something similar to this when we were optimising our bot with respect to time. Huh! More info in *Our Bot*.
 
 
 A few days before the <b> kill </b> version started, they set up a #LFT (Looking For Team) chat. 
@@ -102,6 +102,13 @@ However, when our local 2 core Gaurav ran the image, the vm bot was glitching ou
 <small> A later version of algo-bot vs aggro bot. These are both post-qualifiers, and aggro bot is well... A more aggro version of algo bot. Algo bot was submitted. Clean onestep kill by algo-bot at the end (that's my baby!) </small>
 
 Even then, there were clear optimisations that we could make in terms of speed, so Silent began timing and setting benchmarks for each strategy, execution, etc. After the team enhanced the functionality of algo-bot to be a better killer, have some rudimentary zoning mechanism, better avoidance of hazards, etc. we submitted that one as our final bot.
+
+Another thing was that we first placed all the custom trackers created (which appended new properties onto the game_state) into a finals_tracker. Here's the thing: some of the properties were pretty expensive to calculate (such as articulation points), and this would be executed every tick regardless of whether or not we needed it for our decision making algo-bot's brain.
+
+Silent noticed this, and the 5head he is, decided to split the tracker updates based on which strategy needs them. For instance, we'd only update the necessary tools for pickup if all the previous conditions have failed, and we now needed the pickup info to decide on whether or not to bother picking anything up. Essentially, we just update the required parts for whatever strategy is ahead.
+Might've worded it a bit odd, so here's the brain code.
+
+<img src="/assets/coderone/brainsnippet.png">
 
 **<a href="https://docs.google.com/document/d/1ozkP3XgFPLWy1wzUtgNeFF_y5ijLSH4Aw17bPBEn7fM/edit#"> Here's Silent's reflection that he somehow already made. </a>**
 
