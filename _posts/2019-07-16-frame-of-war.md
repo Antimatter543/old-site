@@ -17,13 +17,17 @@ And thus, Frame of War was made (I might've been playing a lot of Warframe at th
 
 It's the first game I've ever made, and it's also annoying to beat. Below is a video of me completing it. Skip to X if you want to get to the good part.
 
+For an extra challenge, I decided to beat the game without any lasers. Even though the (spoilers) boss has some anti-laser mechanisms so you can't spam lasers to kill it (to a certain degree), the masochist in me decided "Hey, this game isn't hard enough. Let's beat it without this feature that I spent time adding in!". So that's what I did.
+
 {video}
 
 The first 2 levels are meant to be easy - to pull you off your guard. The 3rd level is also simple as long as you stay in the center; if you don't, you're going to meet hell. It looked obvious to me, but the people who played always moved away and er... Having 3 big aliens on your screen is not the best idea.
 
-This took me X attempts to get a video; and I'm the only person that has beaten this so far. Even though the timings and abilities were coded *by me*, the final boss is still difficult. {I made the level music from OpenAI's music AI. Boss music from Fatima, etc.}
+This took me X attempts to get a video; and I'm the only person that has beaten this so far. Even though the timings and abilities were coded *by me*, the final boss is still difficult. 
+I made the level music from Musenet (OpenAI's music agent). 
+Boss music from Fatima (Stein;s Gate). 
 
-If you want to try it yourself, download the exe. 
+If you want to try it yourself, download the exe. There's a version where you use arrow keys to move, and another where you use the mouse.
 
 {host .exe somewhere}
 
