@@ -4,9 +4,13 @@ title: "Frame of War"
 date: 2019-07-16
 reviewed: 2021-05-12
 includelink: true
-excerpt: "First game made"
+excerpt: "First game made. It's pretty hard."
 comments: true
 ---
+<h3> Summary </h3>
+First game I made during 2nd year of programming (used Gamemaker, not a programming language). <a href="/assets/frameofwar/Frame of War Mouse Move - Yuvraj Fowdar.exe"> Click here for the mouse control version </a> <a href="/assets/frameofwar/Frame Of War.exe"> Click here for the arrow key version. </a>
+
+<h3> Post </h3>
 <img src="/assets/frameofwar/entryimg.PNG" alt="Home screen">
 
 During my second year of realising that a thing called **programming** existed, one of our school assignments was to make a game. Now, almost everybody in the class didn't even bother making the most basic platformer which was enough to get an A, but, who am I to care for a grade?
