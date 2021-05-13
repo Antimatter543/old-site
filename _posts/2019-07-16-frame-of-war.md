@@ -19,12 +19,14 @@ It's the first game I've ever made, and it's also annoying to beat. Below is a v
 
 For an extra challenge, I decided to beat the game without any lasers. Even though the (spoilers) boss has some anti-laser mechanisms so you can't spam lasers to kill it (to a certain degree), the masochist in me decided "Hey, this game isn't hard enough. Let's beat it without this feature that I spent time adding in!". So that's what I did.
 
-{video}
+
+<iframe src="https://www.youtube.com/embed/IX4cPKXT7-s"> </iframe>
 
 The first 2 levels are meant to be easy - to pull you off your guard. The 3rd level is also simple as long as you stay in the center; if you don't, you're going to meet hell. It looked obvious to me, but the people who played always moved away and er... Having 3 big aliens on your screen is not the best idea.
-Stage 3 Boss is a bit psycho...
+Stage 3 Boss is a bit psycho... In the video, I killed it fast enough so that you don't have to see a certain surprise (that may involve approximately 8 extremely rapid close range fireballs). Dodgeable, but, barely.
 
-This took me X attempts to get a video; and I'm the only person that has beaten this so far. Even though the timings and abilities were coded *by me*, the final boss is still difficult. 
+This took me at least 7 attempts to get a video for this article; and I'm the only person that has beaten this so far. Even though the timings and abilities were coded *by me*, the final boss is still difficult. 
+
 I made the level music from Musenet (OpenAI's music agent). 
 Boss music from Fatima (Stein;s Gate). Coincidentally, if you (laserless) shoot optimally at the boss (and do the bullet stacking like I did), you should be able to get the boss to stage 2 by the time the beat drops.
 
@@ -37,4 +39,5 @@ If you want to try it yourself, download the exe. There's a version where you us
 
 Yes, that sounds like a virus. No, it's probably not a virus. Yes, if your antivirus goes haywire just listen to it. Maybe there's a way I can host it on the website?
 
-Anyways, that's it. Good luck.
+Anyways, that's it. Good luck. If you get bored of doing the first few levels, you can manually add lasers and scores by cheating with the 'P' button. Be warned, cheating lasers and doing the boss is... well, cheating. You can skip to the boss though, and then try laserless from there.
+
