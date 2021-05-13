@@ -3,7 +3,7 @@ layout: post
 title: "Useful Concepts"
 date: 1337-01-12
 reviewed: 2021-05-12
-includelink: true  
+includelink: false  
 comments: true
 ---
 Just some of the terminology I consider useful in life & general. There's a few definitions here as well as some (in my opinion) useful concepts.
