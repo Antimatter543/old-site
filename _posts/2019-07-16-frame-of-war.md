@@ -22,13 +22,19 @@ For an extra challenge, I decided to beat the game without any lasers. Even thou
 {video}
 
 The first 2 levels are meant to be easy - to pull you off your guard. The 3rd level is also simple as long as you stay in the center; if you don't, you're going to meet hell. It looked obvious to me, but the people who played always moved away and er... Having 3 big aliens on your screen is not the best idea.
+Stage 3 Boss is a bit psycho...
 
 This took me X attempts to get a video; and I'm the only person that has beaten this so far. Even though the timings and abilities were coded *by me*, the final boss is still difficult. 
 I made the level music from Musenet (OpenAI's music agent). 
-Boss music from Fatima (Stein;s Gate). 
+Boss music from Fatima (Stein;s Gate). Coincidentally, if you (laserless) shoot optimally at the boss (and do the bullet stacking like I did), you should be able to get the boss to stage 2 by the time the beat drops.
 
 If you want to try it yourself, download the exe. There's a version where you use arrow keys to move, and another where you use the mouse.
 
-{host .exe somewhere}
+<a href="/assets/frameofwar/Frame of War Mouse Move - Yuvraj Fowdar.exe"> Click here for the mouse control version </a>
+
+<a href="/assets/frameofwar/Frame Of War.exe"> Click here for the arrow key version. </a>
+
 
 Yes, that sounds like a virus. No, it's probably not a virus. Yes, if your antivirus goes haywire just listen to it. Maybe there's a way I can host it on the website?
+
+Anyways, that's it. Good luck.
