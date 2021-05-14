@@ -1,7 +1,7 @@
 ---
 layout: post
-title: This is the title boi!!
-description: This is the description boiii! Look how long and fancy I can write it without it overflowing. Actually, what if I just keep typing and keep typing and keep typing typing typing. It works!
+title: Frame of War.
+description: Frame of War is the first game I ever made (on Gamemaker) that was actually enjoyable to play.
 imageid: rps
 ---
 

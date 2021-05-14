@@ -465,56 +465,66 @@ font-size: 25px;
   background-color: rgb(141, 131, 131);
   cursor: pointer;
 }
-
 #rps {
   background-image: url(../assets/homeimg.jpg);
-  background-size: 200px 200px;
+  /* background-size: 200px 200px;
+  opacity: 0.5; */
 } 
 #coderone {
 	background-image: url(../assets/coderone/coderonelogo.png);
-  background-size: 250px 200px;
-  }
+  /* background-size: 250px 200px; */
+}
 
 
 /* Project Page. This is so messed up, the stuff below is mostly from a .sass file wtf is that. I just
 yoinked and edited it from Gradfolio   */
+
+/* .cover-post:after {
+	background-color: rgba(0,0,0,.75);
+	content: '';
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+} */
+
 .ProjectContainer {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 2rem;
 }
 
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  /* Compensate for excess margin on outer gallery flex items */
-  margin: -1rem -1rem;
+	display: flex;
+	flex-wrap: wrap;
+	/* Compensate for excess margin on outer gallery flex items */
+	margin: -1rem -1rem;
 }
 
 .projectTile {
-  /* Minimum width of 200px and grow to fit available space */
-  flex: 1 0 200px;
-  border-radius: 15px;
-  background: #cfe6a4;
-  height: 200px;
-  width: 100%;
-  overflow: hidden;
-  display: table;
+	/* Minimum width of 200px and grow to fit available space */
+	flex: 1 0 200px;
+	border-radius: 15px;
+	background: #cfe6a4;
+	height: 200px;
+	width: 100%;
+	overflow: hidden;
+	display: table;
+	background-position: center;
 }
 
 .projectTile a {
-  display: table-cell;
-  vertical-align: middle;
-  text-align: center;
-  cursor: pointer;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
 }
 
 .projectTile a span {
-  display: flex;
+	display: flex;
   justify-content: center;
-  color: $text-color ;
-  @media (prefers-color-scheme: dark) {
-    color: $text-color-dark;
+  color: #333;
   }
 }
 
@@ -535,7 +545,7 @@ yoinked and edited it from Gradfolio   */
   font-size: 1.2rem;
   display: flex;
   padding: 1rem;
-  color: $text-color;
+  color: #333;
 
   @media (prefers-color-scheme: dark) {
     color: $text-color-dark;

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project with redirect!
-description: This project redirects me to somewhere Uwu!
+title: Coder One Hackathon Reflection
+description: This was my first ever hackathon, and I learn tons from it!
 redirect: "/blog/2021/05/03/first-hackathon"
 imageid: "coderone"
 ---
