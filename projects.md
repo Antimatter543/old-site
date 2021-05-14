@@ -4,10 +4,8 @@ title: Projects
 permalink: /projects/
 includelink: true
 ---
-<p>
-I'm gonna put projects here! (Eventually..?)
-Currently doing Coder One Hackathon, Coursera Deep Learning Specialisation, QxQ Quantum Computing Course among other things
-</p>
+This is the projects page where... projects are stored. Look, the borders are a bit scuffed, but it does the job, doesn't it!? I'm not a front-end web developer ok, leave me alone 😢.
+Clicking on them will redirect you to either a public or hidden blog that I've written for that project.
 
 <div class='project-items'>
     <div class="project-page" id="coderone" onclick="window.open('/blog/2021/05/03/first-hackathon', '_blank');">

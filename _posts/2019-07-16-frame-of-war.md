@@ -8,7 +8,7 @@ excerpt: "First game made. It's pretty hard."
 comments: true
 ---
 <h3> Summary </h3>
-First game I made during 2nd year of programming (used Gamemaker, not a programming language). <a href="/assets/frameofwar/Frame of War Mouse Move - Yuvraj Fowdar.exe"> Click here for the mouse control version </a> <a href="/assets/frameofwar/Frame Of War.exe"> Click here for the arrow key version. </a>
+First game I made during 2nd year of programming (used Gamemaker, not a programming language). <a href="/assets/frameofwar/Frame of War Mouse Move - Yuvraj Fowdar.exe"> Click here for the mouse control version </a> <a href="/assets/frameofwar/Frame Of War.exe"> Click here for the arrow key version. </a> If you get a thing telling you to install something or skip the installation, just skip it. To my knowledge, it doesn't actually do anything (you don't need it to play the game).
 
 <h3> Post </h3>
 <img src="/assets/frameofwar/entryimg.PNG" alt="Home screen">

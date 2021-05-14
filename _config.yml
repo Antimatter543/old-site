@@ -8,4 +8,14 @@ github_username: antimatter543
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title 
+
+include: # Includes pages in search or whatever. https://jekyllrb.com/docs/structure/
+- _pages
 # pretty # https://jekyllrb.com/docs/permalinks/ is equiv. to permalink: /:categories/:year/:month/:day/:title
+
+
+#collection - no idea what it does but it allows projectstwo to read the _projects.
+collections:
+  projects:
+    output: true
+    permalink: /projectstwo/:title/
