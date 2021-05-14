@@ -12,7 +12,7 @@ I like doing things sometimes.
 
 
 This website began on
-{Introduced to programming, etc.}
+{Realised programming was a thing in 2018, only started caring in 2019/2020.}, etc.}
 
 
 

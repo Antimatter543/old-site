@@ -4,7 +4,7 @@ title: "Frame of War"
 date: 2019-07-16
 reviewed: 2021-05-12
 includelink: true
-excerpt: "First game made. It's pretty hard."
+excerpt: "First game made. It's pretty hard. You should try it ;) "
 comments: true
 ---
 <h3> Summary </h3>
