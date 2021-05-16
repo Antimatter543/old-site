@@ -3,6 +3,28 @@ layout: page
 title: Home Page
 includelink: false
 ---
+This website was created around February 2021, and is continually updated as I... update it.
+However, you'll notice that some of the blog posts are pre-2021. This is just because that's the date when I had originally explored the concept. 
+If you click on the article, the most recent date where it's been reviewed will show (which is when it was published here).
+
+<ul class="posts">
+	{% for post in site.posts %}
+		<li>
+			{% if post.includelink %}
+			<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			<br>
+				{% if post.excerpt %}
+				<p> {{ post.excerpt }} </p>
+				{% endif %}
+			{% endif %}
+		</li>	
+	{% endfor %}
+</ul>
+
+<span class='page-divider'> 
+	<span class='one'></span>
+	<span class='two'></span>
+</span>
 <h1> UNDER MAINTENANCE! </h1>
 
 <h1> Quick About </h1>
@@ -28,29 +50,7 @@ Right now, I don't really have enough projects to call any my favourite. However
 	<span class='two'></span>
 </span>
 
-<h1>Blog</h1>
-This website was created around February 2021, and is continually updated as I... update it.
-However, you'll notice that some of the blog posts are pre-2021. This is just because that's the date when I had originally explored the concept. 
-If you click on the article, the most recent date where it's been reviewed will show (which is when it was published here).
-
-<ul class="posts">
-    {% for post in site.posts %}
-        <li>
-            {% if post.includelink %}
-            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-            <br>
-                {% if post.excerpt %}
-                <p> {{ post.excerpt }} </p>
-                {% endif %}
-            {% endif %}
-        </li>	
-    {% endfor %}
-</ul>
-
-<span class='page-divider'> 
-    <span class='one'></span>
-    <span class='two'></span>
-</span>
+<!-- <h1>Blog</h1> -->
 
 This site has been <em> creatively inspired </em> by many other websites (>7), but I'll name the first few that have been inspired from the most:
 <p>karpathy.github.io</p>
