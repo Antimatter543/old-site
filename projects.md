@@ -3,7 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 includelink: true
-showtestproject: false
 ---
 This is the projects page where... projects are stored. Look, the borders are a bit scuffed, but it does the job, doesn't it!? I'm not a front-end web developer ok, leave me alone 😢.
 Clicking on them will redirect you to either a public or hidden blog that I've written for that project.
