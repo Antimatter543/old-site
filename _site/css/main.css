@@ -443,12 +443,13 @@ font-size: 25px;
 .project-page {
   width: 220px;
   height: 220px;
-  background-color: black;
+  background-color: #333;
   margin: 20px;
   display: inline-block;
-  padding: 10px;
+  padding: 7px;
   background-repeat: no-repeat;
-  background-size: 230px 230px;
+  background-size: 220px 220px;
+  background-position: center;
   opacity: 1;
   position: relative;
   cursor: pointer;
@@ -473,6 +474,10 @@ font-size: 25px;
 #coderone {
 	background-image: url(../assets/coderone/coderonelogo.png);
   /* background-size: 250px 200px; */
+}
+
+#frameofwar {
+	background-image: url(../assets/frameofwar/level3.PNG);
 }
 
 
