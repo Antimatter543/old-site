@@ -443,7 +443,7 @@ font-size: 25px;
 .project-page {
   width: 220px;
   height: 220px;
-  background-color: #333;
+  background-color: #222;
   margin: 20px;
   display: inline-block;
   padding: 7px;
@@ -531,7 +531,7 @@ yoinked and edited it from Gradfolio   */
   justify-content: center;
   color: #333;
   }
-}
+
 
 .projectTile a span h2 {
   font-size: 1.5rem;
@@ -616,4 +616,4 @@ yoinked and edited it from Gradfolio   */
   }
 }
 
-//Based on: https://codepen.io/GeorgePark/pen/vdqYom
+/* //Based on: https://codepen.io/GeorgePark/pen/vdqYom */
