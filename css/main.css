@@ -46,7 +46,7 @@ Basically, class is for a whole section, id is a specific thing in that section 
 p {
   font-size: 16px;
   line-height: 1.6;
-  color: #111111;
+  color:black;
   margin: 0px;
   margin-bottom: 20px;
 }
