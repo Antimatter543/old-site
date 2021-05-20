@@ -2,7 +2,8 @@
 layout: post
 title: Frame of War.
 description: Frame of War is the first game I ever made (on Gamemaker) that was actually enjoyable to play.
-imageid: rps
+imageid: frameofwar
+redirect: /blog/2019/07/16/frame-of-war
 ---
 
 Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
