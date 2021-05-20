@@ -5,14 +5,9 @@ permalink: /about/
 includelink: true
 ---
 
-Hey, how's it going!
-I'm Antimatter, a high school student in grade 12.
-It's taken longer than I'd like to reach this point.
-I like doing things sometimes.
-
-
-This website began on
-{Realised programming was a thing in 2018, only started caring in 2019/2020.}, etc.}
+This website was created around February 2021, and is continually updated as I... update it.
+However, you'll notice that some of the blog posts are pre-2021. This is just because that's the date when I had originally explored the concept. 
+If you click on the article, the most recent date where it's been reviewed will show (which is when it was published here).
 
 
 
