@@ -8,7 +8,7 @@ includelink: false
 <ul class="posts">
 	{% for post in site.posts %}
 		<li>
-			{% if post.includelink %}
+			{% if post.includelink and post.tag =='professional' %}
 			<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 			<br>
 				{% if post.excerpt %}
