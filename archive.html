@@ -17,9 +17,9 @@ includelink: true
 	<h3><small>{{ post.date | date: '%B %Y' }}</small></h3>
 	{% endif %}
 	{% endunless %}
-    {% if post.includelink %}
+	{% if post.published %}
 	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
-	{% endif %}
+	{%endif%}
 	{% endfor %}
 	</div>
 </div>

@@ -7,3 +7,4 @@
  Jekyll makes it so that instead of having to change URLS, etc. for every single site, you can make a default.html and then import that into the index, etc. And that's just one of the things it can do! PogChamp.
 
 
+Posts need both includelink and a tag (professional or non-professional) to be visible. The "published" tag is a bool. On true, you can see it on site. On false, you can't (even if you know the url).

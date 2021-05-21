@@ -3,7 +3,8 @@ layout: post
 title: "Frame of War"
 date: 2019-07-16
 reviewed: 2021-05-12
-includelink: true
+tag: professional
+published: true
 excerpt: "First game made. It's pretty hard. You should try it ;) "
 comments: true
 ---

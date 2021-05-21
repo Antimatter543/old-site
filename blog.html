@@ -4,18 +4,45 @@ title: Blog
 permalink: /blog/
 includelink: true
 ---
+<h1> Professional Posts </h1>
 <ul class="posts"> 
 
     {% for post in site.posts %}
         <li>
-        {% if post.includelink %}
+        {% if post.tag == 'professional' %}
+
             <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> 
 			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
             <br>
 			{% if post.excerpt %}
             <p> {{ post.excerpt }} </p>
 			{% endif %}
+
         {% endif %}
         </li>	
     {% endfor %}
+
+</ul>
+
+<h1> Non-Professional Posts </h1>
+Below. is non-professional stuff. It's still me (perhaps even more me), but if you're here to hire/look at my pure technical skills, the below might not be for you. Below contains my own opinions,
+exploration of concepts and ideas, as well as some other fun stuff. It's just exploring, that's all. There's some **funky** stuff here, you are warned. A lot of these things are unfinished too.
+
+<ul class="posts"> 
+
+    {% for post in site.posts %}
+        <li>
+        {% if post.tag == 'non-professional' %}
+
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> 
+			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <br>
+			{% if post.excerpt %}
+            <p> {{ post.excerpt }} </p>
+			{% endif %}
+
+        {% endif %}
+        </li>	
+    {% endfor %}
+	
 </ul>
