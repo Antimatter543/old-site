@@ -4,18 +4,25 @@ title: "Actions vs Professions"
 date: 2021-04-11
 reviewed: 2021-05-24
 
-published: false
+published: true
 tag: non-professional
 excerpt: 'What you want to be vs what you want to do.'
 comments: true
 ---
 
+asa
+
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
 *Might  be a blog post, when we have [], it should be text that pops up above the immediately preceding text. E.g the word ‘shallow’, if you hovered over it, would show [Shallow, does not necessarily…].*
 
+
 It seems that when people often ask the question “What do you want to be in life?”, or “What do you want to do in life”, the implied assumption is that you will answer it in terms of what profession you want to do, and not actually what you want to do. At least this was my experience when I randomly asked them.
-For instance, if I asked someone what they wanted to do in life, they would most likely say something like, “I want to be a doctor”, “I’d like to be a optometrist”, etc. [Interestingly, children usually respond to this question with “I’m going to be …!” – it seems elders understand that having only one path is probably not the best. Although, there is something unique and potentially incredibly beneficial that is lost when that stubbornness disappears. Personally, I seem to have kept that stubbornness.]
-They’ve locked on to a profession of their choosing (or perhaps not), and that’s their go-to response. They might change it later, but what they are doing right now will probably be to achieve that profession.
-I should point out that specific professions (such as doctors) can in fact be a goal – i.e, professions are a subset of goals (The idea of A being subsets of B is very useful, and I’ll use it often throughout my writings). You could become a doctor simply because you wanted to. That is your goal. No further reasoning.
+
+For instance, if I asked someone what they wanted to do in life, they would most likely say something like, “I want to be a doctor”, “I’d like to be a optometrist”, airforce pilot, software engineer, etc. [Interestingly, children usually respond to this question with “I’m going to be …!” – it seems elders understand that having only one path is probably not the best. Although, there is something unique and potentially incredibly beneficial that is lost when that stubbornness disappears. Personally, I seem to have kept that stubbornness.]
+
+They’ve locked on to a profession of their choosing (or perhaps not), and that’s their go-to response. They might change it later, but what they are doing right now will probably be to achieve that profession. I should point out that specific professions (such as doctors) can in fact be a goal – i.e, professions are a subset of goals (The idea of A being subsets of B is very useful, and I’ll use it often throughout my writings). You could become a doctor simply because you wanted to. That is your goal. No further reasoning.
 
 However, the truth (as always), is usually not as shallow [Shallow, does not necessarily mean bad (at least not in this case). Just shallow.] as that. In reality, it’s almost always better to be goal oriented vs being profession oriented.
 
