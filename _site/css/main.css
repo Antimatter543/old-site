@@ -46,9 +46,10 @@ Basically, class is for a whole section, id is a specific thing in that section 
 p {
   font-size: 16px;
   line-height: 1.6;
-  color:black;
+  color:#222222;
   margin: 0px;
   margin-bottom: 20px;
+  display: block;
 }
 
 ul.posts { 
@@ -332,7 +333,7 @@ text-decoration: underline;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
+	width: 70%;
   }
 
 .post iframe { 
@@ -686,3 +687,17 @@ justify-content: center;
 .label-text {
 margin-left: 0.5em;
 }
+
+/* Tables */
+table {
+	border-collapse: collapse;
+  }
+  
+  td, th {
+	border: 1px solid #999;
+	padding: 0.5rem;
+	text-align: left;
+  }
+  tbody tr:nth-child(odd) {
+	background: #eee;
+  }

@@ -9,6 +9,11 @@ tag: professional
 excerpt: 'A little analysis on my first ever hackathon. Hosted by Coder One as their AI Sports Challenge 2021, it seemed like a fun starting point and I learnt <em>a lot </em> in this (especially around workflows and realistic team-based projects).'
 comments: true
 ---
+<style>
+	.post img {
+		width: 50%;
+	}
+</style>
 <h3> Abstract (Spoilers) </h3>
 First hackathon I've done. Joined a team, learnt a bunch of stuff about workflows, git, branches and communicating with a team among other things. Skip to <em> The Game </em> if you're a boring nancy, and skip to <em> Results </em> if you're the most boring nancy. T'was a wild week. Team name: Totoro.
 
