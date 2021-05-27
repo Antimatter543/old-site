@@ -72,7 +72,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it.
 |7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 |
 |8| 10 | 2 months | 1 week/ 1 year. | Usually instant | Mostly middle school | 
-| 9 (Virtual friend) | 
+| 9 (Virtual friend) | ~10 | NA | NA | Mix, but as time increases, more often gradual | NA x2 because didn't ask | 
 | 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | 
 | 11 | 6 | ~4-5 months | 1 month / ~8 months | Mostly instant | One per year usually |
 | 12 |  11 | 2 months | 2 days / 5 months | Mix instant/gradual | Over the course of high school |
@@ -114,11 +114,13 @@ I swear I'm not that shallow that intelligence is the only thing I take into acc
 
 Anyways, looking at my own experiences, it seems that there's a few things to consider:
 
-1. I must **respect** them. It doesn't matter if they have the equivalent intelligence of 500000x Albert Einsteins; if I can't respect them as a person, it's an instant nope.
+1. They have to be respectable. It doesn't matter if they have the equivalent intelligence of 500000x Albert Einsteins; if I can't respect them as a person, it's an instant nope.
 
-2. {WIP, Still working on this}
+2. I might have a thing towards intelligence / work ethic / perseverance.
 
-3. I might have a thing towards
+3. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have).
 
-4. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have).
-4. I'd say some basic level of physical attraction, but in 2/3 cases when the other checklist
+### Funny observation:
+This is a really nice benefit actually, and I'm not sure if other people experience this to the same degree I do, but  physical attractiveness based on some evaluation metric (like personality, compatibility -> hobbies, interests, ethics, morals, etc.) changes once I get to know them better. Like it *really* changes physical attractiveness.
+
+I'll go through the example with S2 (secondary crush; this would be Grade 10-11). Let's assume I have a physical attraction metric. On initial meeting, I would have rated (purely on physical attractiveness) a 4/10. That's like, top 60%. It was in a physics class, and I deemed her 'a bit too polite' after our first conversation. However, as mutual time in an enclosed space increased, I realised *I've been jebaited*.  Anyways, come a physics data test FIA1, and she gets a 10/10, I 9/10 (lost the 10 by not rounding). Sometime between then and next term (i.e Term 2 grade 10), I realise that just by pure physical attraction, she's an 8/10; top 10%. On physical only. Wtf??? Obviously, nothing happened and it died out after ~7-9 months.
