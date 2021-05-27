@@ -4,21 +4,45 @@ title: Home Page
 includelink: false
 ---
 
-<h1> UNDER MAINTENANCE! </h1>
-<ul class="posts">
-	{% for post in site.posts %}
-		<li>
-			{% if post.tag =='professional' %}
-			<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-			<br>
-				{% if post.excerpt %}
-				<p> {{ post.excerpt }} </p>
-				{% endif %}
+<h1> Professional Posts </h1>
+<ul class="posts"> 
+
+    {% for post in site.posts %}
+        <li>
+        {% if post.tag == 'professional' %}
+
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> 
+			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <br>
+			{% if post.excerpt %}
+            <p> {{ post.excerpt }} </p>
 			{% endif %}
-		</li>	
-	{% endfor %}
+
+        {% endif %}
+        </li>	
+    {% endfor %}
+
 </ul>
 
+<h1> Non-Professional Posts </h1>
+<ul class="posts"> 
+
+    {% for post in site.posts %}
+        <li>
+        {% if post.tag == 'non-professional' %}
+
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> 
+			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <br>
+			{% if post.excerpt %}
+            <p> {{ post.excerpt }} </p>
+			{% endif %}
+
+        {% endif %}
+        </li>	
+    {% endfor %}
+	
+</ul>
 <span class='page-divider'> 
 	<span class='one'></span>
 	<span class='two'></span>
