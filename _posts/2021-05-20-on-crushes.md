@@ -64,7 +64,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 
 | Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Delayed Crush Formation | Notes|
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|
-| **Me** | 3 | A year | A few months / A few years (only 1 CASE OK; NOT WEIRD. It was on/off)| Every instance was extremely gradual until it hit (~few months-year) | Detailed notes in extra. All crushes scored higher in some subject at some point in time. IT HAS MORE THAN THAT FUCK YOU THOUGH. |
+| **Me** | 3 | A year | A few months / 2 years (only 1 case; it was on/off. Instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. Clickbait (but technically true): Th|
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
 | 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. |
 | 4 | 0 | NA | NA | NA | Balling. 0 Crushes madlad. |
@@ -76,35 +76,26 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | 
 | 11 | 6 | ~4-5 months | 1 month / ~8 months | Mostly instant | One per year usually |
 | 12 |  11 | 2 months | 2 days / 5 months | Mix instant/gradual | Over the course of high school |
+| 13 | 5 | 5 months | 1 month / 9 months (school year) | Gradual | Most recent grade 10 | 
 
-Thanks for #4 for having 0 crushes so I couldn't ask anything else POOOG. Anyways, as seen, the average number of crushes is ~2-4 people (excluding the two 10s), and everybody asked is at least in grade 12. #9 is just a bonus (since he's 25; a bit older than final year high school). I am the only one whose information is public because I'm fucking insane. 
+I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc.
 
-Extra questions to ask (maybe we add?):
-Why were you attracted to those people?
-->Common answers:  Similar personalities, hobbies, etc. Interests...
-M man (next to me in team):
-3 - need more data. Note: Has crush on someone who has a bf (oof)..
-
-Other way of table;
-
-<table>
-  {% for row in site.data.crushes %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
+Side note: I had to talk to people I don't usually talk to because the opportunity presented itself, and I'm not going to deny free data am I?
 
 
-### Analysis, Evaluation and Conclusions
+## Analysis, Evaluation and Conclusions
+
+After looking at the data for a bit, it seems there's a few patterns here. Obviously, there's some cases where this completely doesn't apply but here we go. Shoutout to #4 for having **0** crushes throughout their existence so all the other questions were rendered moot.
+
+The average number of crushes is ~2-4 people (excluding the two 10s), and everybody asked is at least in grade 12. #9 is just a bonus (approx. 25yrs; a bit older than final year high school). I am the only one whose information is public because I'm fucking insane and apparently have nothing to lose.
+
+The most popular time to have crushes was around Year 7-11, and second most common was tied between primary (#6 is the Sus outlier here) & consistent throughout high school. Most crush formations were gradual, although there were some mixes and instants. Instants did slightly tend to have more crushes, although not by much. Obviously, increases in sample size will make this data more valid. Usually the longest crushes lasted at least a year.
+
+The average crush duration was either ~1 school year (9-12 months) or ~4 months.
+
+
+
+Most 
 (REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
 (REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
 (REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
@@ -113,5 +104,17 @@ Other way of table;
 
 
 ## Extra
-At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! Just a little bit (ok, maybe more than a bit) of extra stuff 😃.
+At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! I have suffered leaving my own experiences out here so YOU PEOPLE CAN GET FREE DATA, REMEMBER THE SUFFERING I HAVE ENDURED.
 
+I am aware this is a type of social suicide, but that being said, fuck you. What are you gonna do with the info? Tell people? Who? You don't even know who it is, and even if you do, I **know who you are**. Knowledge must be shared with the world, and how will they learn if there is nobody willing to risk something?
+
+
+### First things first
+
+I swear I'm not that shallow that intelligence is the only thing I take into account PLEASE! It was just an attempt at clickbaiting you people into being like "Oh so grades are the only thing he cares about." No! I SWEAR DUDE HOLY FK IT JUST LOOKS BAD THAT'S IT. There's a few other common characteristics between all 3 crushes, but I chose to state that one because it's kinda the funniest one lmao.
+
+Anyways, looking at my own experiences, it seems that there's a few things to consider:
+
+1. I must respect them. It doesn't matter if they have the equivalent intelligence of 500000x Albert Einsteins; if I don't like them as a person, it's an instant nope.
+
+2. {WIP, Still working on this}
