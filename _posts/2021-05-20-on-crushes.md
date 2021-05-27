@@ -64,7 +64,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 
 | Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Delayed Crush Formation | Notes|
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|
-| **Me** | 3 | A year | A few months / 2 years (only 1 case; it was on/off. Instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. Clickbait (but technically true): They scored higher than I did in some subject at some time (although most people probably did at some point) All in HS, >Grade 9|
+| **Me** | 3 | A year | A few months / 2 years (only 1 case; it was on/off. Instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 10, 11, 12|
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
 | 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. |
 | 4 | 0 | NA | NA | NA | Balling. 0 Crushes madlad. |
@@ -91,7 +91,7 @@ The average number of crushes is ~2-4 people (excluding the two 10s), and everyb
 
 The most popular time to have crushes was around Year 7-11, and second most common was tied between primary (#6 is the Sus outlier here) & consistent throughout high school. Most crush formations were gradual, although there were some mixes and instants. Instants did slightly tend to have more crushes, although not by much. Obviously, increases in sample size will make this data more valid. Usually the longest crushes lasted at least a year.
 
-The average crush duration was either ~1 school year (9-12 months) or ~4 months.
+The average crush duration was either ~1 school year (9-12 months) or ~4 months. I'm somewhat of an outlier by having more crushes during the later stages of life as opposed to the earlier ones, and my duration of crush formation is a bit longer than average.
 
 An explanation for the lack of crushes during senior school (Years 10-12) could be from increased workload + less life/work/health balance, increased stress (from factors ranging from career to uni selection to 'do I stay with my parents'), etc.
 
@@ -102,6 +102,8 @@ Well, there you go. I had some fun making this, talked to some people I don't us
 
 ## Extra - My experiences
 At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! I have suffered leaving my own experiences out here so YOU PEOPLE CAN GET FREE DATA, REMEMBER THE SUFFERING I HAVE ENDURED.
+
+"Clickbait (but technically true): They scored higher than I did in some subject at some time (although most people probably did at some point)"
 
 I am aware this is a type of social suicide, but that being said, fuck you. What are you gonna do with the info? Tell people? Who? You don't even know who it is, and even if you do, I **know who you are**. Knowledge must be shared with the world, and how will they learn if there is nobody willing to risk something?
 
