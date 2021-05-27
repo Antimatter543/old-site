@@ -5,7 +5,7 @@ date: 2021-05-26
 reviewed: 2021-05-27
 
 published: true
-tag: non-professional
+tags: non-professional
 excerpt: 'Takedown of dumb ideas that make no sense.'
 comments: true
 ---
@@ -65,9 +65,9 @@ I wasn't gonna even put this in because it's so dumb to be against it if you cre
 
  That's all. Like, oh well, they wanna fuck their own gender. Who cares. Big deal. I only care about their potential and productivity and personality as a human being with ideas in their heads. People really stuck up over the smallest of things. "Oh that guy likes dick in his ass." Ok. Cool? I'd still fuckin resurrect Alan Turing any day of the week.
 
-Just go about your day, that's literally it. Nobody's asking you to do anything. Just don't walk up to someone and say 'yeah fuck you for being this thing you can't change.' That's pretty cringe. Not just about homos, for anything. 
+Nobody's asking for you to strip naked, strap twenty rainbow flags onto yourself and run down the street every day of the year, or yell "I LOVE GAY PEOPLE" at random intervals throughout the day. Just go about your day, that's it. Nobody's asking you to do anything. Just don't walk up to someone and say 'yeah fuck you for being this thing you can't change.' That's pretty cringe. Not just about homos, for anything. 
 
-Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good? Also, this literally gives heterosexuals less competition to have to deal with for any N potential mating partner.
+Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good? Also, this gives heterosexuals less competition to have to deal with for any N potential mating partner.
 
 ### Racism
 I just mentioned it above, so I might as well here. Honestly didn't even think about putting shit like this in, like, seriously? Being racist is cringe. It's pretty obvious that most of the differences in literally any quality of life / 'success' metric is based originally off of: environment born/raised in, economic status of immediate family (or the people you interact with), also the people you interact with (environment again). The genetic difference is fucking laughably miniscule, all it is is:

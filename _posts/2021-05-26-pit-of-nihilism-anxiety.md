@@ -5,7 +5,7 @@ date: 2021-04-11
 reviewed: 2021-05-24
 
 published: false
-tag: non-professional
+tags: non-professional
 excerpt: 'Insecurity, anxieties, depression (the pit of nihilism). My experience with it.'
 comments: true
 ---

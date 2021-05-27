@@ -5,7 +5,7 @@ date: 2021-04-10
 meta: 'Is this an excerpt or something? The hell is meta?'
 
 published: false
-tag: non-professional
+tags: non-professional
 comments: true
 excerpt: 'Test post'
 ---
