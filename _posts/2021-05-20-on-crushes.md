@@ -49,7 +49,7 @@ Side note: so much brain power is invested into how to get laid (the dumb brain 
 <h3> Methodology </h3>
 I just went around and asked people in real life (all in school) about these. Initially, I didn't have a set of questions to ask so I just asked general ones, but I systemised the method into the following questions:
 <ul>
-<li> How many crushes have you had, if any? </li>
+<li> How many crushes have you had (and currently have), if any? </li>
 <li> What was the average duration of your crushes?</li>
 <li> What was the shortest/longest duration you've had for one?</li>
 <li> Was it an instant thing or did the crush take time to form?</li>
@@ -64,10 +64,26 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 
 | Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Delayed Crush Formation | Notes|
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|
-| **Me** | 3 | A year | A few months / A few years (only 1 CASE OK; NOT WEIRD. It was on/off)| Every instance was extremely gradual until it hit (~few months-year) | My detailed notes are in Extra |
-| J | NA | NA | NA | NA |
-| M | sy | ads | asd | qqwe |
+| **Me** | 3 | A year | A few months / A few years (only 1 CASE OK; NOT WEIRD. It was on/off)| Every instance was extremely gradual until it hit (~few months-year) | Detailed notes in extra. All crushes scored higher in some subject at some point in time. IT HAS MORE THAN THAT FUCK YOU THOUGH. |
+| 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
+| 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. |
+| 4 | 0 | NA | NA | NA | Balling. 0 Crushes madlad. |
+| 5 | 4 | 6-12 months | Few weeks / 3-4 years | Gradual | None |
+| 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it.
+|7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 |
+|8| 10 | 2 months | 1 week/ 1 year. | Usually instant | Mostly middle school | 
+| 9 (Virtual friend) | 
+| 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | 
+| 11 | 6 | ~4-5 months | 1 month / ~8 months | Mostly instant | One per year usually |
+| 12 |  11 | 2 months | 2 days / 5 months | Mix instant/gradual | Over the course of high school |
 
+Thanks for #4 for having 0 crushes so I couldn't ask anything else POOOG. Anyways, as seen, the average number of crushes is ~2-4 people (excluding the two 10s), and everybody asked is at least in grade 12. #9 is just a bonus (since he's 25; a bit older than final year high school). I am the only one whose information is public because I'm fucking insane. 
+
+Extra questions to ask (maybe we add?):
+Why were you attracted to those people?
+->Common answers:  Similar personalities, hobbies, etc. Interests...
+M man (next to me in team):
+3 - need more data. Note: Has crush on someone who has a bf (oof)..
 
 Other way of table;
 
@@ -96,40 +112,6 @@ Other way of table;
 
 
 
-
-| K |
-| M |
-| A | 
-| S (virtual person) | 
-
-Me:
-Yes.
-
-Kal1 man:
-3       prolly like 1 year         shortest prolly like 6 months and longest like 1 and a half years        probably instant. Grades 6,7,7.
-Has mini-crushes every sometimes where it's really *on* for ~1 week after dreaming about them, then fades out.
-
-Ant man:
-2 - (Grade 6 & 10).
-Non-instant, lasted at least 6 months (1/2 a year -> grade 10). Took time to form (gradual).
-
-X man:
-4, ~6-12 months. A few weeks to a 3-4 years. Gradual.
-
-C man:
-~4 - All primary school, none current / high school (kinda odd.). Average duration was ~1 year.
-Gradual realisation (not instant).
-Bit sussy. Really none in HS?
-
-
-M man (next to me in team):
-3 - need more data. Note: Has crush on someone who has a bf (oof)..
-
-J man but not really man but I'm gonna say man to keep the stuff semi anonymised.:
-0 crushes. All other questions are irrelevant. Man's ruthless. Ask again, wtf?
-
-Silent:
-stuff.
-
 ## Extra
 At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! Just a little bit (ok, maybe more than a bit) of extra stuff 😃.
+
