@@ -343,6 +343,19 @@ text-decoration: underline;
 	width: 60%;
 	height: 400px;
   }
+/* Tables */
+  .post table {
+    border-collapse: collapse;
+    }
+    
+    .post td, .post th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+    }
+    .post tbody tr:nth-child(odd) {
+    background: #eee;
+    }
 
 /* Skills stuff */
 .skills {
@@ -688,16 +701,3 @@ justify-content: center;
 margin-left: 0.5em;
 }
 
-/* Tables */
-table {
-	border-collapse: collapse;
-  }
-  
-  td, th {
-	border: 1px solid #999;
-	padding: 0.5rem;
-	text-align: left;
-  }
-  tbody tr:nth-child(odd) {
-	background: #eee;
-  }

@@ -2,7 +2,7 @@
 layout: post
 title: "On Crushes"
 date: 2021-05-20
-reviewed: 2021-05-20
+reviewed: 2021-05-27
 
 published: true
 tag: non-professional
@@ -38,7 +38,7 @@ Seriously, when do we learn about relationships? Why do we have to go through th
 
 Tl;dr: Democratise the knowledge of relationships! Make it public domain and professionaly taught as opposed to only knowledge gained from close peers/family. 
 
-This has led me to collect data on crushes (or limerence). Now, relationships & crushes don't relate too directly, but they were close enough that I thought, "Why not?" To increase my knowledge of this domain (of crushes) will indirectly help me when I'll have to deal with relationships / attraction in the future. How, I'm not sure. But more data helps. And also, it's nice to just increase your knowledge on any particular topic. Perhaps this has been slightly influenced as I currently have an object of limerence, but... Fuck it. This is still interesting on its own.
+This has led me to collect data on crushes (or limerence). Now, relationships & crushes don't relate too directly, but they were close enough that I thought, "Why not?" To increase my knowledge of this domain (of crushes) will indirectly help me when I'll have to deal with relationships / attraction in the future. How, I'm not sure. But more data helps. And also, it's nice to just increase your knowledge on any particular topic. Perhaps this has been slightly influenced as I ~~currently~~ just had an object of limerence, but... Fuck it. This is still interesting on its own.
 
 
 Side note: so much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="LEX FRIDMAN ELON MUSTK VIDEO I couldn't find the timestamp so just watch them both. It might also have been a Joe Rogan podcast?"> this Lex Fridman podcast.</a> Also related to Exploiting the limbic system (another post).))
@@ -64,7 +64,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 
 | Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Delayed Crush Formation | Notes|
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|
-| **Me** | 3 | A year | A few months / A few years (only 1 CASE OK; NOT WEIRD. It was on/off)| Every instance was extremely gradual until it hit (~few months-year) | Detailed notes in extra. All crushes scored higher in some subject at some point in time. IT HAS MORE THAN THAT FUCK YOU THOUGH. |
+| **Me** | 3 | A year | A few months / 2 years (only 1 case; it was on/off. Instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. Clickbait (but technically true): They scored higher than I did in some subject at some time (although most people probably did at some point) All in HS, >Grade 9|
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
 | 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. |
 | 4 | 0 | NA | NA | NA | Balling. 0 Crushes madlad. |
@@ -76,42 +76,47 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | 
 | 11 | 6 | ~4-5 months | 1 month / ~8 months | Mostly instant | One per year usually |
 | 12 |  11 | 2 months | 2 days / 5 months | Mix instant/gradual | Over the course of high school |
+| 13 | 5 | 5 months | 1 month / 9 months (school year) | Gradual | Most recent grade 10 | 
 
-Thanks for #4 for having 0 crushes so I couldn't ask anything else POOOG. Anyways, as seen, the average number of crushes is ~2-4 people (excluding the two 10s), and everybody asked is at least in grade 12. #9 is just a bonus (since he's 25; a bit older than final year high school). I am the only one whose information is public because I'm fucking insane. 
+I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc.
 
-Extra questions to ask (maybe we add?):
-Why were you attracted to those people?
-->Common answers:  Similar personalities, hobbies, etc. Interests...
-M man (next to me in team):
-3 - need more data. Note: Has crush on someone who has a bf (oof)..
-
-Other way of table;
-
-<table>
-  {% for row in site.data.crushes %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
+Side note: I had to talk to people I don't usually talk to because the opportunity presented itself, and I'm not going to deny free data am I?
 
 
-### Analysis, Evaluation and Conclusions
-(REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
-(REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
-(REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
+## Analysis, Evaluation and Conclusions
+
+After looking at the data for a bit, it seems there's a few patterns here. Obviously, there's some cases where this completely doesn't apply but here we go. Shoutout to #4 for having **0** crushes throughout their existence so all the other questions were rendered moot.
+
+The average number of crushes is ~2-4 people (excluding the two 10s), and everybody asked is at least in grade 12. #9 is just a bonus (approx. 25yrs; a bit older than final year high school). I am the only one whose information is public because I'm fucking insane and apparently have nothing to lose.
+
+The most popular time to have crushes was around Year 7-11, and second most common was tied between primary (#6 is the Sus outlier here) & consistent throughout high school. Most crush formations were gradual, although there were some mixes and instants. Instants did slightly tend to have more crushes, although not by much. Obviously, increases in sample size will make this data more valid. Usually the longest crushes lasted at least a year.
+
+The average crush duration was either ~1 school year (9-12 months) or ~4 months.
+
+An explanation for the lack of crushes during senior school (Years 10-12) could be from increased workload + less life/work/health balance, increased stress (from factors ranging from career to uni selection to 'do I stay with my parents'), etc.
+
+### Conclusion
+Well, there you go. I had some fun making this, talked to some people I don't usually talk to and made some potential insights into a topic that's not really talked about. Huh!
 
 
 
+## Extra - My experiences
+At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! I have suffered leaving my own experiences out here so YOU PEOPLE CAN GET FREE DATA, REMEMBER THE SUFFERING I HAVE ENDURED.
 
-## Extra
-At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! Just a little bit (ok, maybe more than a bit) of extra stuff 😃.
+I am aware this is a type of social suicide, but that being said, fuck you. What are you gonna do with the info? Tell people? Who? You don't even know who it is, and even if you do, I **know who you are**. Knowledge must be shared with the world, and how will they learn if there is nobody willing to risk something?
 
+
+### First things first
+
+I swear I'm not that shallow that intelligence is the only thing I take into account PLEASE! It was just an attempt at clickbaiting you people into being like "Oh so grades are the only thing he cares about." No! I SWEAR DUDE HOLY FK IT JUST LOOKS BAD THAT'S IT. There's a few other common characteristics between all 3 crushes, but I chose to state that one because it's kinda the funniest one lmao.
+
+Anyways, looking at my own experiences, it seems that there's a few things to consider:
+
+1. I must **respect** them. It doesn't matter if they have the equivalent intelligence of 500000x Albert Einsteins; if I can't respect them as a person, it's an instant nope.
+
+2. {WIP, Still working on this}
+
+3. I might have a thing towards
+
+4. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have).
+4. I'd say some basic level of physical attraction, but in 2/3 cases when the other checklist

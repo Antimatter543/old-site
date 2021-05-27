@@ -42,3 +42,6 @@ If the environment was more open to your salary, etc, then maybe wages would be 
 Yes, the title is a bit clickbaity, and I'm sure there's some men specific examples too (even these ones count, but for some reason this is more 'sensitive' to talk about for women). Let's start with weight. If you don't know that every model is photoshopped to the roof, and a decent amount of them suffer from anxiety for not having the perfect body, well, now you do. Shit's impossible. You can get a decent body by putting in the work, but yeah. Don't stress. 
 
 Anyways, back to shitting on this. What the fuck is wrong with you? How is the number and constituating particles within your body at all offensive to you when you have no reason to be offended? Bro, I just want to know how much mass you have. Is that too much? I'm just asking man; maybe you can punch harder than expected or push with more force than I estimated, idk. I'm just trying to improve my estimation systems!
+
+
+{STILL WIP }
