@@ -52,20 +52,21 @@ I'm sorry, did I scare you by asking you how contracted the length of your telom
 
  Also, if it's about appearance... What? The way you look is an indication of your appearance, not your age. You ok bud? Your face is an indication of your appearance. Am I missing something? 
 
-
+If the society you live in has taught you that age matters, then, why are you listening to that aspect of it? It's clearly suboptimal.
 ### Rude Manners
 
 #### Elbows on Table
-Seriously? Ok, say you think this. May I ask why? What is the logical derivation from some base set of fundamental morals you've assumed to reach the conclusion "Placing elbows on the table whilst eating is bad manners." This is just one you were told and accepted by someone with more authority than you without any push-back. Simple case; just throw it out of your system.
+
+Seriously? Ok, say you think this. May I ask why? What is the logical derivation from some base set of [fundamental morals](/blog/1337/01/12/useful-concepts) you've assumed to reach the conclusion "Placing elbows on the table whilst eating is bad manners." This is just one you were told and accepted by someone with more authority than you without any push-back. Simple case; just throw it out of your system.
 
 
 ### Homosexuality
 
-I wasn't gonna even put this in because it's so dumb to be against it if you created your own base set of fundamental morals and built up from there (see Useful Concepts blog). Oh no!!!! The majority of the world population still wants to fuck the other gender so there's no anti-population problems (i.e still enough babies are being made so humanity's not gonna fucking die out). But these like 10% of the population want to fuck each other in the ass or do the scissors thing, oh no! I'm not there to watch it, but I don't like it, oh no! Sucks. There's way worse shit going on in this messed up planet that is really not fun to think about, but people who tend to feel attracted towards something that's not conventional is too much? At worst, homosexuality is probably some glitchy brain wiring. Not all glitches are bad (that's literally the whole point of evolution). Being against gays is kinda like being against evolution; evo's just doing its shit man; how do you think you were made?
+I wasn't gonna even put this in because it's so dumb to be against it if you created your own base set of [fundamental morals](/blog/1337/01/12/useful-concepts) and built up from there. Oh no!!!! The majority of the world population still wants to fuck the other gender so there's no anti-population problems (i.e still enough babies are being made so humanity's not gonna fucking die out). But these like 10% of the population want to fuck each other in the ass or do the scissors thing, oh no! I'm not there to watch it, but I don't like it, oh no! Sucks. There's way worse shit going on in this messed up planet that is really not fun to think about, but people who tend to feel attracted towards something that's not conventional is too much? At worst, homosexuality is probably some glitchy brain wiring. Not all glitches are bad (that's literally the whole point of evolution). Being against gays is kinda like being against evolution; evo's just doing its shit man; how do you think you were made?
 
- That's all. Like, oh well, they wanna fuck their own gender. Who cares. Big deal. I only care about their potential and productivity and personality as a human being with ideas in their heads. People really stuck up over the smallest of things. "Oh that guy likes dick in his ass." Ok. Cool? I'd still fuckin resurrect Alan Turing any day of the week.
+ That's all. Like, oh well, they wanna fuck their own gender. Who cares. Big deal. I only care about their potential and productivity and personality as a human being with ideas in their heads. People really stuck up over the smallest of things. "Oh that guy likes dick in his ass." Ok. Cool? I'd still fuckin resurrect Alan Turing any day of the week. I don't think I can ever forget that what was essentially homophobia drove **Alan Fucking Turing** to suicide.
 
-Nobody's asking for you to strip naked, strap twenty rainbow flags onto yourself and run down the street every day of the year, or yell "I LOVE GAY PEOPLE" at random intervals throughout the day. Just go about your day, that's it. Nobody's asking you to do anything. Just don't walk up to someone and say 'yeah fuck you for being this thing you can't change.' That's pretty cringe. Not just about homos, for anything. 
+Nobody's asking for you to strip naked, strap twenty rainbow flags onto yourself and run down the street every day of the year, or yell "I LOVE GAY PEOPLE" at random intervals throughout the day (if they are, realise that they are being the dick here). Just go about your day, that's it. Nobody's asking you to do anything. Just don't walk up to someone and say 'yeah fuck you for being this thing you can't change.' That's pretty cringe, and is in fact a dick move. Not just about homos, for anything. 
 
 Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good? Also, this gives heterosexuals less competition to have to deal with for any N potential mating partner.
 
@@ -82,6 +83,9 @@ You:
 - have access to a global friends list 
 - have more savepoints so if you mess up, you don't get booted into the fucking nether straight up.
 
+Racism is a subset of discrimination. So is discrimination based on economic status, social status and whatnot. Being racist against white people is still racist. Whaaat??? Woah! No shit, fucker. 
+
+{poverty stricken people get railed harder than a railway on a major traintrack}
 
 
 ### Math

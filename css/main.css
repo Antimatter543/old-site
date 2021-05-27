@@ -343,6 +343,10 @@ text-decoration: underline;
 	width: 60%;
 	height: 400px;
   }
+
+/* Get rid of ads because wtf?? I didn't know there even were ads on my site. Wasn't even getting paid! */
+iframe[src*="ads-iframe"] { display: none; }
+
 /* Tables */
   .post table {
     border-collapse: collapse;

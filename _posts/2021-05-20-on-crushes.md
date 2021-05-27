@@ -28,7 +28,7 @@ This only came to my mind after reading Love Is War. *What*. My world perspectiv
 <h2> Rationale </h2>
 Given that humanity has only reached this point by the consistent fornification (I just mean 'fucking' here) over a large period of time, it suggests that the future of humanity is also reliant on this process. Thus, the entire topic of attraction actually appears to be quite an important one - one that is often thrown under the rug and deemed private or sensitive whathaveyou. 
 
-<img src="/assets/horni.png" alt="A great timeline image drawn by me in paint." width="90%">
+<img src="/assets/horni.PNG" alt="A great timeline image drawn by me in paint." width="90%">
 
 And fair play to that, but... Shouldn't this topic be more openly discussed in public forums, i.e places of public discussion. Should the science and psychology of attraction/crushes/love not be taught in schools for at least a bit, just like sex education is?
 
@@ -120,7 +120,23 @@ Anyways, looking at my own experiences, it seems that there's a few things to co
 
 3. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have).
 
-### Funny observation:
+
+For all cases S1, S2, S3, the crush was majorly friend and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period.
+
+We'll talk about S3 here. In this case, I'd realise she had the potential to be a life-long friend long before any limerence formed. Since quite a lock of ticks where ticked off some imaginary checklist, le pepega brain did the following:
+
+Pepeg brain: "Hey... You kinda like this person."
+Me: "Yeah, she's actually a decent human being. Very epic."
+Pepeg brain: "Yeah, but... If she's a decent human being, shouldn't you *like like* her?"
+Me: "What? Why? That makes no sense. I'm perfectly happy with the way things are right now."
+Pepeg brain: "Nonono trust meee wouldn't it be FUUNNNYY??"
+Me: "Not really. To be honest, I don't really want a crush right now... Hey, what are you doing?"
+Pepeg brain: "nothin nothing! Don't mind me DON'T MIND ME."
+Me: "Wait you LITTLE SHI-"
+
+On the plus side, I think I've been able to 'kill' crushes easier the more I've had them. Since S3 is basically finished and I've only had it for a few months. S2 was ~1 year and S1 was a bit longer. Does that mean I've *matured*? Weird word. 
+
+#### Funny observation:
 This is a really nice benefit actually, and I'm not sure if other people experience this to the same degree I do, but  physical attractiveness based on some evaluation metric (like personality, compatibility -> hobbies, interests, ethics, morals, etc.) changes once I get to know them better. Like it *really* changes physical attractiveness.
 
-I'll go through the example with S2 (secondary crush; this would be Grade 10-11). Let's assume I have a physical attraction metric. On initial meeting, I would have rated (purely on physical attractiveness) a 4/10. That's like, top 60%. It was in a physics class, and I deemed her 'a bit too polite' after our first conversation. However, as mutual time in an enclosed space increased, I realised *I've been jebaited*.  Anyways, come a physics data test FIA1, and she gets a 10/10, I 9/10 (lost the 10 by not rounding). Sometime between then and next term (i.e Term 2 grade 10), I realise that just by pure physical attraction, she's an 8/10; top 10%. On physical only. Wtf??? Obviously, nothing happened and it died out after ~7-9 months.
+I'll go through the example with S2 (secondary crush; this would be Grade 10-11). Let's assume I have a physical attraction metric. On initial meeting, I would have rated (purely on physical attractiveness) a 4/10. That's like, top 60%. It was in a physics class, and I deemed her 'a bit too polite' after our first conversation. However, as mutual time in an enclosed space increased, I realised *I've been jebaited*.  Anyways, come a physics data test FIA1, and she gets a 10/10, I 9/10 (lost the 10 by not rounding). Sometime between then and next term (i.e Term 2 grade 10), I realise that just by pure physical attraction, she's an 8/10; top 10%. On physical only. Wtf??? Obviously, nothing happened and it died out after ~7-9 months. Other people definitely experience this, but I haven't talked to anyone about the % increases so I can't tell.
