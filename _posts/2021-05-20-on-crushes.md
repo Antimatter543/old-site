@@ -67,7 +67,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | **Me** | 3 | A year | A few months / 2 years (only 1 case; it was on/off. Instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 10, 11, 12|
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
 | 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. |
-| 4 | 0 | NA | NA | NA | Balling. 0 Crushes madlad. |
+| 4 | 0 | NA | NA | NA | Balling. 0 Crushes madlad. Lowkey late sleeper |
 | 5 | 4 | 6-12 months | Few weeks / 3-4 years | Gradual | None |
 | 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it.
 |7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 |
