@@ -4,11 +4,114 @@ title: "On Crushes"
 date: 2021-05-20
 reviewed: 2021-05-20
 
-excerpt: "Coming Soon!"
+published: true
+tag: non-professional
+excerpt: "On the importance of attractions/relationships and the lack of verbal knowledge about this. Free data n=~10 here so you can make your own conclusions!"
 comments: true
 ---
+Warning: Contains swears.
 
-~~{I implore you to look around.
-Start off with the realisation that humanity only got to this point was because they were *really horny* for a consistently long period of time.
-Now, what the hell do crushes do?
-{This links with exploiting limbic system!}} ~~
+
+<h2> Introduction </h2>
+
+I implore you to look around.
+
+<img src="/assets/spacex.jpg" alt="Image of Spacex rocket trails.">
+
+The phone or computer you're reading this on; its circuitry, the software, the UI. The building you're in, the roads outside, the internet, cities, nations. Schools of education and all the knowledge in the world; it was all founded by humanity. You have weapons that can end civilisation, and rockets that can expand them.
+
+And the only reason humanity has made it this far is because they were *really horny* for a consistently long period of time.
+
+
+This only came to my mind after reading Love Is War. *What*. My world perspective was shifted by a text (although not the first time). This observation is so obvious and only requires 1 step of thinking, but I've never even though about this domain at all.
+
+<h2> Rationale </h2>
+Given that humanity has only reached this point by the consistent fornification (I just mean 'fucking' here) over a large period of time, it suggests that the future of humanity is also reliant on this process. Thus, the entire topic of attraction actually appears to be quite an important one - one that is often thrown under the rug and deemed private or sensitive whathaveyou. 
+
+<img src="/assets/horni.png" alt="A great timeline image drawn by me in paint." width="90%">
+
+And fair play to that, but... Shouldn't this topic be more openly discussed in public forums, i.e places of public discussion. Should the science and psychology of attraction/crushes/love not be taught in schools for at least a bit, just like sex education is?
+
+Like yes, sex is a thing. Yes, STDs bad, yes use protection. But seeing as quite a large percentage of the people you're talking to are going to end up in at least some type of relationship, isn't it good to teach them about boundaries, the general process of dating, being in a healthy relationship, learning how to fight (because fights will happen), etc.? It feels criminal to leave such a large topic of humanity's reason of being here away from public eyes to learn from.
+
+Seriously, when do we learn about relationships? Why do we have to go through the horrible process of picking god awful matches, breakups, cheating, bad fighting, just because society deemed it 'weird' to talk and exchange information about the topic in public. Fuck you, weird's good! Before now (gaining that observation I started the blog with), I haven't really thought a lot about this whole scene of attraction/relationships. Yeah, the 'exploiting your limbic system' is a thing as well as a few simulated conversations of being with someone whomst I enjoy but that's not this topic at all.
+
+Tl;dr: Democratise the knowledge of relationships! Make it public domain and professionaly taught as opposed to only knowledge gained from close peers/family. 
+
+This has led me to collect data on crushes (or limerence). Now, relationships & crushes don't relate too directly, but they were close enough that I thought, "Why not?" To increase my knowledge of this domain (of crushes) will indirectly help me when I'll have to deal with relationships / attraction in the future. How, I'm not sure. But more data helps. And also, it's nice to just increase your knowledge on any particular topic. Perhaps this has been slightly influenced as I currently have an object of limerence, but... Fuck it. This is still interesting on its own.
+
+
+Side note: so much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="LEX FRIDMAN ELON MUSTK VIDEO I couldn't find the timestamp so just watch them both. It might also have been a Joe Rogan podcast?"> this Lex Fridman podcast.</a> Also related to Exploiting the limbic system (another post).))
+
+
+<h2> Accumulation of Data </h2>
+
+<h3> Methodology </h3>
+I just went around and asked people in real life (all in school) about these. Initially, I didn't have a set of questions to ask so I just asked general ones, but I systemised the method into the following questions:
+<ul>
+<li> How many crushes have you had (and currently have), if any? </li>
+<li> What was the average duration of your crushes?</li>
+<li> What was the shortest/longest duration you've had for one?</li>
+<li> Was it an instant thing or did the crush take time to form?</li>
+</ul>
+
+For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to.
+
+Notes: Only 1 female was surveyed. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
+
+<h3> Results </h3>
+Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more.
+
+| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Delayed Crush Formation | Notes|
+|--------|--------------|------------------------|------------------------------------|------------------------------------|------|
+| **Me** | 3 | A year | A few months / A few years (only 1 CASE OK; NOT WEIRD. It was on/off)| Every instance was extremely gradual until it hit (~few months-year) | Detailed notes in extra. All crushes scored higher in some subject at some point in time. IT HAS MORE THAN THAT FUCK YOU THOUGH. |
+| 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
+| 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. |
+| 4 | 0 | NA | NA | NA | Balling. 0 Crushes madlad. |
+| 5 | 4 | 6-12 months | Few weeks / 3-4 years | Gradual | None |
+| 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it.
+|7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 |
+|8| 10 | 2 months | 1 week/ 1 year. | Usually instant | Mostly middle school | 
+| 9 (Virtual friend) | 
+| 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | 
+| 11 | 6 | ~4-5 months | 1 month / ~8 months | Mostly instant | One per year usually |
+| 12 |  11 | 2 months | 2 days / 5 months | Mix instant/gradual | Over the course of high school |
+
+Thanks for #4 for having 0 crushes so I couldn't ask anything else POOOG. Anyways, as seen, the average number of crushes is ~2-4 people (excluding the two 10s), and everybody asked is at least in grade 12. #9 is just a bonus (since he's 25; a bit older than final year high school). I am the only one whose information is public because I'm fucking insane. 
+
+Extra questions to ask (maybe we add?):
+Why were you attracted to those people?
+->Common answers:  Similar personalities, hobbies, etc. Interests...
+M man (next to me in team):
+3 - need more data. Note: Has crush on someone who has a bf (oof)..
+
+Other way of table;
+
+<table>
+  {% for row in site.data.crushes %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
+
+### Analysis, Evaluation and Conclusions
+(REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
+(REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
+(REMOVE THE NAMES AFTER YOU'RE DONE. NOBODY ELSE IS ALLOWED TO GO UNDER THIS POINT.)
+
+
+
+
+## Extra
+At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! Just a little bit (ok, maybe more than a bit) of extra stuff 😃.
+
