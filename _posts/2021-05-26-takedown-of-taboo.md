@@ -9,7 +9,7 @@ tag: non-professional
 excerpt: 'Takedown of dumb ideas that make no sense.'
 comments: true
 ---
-Warning: This post contains swears.
+Warning: This post contains swears and is highly radical. This is a combination of logic and sharp emotion that derides you with even more logic. I guess I got somewhat angry when writing some of these. Good luck.
 
 ## Taboos and Sensitive Topics
 Note:
@@ -40,14 +40,18 @@ If the environment was more open to your salary, etc, then maybe wages would be 
 
 <h3> Onto Women! </h3>
 
-#### Weight
-Yes, the title is a bit clickbaity, and I'm sure there's some men specific examples too (even these ones count, but for some reason this is more 'sensitive' to talk about for women). Let's start with weight. If you don't know that every model is photoshopped to the roof, and a decent amount of them suffer from anxiety for not having the perfect body, well, now you do. Shit's impossible. You can get a decent body by putting in the work, but yeah. Don't stress. 
+Yes, the title is a bit clickbaity, and I'm sure there's some men specific examples too (even these ones count, but for some reason this is more 'sensitive' to talk about for women). 
 
-Anyways, back to shitting on this. What the fuck is wrong with you? How is the number and constituating particles within your body at all offensive to you when you have no reason to be offended? Bro, I just want to know how much mass you have. Is that too much? I'm just asking man; maybe you can punch harder than expected or push with more force than I estimated, idk. I'm just trying to improve my estimation systems!
+#### Weight
+If you don't know that every model is photoshopped to the roof, and a decent amount of them suffer from anxiety for not having the perfect body, well, now you do. Shit's impossible. You can get a decent body by putting in the work, but yeah. Don't stress. 
+
+Anyways, back to shitting on this. What the fuck is wrong with you? How is the number and constituating particles within your body at all offensive to you when you have no reason to be offended? Bro, I just want to know how much mass you have. Is that too much? I'm just asking man; maybe you can punch harder than expected or push with more force than I estimated, idk. I'm just trying to improve my estimation systems! In case you aren't aware, most people tend to not have a 'perfect weight'. There's a decent range of what is considered healthy weight based on factors such as height, nutrition, genetics, etc. (I don't know too much in this domain).  Just be healthy 4head.
 
 #### Age 
-I'm sorry, did I scare you by asking you how contracted the length of your telomeres are?
-{STILL WIP }
+I'm sorry, did I scare you by asking you how contracted the length of your telomeres are? Spoiler alert: The march of time never stops, you'll never age younger. You can relatively slow your aging by moving faster than another observer but that won't stop it, but instead dilate the time. You're growing older. Accept it. Maybe you'll be more confident with your body and mind then. I tried to read a medium article (but it's behind a paywall :) ), so instead had to ELI5 reddit it. Apparently it's a remnant tradition with something to do with appearance and how well you can marry/child bear? Sorry, fucker, but people don't really care about your age. Most people are more in tune with, idk... not numbers because they were given mathophobia from school???
+
+ Also, if it's about appearance... What? The way you look is an indication of your appearance, not your age. You ok bud? Your face is an indication of your appearance. Am I missing something? 
+
 
 ### Rude Manners
 
@@ -63,7 +67,7 @@ I wasn't gonna even put this in because it's so dumb to be against it if you cre
 
 Just go about your day, that's literally it. Nobody's asking you to do anything. Just don't walk up to someone and say 'yeah fuck you for being this thing you can't change.' That's pretty cringe. Not just about homos, for anything. 
 
-Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good?
+Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good? Also, this literally gives heterosexuals less competition to have to deal with for any N potential mating partner.
 
 ### Racism
 I just mentioned it above, so I might as well here. Honestly didn't even think about putting shit like this in, like, seriously? Being racist is cringe. It's pretty obvious that most of the differences in literally any quality of life / 'success' metric is based originally off of: environment born/raised in, economic status of immediate family (or the people you interact with), also the people you interact with (environment again). The genetic difference is fucking laughably miniscule, all it is is:
@@ -89,3 +93,5 @@ See it as tools. As a bunch of tools that can help you solve problems. What scho
 Like, imagine tree fractal UIs on javascript (the p5js library). Wouldn't that be a cool way to learn about maths? Recursiveness, fractions, etc. And that's how you'd use it.
 
 Instead of it being some arbitrary concept that has no use, it's now a tool you used to solve a problem to get this really cool result!
+
+As a 'maths person', I didn't like art in primary school. In hindsight, I didn't like the way art was taught, and how we had to follow all these rules and weird colouring mechanics. Eventually, I realised the truth (other than math = art, because it is); A high-end skill ceiling for art is the ability to represent any image that you can conjure up in your imagination. **Any image**. **Can be**. **Created**. If you can visualise it, you can theoretically draw it.
