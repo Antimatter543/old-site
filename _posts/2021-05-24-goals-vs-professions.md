@@ -5,7 +5,7 @@ date: 2021-04-11
 reviewed: 2021-05-24
 
 published: true
-tag: non-professional
+tags: non-professional gold
 excerpt: 'What you want to be vs what you want to do.'
 comments: true
 ---

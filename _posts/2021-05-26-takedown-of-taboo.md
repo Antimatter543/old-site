@@ -5,7 +5,7 @@ date: 2021-05-26
 reviewed: 2021-05-27
 
 published: true
-tag: non-professional
+tags: non-professional
 excerpt: 'Takedown of dumb ideas that make no sense.'
 comments: true
 ---

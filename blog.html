@@ -9,10 +9,10 @@ includelink: true
 
     {% for post in site.posts %}
         <li>
-        {% if post.tag == 'professional' %}
+        {% if post.tags[0] == 'professional' %}
 
             <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> 
-			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			<a href="{{ post.url }}" title="{{ post.title }}" {% if post.tags[1] == 'gold'%} style="color: rgb(184, 175, 48); font-weight: 500;" {%endif%}>{{ post.title }}</a>
             <br>
 			{% if post.excerpt %}
             <p> {{ post.excerpt }} </p>
@@ -32,10 +32,10 @@ exploration of concepts and ideas, as well as some other fun stuff. It's just ex
 
     {% for post in site.posts %}
         <li>
-        {% if post.tag == 'non-professional' %}
+        {% if post.tags[0] == 'non-professional' %}
 
             <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> 
-			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			<a href="{{ post.url }}" title="{{ post.title }}" {% if post.tags[1] == 'gold'%} style="color: rgb(184, 175, 48); font-weight: 500;" {%endif%}>{{ post.title }}</a>
             <br>
 			{% if post.excerpt %}
             <p> {{ post.excerpt }} </p>

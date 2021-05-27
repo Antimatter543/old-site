@@ -5,7 +5,7 @@ date: 2021-05-20
 reviewed: 2021-05-27
 
 published: true
-tag: non-professional
+tags: non-professional 
 excerpt: "On the importance of attractions/relationships and the lack of verbal knowledge about this. Free data n=~10 here so you can make your own conclusions!"
 comments: true
 ---
