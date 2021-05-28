@@ -82,6 +82,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 
 I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc, but I didn't ask this consistently enough for it to be viable.
 
+
 Side note: I had to talk to people I don't usually talk to because the opportunity presented itself, and I'm not going to deny free data am I?
 
 
