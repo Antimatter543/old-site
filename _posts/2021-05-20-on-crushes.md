@@ -2,7 +2,7 @@
 layout: post
 title: "On Crushes"
 date: 2021-05-20
-reviewed: 2021-05-27
+reviewed: 2021-05-28
 
 published: true
 tags: non-professional 
@@ -62,13 +62,13 @@ Notes: Only 1 female was surveyed. All surveyed individuals are not randomly pic
 <h3> Results </h3>
 Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more.
 
-| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Delayed Crush Formation | Notes|
+| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Delayed Crush Formation | Notes (which grades were they in) |
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|
-| **Me** | 3 | A year | A few months / 2 years (only 1 case; it was on/off. Instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 10, 11, 12|
+| **Me** | 3 | A year | 6 months stfu / 3.5 years (only 1 case; it was on/off. Instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 10, 11, 12. Low active (almost gone). |
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
 | 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. |
 | 4 | 0 | NA | NA | NA | Balling. 0 Crushes madlad. Lowkey late sleeper |
-| 5 | 4 | 6-12 months | Few weeks / 3-4 years | Gradual | None |
+| 5 | 4 | 6-12 months | Few weeks / 4-5 years | Gradual | None. Low active. |
 | 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it.
 |7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 |
 |8| 10 | 2 months | 1 week/ 1 year. | Usually instant | Mostly middle school | 
@@ -77,8 +77,11 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 11 | 6 | ~4-5 months | 1 month / ~8 months | Mostly instant | One per year usually |
 | 12 |  11 | 2 months | 2 days / 5 months | Mix instant/gradual | Over the course of high school |
 | 13 | 5 | 5 months | 1 month / 9 months (school year) | Gradual | Most recent grade 10 | 
+| 14 | 4 | ~2.5 years | 6 months / 5 years | All Gradual | All in high school; 2 Yr 6, 1 Yr9, Yr 11. Low active.|
 
-I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc.
+
+I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc, but I didn't ask this consistently enough for it to be viable.
+
 
 Side note: I had to talk to people I don't usually talk to because the opportunity presented itself, and I'm not going to deny free data am I?
 

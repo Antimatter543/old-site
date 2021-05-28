@@ -9,7 +9,7 @@ tags: non-professional
 excerpt: 'Takedown of dumb ideas that make no sense.'
 comments: true
 ---
-Warning: This post contains swears and is highly radical. This is a combination of logic and sharp emotion that derides you with even more logic. I guess I got somewhat angry when writing some of these. Good luck.
+Warning: This post contains swears and is highly radical. This is a combination of logic and sharp emotion that derides you with even more logic. I guess I got somewhat angry when writing some of these. Good luck. 
 
 ## Taboos and Sensitive Topics
 Note:
@@ -48,7 +48,7 @@ If you don't know that every model is photoshopped to the roof, and a decent amo
 Anyways, back to shitting on this. What the fuck is wrong with you? How is the number and constituating particles within your body at all offensive to you when you have no reason to be offended? Bro, I just want to know how much mass you have. Is that too much? I'm just asking man; maybe you can punch harder than expected or push with more force than I estimated, idk. I'm just trying to improve my estimation systems! In case you aren't aware, most people tend to not have a 'perfect weight'. There's a decent range of what is considered healthy weight based on factors such as height, nutrition, genetics, etc. (I don't know too much in this domain).  Just be healthy 4head.
 
 #### Age 
-I'm sorry, did I scare you by asking you how contracted the length of your telomeres are? Spoiler alert: The march of time never stops, you'll never age younger. You can relatively slow your aging by moving faster than another observer but that won't stop it, but instead dilate the time. You're growing older. Accept it. Maybe you'll be more confident with your body and mind then. I tried to read a medium article (but it's behind a paywall :) ), so instead had to ELI5 reddit it. Apparently it's a remnant tradition with something to do with appearance and how well you can marry/child bear? Sorry, fucker, but people don't really care about your age. Most people are more in tune with, idk... not numbers because they were given mathophobia from school???
+I'm sorry, did I scare you by asking you how contracted the length of your telomeres are? Spoiler alert: The march of time never stops, you'll never age younger. You can relatively slow your aging by moving faster than another observer but that won't stop it, but instead dilate the time. You're growing older. Accept it. Maybe you'll be more confident with your body and mind then. I tried to read a medium article (but it's behind a paywall :) ), so instead had to ELI5 reddit it. Apparently it's a remnant tradition with something to do with appearance and how well you can marry/child bear? Sorry, fucker, but people don't really care about your age. Most people are more in tune with, idk... your face and not numbers because they were given mathophobia from school???
 
  Also, if it's about appearance... What? The way you look is an indication of your appearance, not your age. You ok bud? Your face is an indication of your appearance. Am I missing something? 
 
@@ -70,7 +70,8 @@ Nobody's asking for you to strip naked, strap twenty rainbow flags onto yourself
 
 Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good? Also, this gives heterosexuals less competition to have to deal with for any N potential mating partner.
 
-### Racism
+## Racism and MORE
+**Editor's Note: I go ham here**
 I just mentioned it above, so I might as well here. Honestly didn't even think about putting shit like this in, like, seriously? Being racist is cringe. It's pretty obvious that most of the differences in literally any quality of life / 'success' metric is based originally off of: environment born/raised in, economic status of immediate family (or the people you interact with), also the people you interact with (environment again). The genetic difference is fucking laughably miniscule, all it is is:
 
 You:
@@ -83,8 +84,27 @@ You:
 - have access to a global friends list 
 - have more savepoints so if you mess up, you don't get booted into the fucking nether straight up.
 
+#### A fun experiment
+If you really think that the genetic difference is the only cause of any difference, well, let's have an experiment, shall we? Take a few thousand babies born in an undeveloped, no-electricity no-education part of Africa (because Africa isn't actually all bad) and swap them with a few thousand babies in western high middle-class income (and even more) families. Actually, **don't swap the babies once they're born because that actually lets the mother's nutrition/malnutrition level play a factor into the baby** (see effects of smoking + alcohol on pregnant women & their babies).
+
+So, instead, let's **Swap the eggs**. The fertile eggs. Just yoink the few thousand, and swap em. See what happens?
+
+Even factoring in the weirdness of adopted family situations, I woooonnder what could possibly happen? I wonder if... Perhaps... The humans in the western well-off families will have a higher success rate, higher education, higher nutrition, better physicality, etc. Wow! I wonder if perhaps once you round all their stats up, it'll look just like any other statistical distribution of academic/sports grade for the same large N sample size.
+
+And what about the kids born in the undeveloped parts of Africa? I wonder if they'll have to work only menial labour jobs for hours upon hours a day in order to survive, which reduces their education, sleep, etc. I wonder if the lack of medicine would mean they have a higher death rate and constant malnutrition won't help too.
+
+#### Side note on Diarrhea
+Oh yeah, you know that diarrhea used to be one of the leading causes of death before modern medicine and better nutrition? Seriously. [Diarrhea today has killed more than all 'intentional injuries'.](https://ourworldindata.org/childhood-diarrheal-diseases) It's actually a fucking nasty one, but to any developed nation it's just like 'oh haha fast poopies brrr'. It's the third leading cause of child mortality in the world. Main reason is because of the malnutrition and dehydration you experience after it. 
+
+### Back to Racism; Fun Little Imagery
 Racism is a subset of discrimination. So is discrimination based on economic status, social status and whatnot. Being racist against white people is still racist. Whaaat??? Woah! No shit, fucker. 
 
+But how can you be racist against white people? Overcatering towards group A and leaving group X in the dust is still discrimination, and actually harbours hatred in X towards A so in the long term it could actually backfire. So. Wtf??
+
+Here's some quick imagery: Every poor white person constantly on the verge of homelessness struggling paycheck to paycheck with bank loans tied around their necks harder than any noose as they barely manage to bring their starving kids (who will now perform academically worse and thus have less opportunities for higher paying jobs) to school. This also applies to non-white people. In case you haven't FUCKING NOTICED YET, the race BARELY MAKES A DIFFERENCE. It's the economic status.
+
+So, where does the poverty come from? A very good question.
+I don't actually have too many stats on this, but here's some [quick google search results](https://reliefweb.int/report/world/top-9-causes-global-poverty). Obviously there's some lazy shits, but that's a subset of the demographic I just mentioned.
 {poverty stricken people get railed harder than a railway on a major traintrack}
 
 
