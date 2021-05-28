@@ -2,11 +2,11 @@
 layout: post
 title: "Quick takedown of 'Taboo' and 'Rude Manners'"
 date: 2021-05-26
-reviewed: 2021-05-27
+reviewed: 2021-05-28
 
 published: true
 tags: non-professional
-excerpt: 'Takedown of dumb ideas that make no sense. Derails from some fun safe ideas into much more important concepts.'
+excerpt: 'Takedown of dumb ideas that make no sense. Derails from some fun safe ideas into much more important concepts. Kinda ruthless.'
 comments: true
 ---
 Warning: This post contains swears and is highly sharp. You'll see what I mean. This is a combination of logic and sharp emotion that derides you with even more logic. If you aren't ready to see how I talk when I get genuinely worked up over something, don't go past 'Elbows on Table'. Good luck. 
@@ -116,7 +116,7 @@ You wanna know some issues about poverty? Ok. Inflation increases the price of i
 
 Say that you've somehow managed to become 5head by reading at your local library, somehow finding the time to do this as you juggle multiple poor paying jobs that takes ungodly hours from your life, sleep deprivation, feeding your kids whenever you can whilst you suffer from greater malnutrition. Ok. 
 
-Who's gonna hire your broke ass? You think you have enough money to spend on fancy clothes when your mortgage is rear naked choking you out? You're getting railed harder than a railway on a major traintrack}
+Who's gonna hire your broke ass? You think you have enough money to spend on fancy clothes when your mortgage is rear naked choking you out? You're getting railed harder than a railway on a major traintrack.
 
 
 ### Math

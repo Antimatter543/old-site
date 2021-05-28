@@ -57,10 +57,10 @@ I just went around and asked people in real life (all in school) about these. In
 
 For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to.
 
-Notes: Only 1 female was surveyed. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
+Notes: Three females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
 
 <h3> Results </h3>
-Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more.
+Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more. 
 
 | Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Delayed Crush Formation | Notes (which grades were they in) |
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|
@@ -82,13 +82,16 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 16 | ~2 | 3-4 months | 2 weeks / 5months | Gradual | Both Year 9/10. Most people tend not to have them later. | 
 | 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 |
 |18| 7|  ~6 months | 1 week / 3 years | Instant | This year, consistent over time |
+
+
+
 I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc, but I didn't ask this consistently enough for it to be viable.
 
 
 Side note: I had to talk to people I don't usually talk to because the opportunity presented itself, and I'm not going to deny free data am I?
 
 
-## Analysis, Evaluation and Conclusions
+## Explanations: Analysis, Evaluation and Conclusions
 
 After looking at the data for a bit, it seems there's a few patterns here. Obviously, there's some cases where this completely doesn't apply but here we go. Shoutout to #4 for having **0** crushes throughout their existence so all the other questions were rendered moot.
 
@@ -100,7 +103,14 @@ The average crush duration was either ~1 school year (9-12 months) or ~4 months.
 
 An explanation for the lack of crushes during senior school (Years 10-12) could be from increased workload + less life/work/health balance, increased stress (from factors ranging from career to uni selection to 'do I stay with my parents'), etc.
 
-### Conclusion
+### Limitations 
+Quickly: 
+- some crushes are old so memory may be a bit off
+- potentially lied to, although I don't think so due to the anonymity of the site and my personality to them not being well known.
+- some had talked primary school + high school, some high school only. So the data may be a bit skewed some ways, but it's still useful.
+
+
+## Conclusion
 Well, there you go. I had some fun making this, talked to some people I don't usually talk to and made some potential insights into a topic that's not really talked about. Huh!
 
 
