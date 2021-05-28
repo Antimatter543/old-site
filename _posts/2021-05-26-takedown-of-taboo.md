@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick takedown of 'Taboo' and 'Rude Manners'"
-date: 2021-05-26
+date: 1738-12-25
 reviewed: 2021-05-28
 
 published: true
@@ -9,7 +9,7 @@ tags: non-professional
 excerpt: 'Takedown of dumb ideas that make no sense. Derails from some fun safe ideas into much more important concepts. Kinda ruthless.'
 comments: true
 ---
-Warning: This post contains swears and is highly sharp. You'll see what I mean. This is a combination of logic and sharp emotion that derides you with even more logic. If you aren't ready to see how I talk when I get genuinely worked up over something, don't go past 'Elbows on Table'. Good luck. 
+Warning: This post contains swears and is highly sharp. You'll see what I mean. This is a combination of logic and sharp emotion that derides you with even more logic. If you aren't ready to see how I talk when I get genuinely worked up over something, don't go past 'Elbows on Table'. Good luck. This is raw me.
 
 ## Taboos and Sensitive Topics
 Note:
@@ -126,7 +126,7 @@ Math isn't that bad, the way school taught you was. You can interpret maths in a
 See it as tools. As a bunch of tools that can help you solve problems. What school didn't do but **really should** is give you some tangible, practical problem that you have no idea how to solve first. Then, reverse engineer from the solution to where you are now. You're gonna learn these fun little 'tools' or concepts called MATHS that make the problem a whole lot easier to break down.
 
 Like, imagine tree fractal UIs on javascript (the p5js library). Wouldn't that be a cool way to learn about maths? Recursiveness, fractions, etc. And that's how you'd use it.
-
+![Fractal Tree](/assets/p5js/fractaltree.png)
 Instead of it being some arbitrary concept that has no use, it's now a tool you used to solve a problem to get this really cool result!
 
 As a 'maths person', I didn't like art in primary school. In hindsight, I didn't like the way art was taught, and how we had to follow all these rules and weird colouring mechanics. Eventually, I realised the truth (other than math = art, because it is); A high-end skill ceiling for art is the ability to represent any image that you can conjure up in your imagination. **Any image**. **Can be**. **Created**. If you can visualise it, you can theoretically draw it.
