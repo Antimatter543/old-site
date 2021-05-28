@@ -6,10 +6,10 @@ reviewed: 2021-05-27
 
 published: true
 tags: non-professional
-excerpt: 'Takedown of dumb ideas that make no sense.'
+excerpt: 'Takedown of dumb ideas that make no sense. Derails from some fun safe ideas into much more important concepts.'
 comments: true
 ---
-Warning: This post contains swears and is highly radical. This is a combination of logic and sharp emotion that derides you with even more logic. I guess I got somewhat angry when writing some of these. Good luck. 
+Warning: This post contains swears and is highly sharp. You'll see what I mean. This is a combination of logic and sharp emotion that derides you with even more logic. If you aren't ready to see how I talk when I get genuinely worked up over something, don't go past 'Elbows on Table'. Good luck. 
 
 ## Taboos and Sensitive Topics
 Note:
@@ -66,12 +66,15 @@ I wasn't gonna even put this in because it's so dumb to be against it if you cre
 
  That's all. Like, oh well, they wanna fuck their own gender. Who cares. Big deal. I only care about their potential and productivity and personality as a human being with ideas in their heads. People really stuck up over the smallest of things. "Oh that guy likes dick in his ass." Ok. Cool? I'd still fuckin resurrect Alan Turing any day of the week. I don't think I can ever forget that what was essentially homophobia drove **Alan Fucking Turing** to suicide.
 
+ Alan. Fucking. Turing. TURING.
+
 Nobody's asking for you to strip naked, strap twenty rainbow flags onto yourself and run down the street every day of the year, or yell "I LOVE GAY PEOPLE" at random intervals throughout the day (if they are, realise that they are being the dick here). Just go about your day, that's it. Nobody's asking you to do anything. Just don't walk up to someone and say 'yeah fuck you for being this thing you can't change.' That's pretty cringe, and is in fact a dick move. Not just about homos, for anything. 
 
 Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good? Also, this gives heterosexuals less competition to have to deal with for any N potential mating partner.
 
 ## Racism and MORE
 **Editor's Note: I go ham here**
+
 I just mentioned it above, so I might as well here. Honestly didn't even think about putting shit like this in, like, seriously? Being racist is cringe. It's pretty obvious that most of the differences in literally any quality of life / 'success' metric is based originally off of: environment born/raised in, economic status of immediate family (or the people you interact with), also the people you interact with (environment again). The genetic difference is fucking laughably miniscule, all it is is:
 
 You:
@@ -101,11 +104,19 @@ Racism is a subset of discrimination. So is discrimination based on economic sta
 
 But how can you be racist against white people? Overcatering towards group A and leaving group X in the dust is still discrimination, and actually harbours hatred in X towards A so in the long term it could actually backfire. So. Wtf??
 
-Here's some quick imagery: Every poor white person constantly on the verge of homelessness struggling paycheck to paycheck with bank loans tied around their necks harder than any noose as they barely manage to bring their starving kids (who will now perform academically worse and thus have less opportunities for higher paying jobs) to school. This also applies to non-white people. In case you haven't FUCKING NOTICED YET, the race BARELY MAKES A DIFFERENCE. It's the economic status.
+Here's some quick imagery: Every poor white person constantly on the verge of homelessness struggling paycheck to paycheck with bank loans tied around their necks harder than any noose as they barely manage to bring their starving kids (who will now perform academically worse and thus have less opportunities for higher paying jobs) to school. This also applies to non-white people. In case you haven't FUCKING NOTICED YET, the race BARELY MAKES A DIFFERENCE. It's the economic power they hold.
 
+
+### Switching to Poverty
 So, where does the poverty come from? A very good question.
-I don't actually have too many stats on this, but here's some [quick google search results](https://reliefweb.int/report/world/top-9-causes-global-poverty). Obviously there's some lazy shits, but that's a subset of the demographic I just mentioned.
-{poverty stricken people get railed harder than a railway on a major traintrack}
+I don't actually have too many stats on this, but here's some [quick google search results](https://reliefweb.int/report/world/top-9-causes-global-poverty). Obviously there's some lazy shits, but that's a subset of the demographic I just mentioned. Most of the time, it's legit just a bad spawn. And spawning in poverty drastically reduces your chance of getting any meaningful money increases even if you work as hard as others. I'd hypothesis that climbing out of poverty is significantly harder than a millionaire making another million. 
+
+You wanna know some issues about poverty? Ok. Inflation increases the price of items yet wages don't match the increase, which leads to a slow siphoning of consumer purchasing power over time. 
+
+
+Say that you've somehow managed to become 5head by reading at your local library, somehow finding the time to do this as you juggle multiple poor paying jobs that takes ungodly hours from your life, sleep deprivation, feeding your kids whenever you can whilst you suffer from greater malnutrition. Ok. 
+
+Who's gonna hire your broke ass? You think you have enough money to spend on fancy clothes when your mortgage is rear naked choking you out? You're getting railed harder than a railway on a major traintrack}
 
 
 ### Math

@@ -6,7 +6,7 @@ reviewed: 2021-05-28
 
 published: true
 tags: non-professional 
-excerpt: "On the importance of attractions/relationships and the lack of verbal knowledge about this. Free data n=~10 here so you can make your own conclusions!"
+excerpt: "On the importance of attractions/relationships and the lack of verbal knowledge about this. Free data n=~20 here so you can make your own conclusions!"
 comments: true
 ---
 Warning: Contains swears.
@@ -78,9 +78,10 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 12 |  11 | 2 months | 2 days / 5 months | Mix instant/gradual | Over the course of high school |
 | 13 | 5 | 5 months | 1 month / 9 months (school year) | Gradual | Most recent grade 10 | 
 | 14 | 4 | ~2.5 years | 6 months / 5 years | All Gradual | All in high school; 2 Yr 6, 1 Yr9, Yr 11. Low active.|
-| 15 / 25 (including 2D chars) | ~6 months | 1 week / 6 months; 5 years (if 2D)| Instant (holy fuck) | This guy is fucking crazy. Most recent last year.
+| 15 | 5/ 25 (including 2D chars) | ~6 months | 1 week / 6 months; 5 years (if 2D)| Instant (holy fuck) | This guy is fucking crazy. Most recent last year.
 | 16 | ~2 | 3-4 months | 2 weeks / 5months | Gradual | Both Year 9/10. Most people tend not to have them later. | 
-
+| 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 |
+|18| 7|  ~6 months | 1 week / 3 years | Instant | This year, consistent over time |
 I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc, but I didn't ask this consistently enough for it to be viable.
 
 
