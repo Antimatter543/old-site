@@ -103,11 +103,13 @@ Side note: I had to talk to people I don't usually talk to because the opportuni
 First off. **2 people admitted they lied to me when giving the data**. And those are the ones that admitted to me. So there's definitely some SUS people here. Both times, the people have (in truth's data) increased the # of crushes and the longest duration of one.
 After looking at the data for a bit, it seems there's a few patterns here. Obviously, there's some cases where this completely doesn't apply but here we go. Shoutout to #4 for having **0** crushes throughout their existence so all the other questions were rendered moot.
 
+By the looks of the data, you could probably begin creating categories for certain types of crushings. For instance, those who have more tend to have shorter crushes, and experience more Instants. A minority seem to have extremely long crush periods, etc.
+
 The average number of crushes is ~2-4 people (excluding the two 10s), and everybody asked is at least in grade 12. #9 is just a bonus (approx. 25yrs; a bit older than final year high school). I am the only one whose information is public because I'm fucking insane and apparently have nothing to lose.
 
 The most popular time to have crushes was around Year 7-11, and second most common was tied between primary (#6 is the Sus outlier here) & consistent throughout high school. Most crush formations were gradual, although there were some mixes and instants. Instants did slightly tend to have more crushes, although not by much. Obviously, increases in sample size will make this data more valid. Usually the longest crushes lasted at least a year.
 
-The average crush duration was either ~1 school year (9-12 months) or ~4 months. I'm somewhat of an outlier by having more crushes during the later stages of life as opposed to the earlier ones, and my duration of crush formation is a bit longer than average.
+The average crush duration was either ~1 school year (9-12 months) or ~4 months. Some types (a minority) have more crushes during the later stages of high school (Years 10-12) as opposed to the earlier ones, and my duration of crush formation is a bit longer than average.
 
 ## Evaluation
 ### Potential Explanations
