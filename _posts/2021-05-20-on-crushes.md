@@ -5,7 +5,7 @@ date: 2021-05-20
 reviewed: 2021-05-28
 
 published: true
-tags: non-professional 
+tags: non-professional gold
 excerpt: "On the importance of attractions/relationships and the lack of verbal knowledge about this. Free data n=~20 here so you can make your own conclusions!"
 comments: true
 ---
@@ -103,11 +103,13 @@ Side note: I had to talk to people I don't usually talk to because the opportuni
 First off. **2 people admitted they lied to me when giving the data**. And those are the ones that admitted to me. So there's definitely some SUS people here. Both times, the people have (in truth's data) increased the # of crushes and the longest duration of one.
 After looking at the data for a bit, it seems there's a few patterns here. Obviously, there's some cases where this completely doesn't apply but here we go. Shoutout to #4 for having **0** crushes throughout their existence so all the other questions were rendered moot.
 
+By the looks of the data, you could probably begin creating categories for certain types of crushings. For instance, those who have more tend to have shorter crushes, and experience more Instants. A minority seem to have extremely long crush periods, etc.
+
 The average number of crushes is ~2-4 people (excluding the two 10s), and everybody asked is at least in grade 12. #9 is just a bonus (approx. 25yrs; a bit older than final year high school). I am the only one whose information is public because I'm fucking insane and apparently have nothing to lose.
 
 The most popular time to have crushes was around Year 7-11, and second most common was tied between primary (#6 is the Sus outlier here) & consistent throughout high school. Most crush formations were gradual, although there were some mixes and instants. Instants did slightly tend to have more crushes, although not by much. Obviously, increases in sample size will make this data more valid. Usually the longest crushes lasted at least a year.
 
-The average crush duration was either ~1 school year (9-12 months) or ~4 months. I'm somewhat of an outlier by having more crushes during the later stages of life as opposed to the earlier ones, and my duration of crush formation is a bit longer than average.
+The average crush duration was either ~1 school year (9-12 months) or ~4 months. Some types (a minority) have more crushes during the later stages of high school (Years 10-12) as opposed to the earlier ones, and my duration of crush formation is a bit longer than average.
 
 ## Evaluation
 ### Potential Explanations
@@ -153,19 +155,26 @@ Anyways, looking at my own experiences, it seems that there's a few things to co
 3. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have).
 4. Now that I think about, definitely some level of independence / I don't give a shit (don't ask me why, but hair that isn't perfectly straight and has some 'electricity' (thus, the lack of giving a shit in this aspect of life) in it looks better to me than perfectly normal hair.)
 
-For all cases S1, S2, S3, the crush was majorly friend based and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period.
+For all cases S1, S2, S3 (like State 1,2,3 in RL..? No? Ok, like seasons 1, 2, 3), the crush was majorly friend based and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period.
 
 We'll talk about S3 here. In this case, I'd realise she had the potential to be a life-long friend long before any limerence formed. Since quite a lock of ticks where ticked off some imaginary checklist, le pepega brain did the following:
-
+```
 Pepeg brain: "Hey... You kinda like this person."
-Me: "Yeah, she's actually a decent human being. Very epic."
-Pepeg brain: "Yeah, but... If she's a decent human being, shouldn't you *like like* her?"
-Me: "What? Why? That makes no sense. I'm perfectly happy with the way things are right now."
-Pepeg brain: "Nonono trust meee wouldn't it be FUUNNNYY??"
-Me: "Not really. To be honest, I don't really want a crush right now... Hey, what are you doing?"
-Pepeg brain: "nothin nothing! Don't mind me DON'T MIND ME."
-Me: "Wait you LITTLE SHI-"
 
+Me: "Yeah, she's actually a decent human being. Very epic."
+
+Pepeg brain: "Yeah, but... If she's a decent human being, shouldn't you *like like* her?"
+
+Me: "What? Why? That makes no sense. I'm perfectly happy with the way things are right now."
+
+Pepeg brain: "Nonono trust meee wouldn't it be FUUNNNYY??"
+
+Me: "Not really. To be honest, I don't really want a crush right now... Hey, what are you doing?"
+
+Pepeg brain: "nothin nothing! Don't mind me DON'T MIND ME."
+
+Me: "Wait you LITTLE SHI-"
+```
 On the plus side, I think I've been able to 'kill' crushes easier the more I've had them. Since S3 is basically finished and I've only had it for a few months. S2 was ~1 year and S1 was a bit longer. Does that mean I've *matured*? Weird word. 
 
 #### Funny observation
