@@ -11,8 +11,14 @@ comments: true
 ---
 Warning: Contains swears.
 
+<h2> Table of Contents </h2>
 
-<h2> Introduction </h2>
+<ol>
+</ol>
+* Table of Contents (this text is replaced with the table of contents)
+{:toc}
+
+## Introduction 
 
 I implore you to look around.
 
@@ -25,7 +31,7 @@ And the only reason humanity has made it this far is because they were *really h
 
 This only came to my mind after reading Love Is War. *What*. My world perspective was shifted by a text (although not the first time). This observation is so obvious and only requires 1 step of thinking, but I've never even thought about this domain at all.
 
-<h2> Rationale </h2>
+## Rationale 
 Given that humanity has only reached this point by the consistent fornification (I just mean 'fucking' here) over a large period of time, it suggests that the future of humanity is also reliant on this process. Thus, the entire topic of attraction actually appears to be quite an important one - one that is often thrown under the rug and deemed private or sensitive whathaveyou. 
 
 <img src="/assets/horni.PNG" alt="A great timeline image drawn by me in paint." width="90%">
@@ -44,9 +50,9 @@ This has led me to collect data on crushes (or limerence). Now, relationships & 
 Side note: so much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="LEX FRIDMAN ELON MUSTK VIDEO I couldn't find the timestamp so just watch them both. It might also have been a Joe Rogan podcast?"> this Lex Fridman podcast.</a> Also related to Exploiting the limbic system (another post).))
 
 
-<h2> Accumulation of Data </h2>
+## Accumulation of Data 
 
-<h3> Methodology </h3>
+### Methodology 
 I just went around and asked people in real life (all in school) about these. Initially, I didn't have a set of questions to ask so I just asked general ones, but I systemised the method into the following questions:
 <ul>
 <li> How many crushes have you had (and currently have), if any? </li>
@@ -57,9 +63,9 @@ I just went around and asked people in real life (all in school) about these. In
 
 For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to. I did randomise the data so it wasn't most recent person is the latest number, but I decided against it (after I organised it...) because... I just didn't care enough. 
 
-Notes: Three females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
+Notes: Four females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
 
-<h3> Results </h3>
+### Results 
 Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more. 
 
 | Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes | 
@@ -81,8 +87,9 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 15 | 5/ 25 (including 2D chars) | ~6 months | 1 week / 6 months; 5 years (if 2D)| Instant (holy fuck) | This guy is fucking crazy. I love it. Most recent last year |
 | 16 | ~2 | 3-4 months | 2 weeks / 5months | Gradual | Both Year 9/10. Most people tend not to have them later. | 
 | 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 |
-|18| 7|  ~6 months | 1 week / 3 years | Instant | Most recent was this year, consistent over time |
-| 19| 7 | ~4 months | 3 months / 1 year | Most gradual, 2 instant | Grades 7-9, Grades 10, 11. Consistent |
+| 18 | 7|  ~6 months | 1 week / 3 years | Instant | Most recent was this year, consistent over time |
+| 19 | 7 | ~4 months | 3 months / 1 year | Most gradual, 2 instant | Grades 7-9, Grades 10, 11. Consistent |
+| 20 | 5 | 3-4 months | 1 month / 9 months | Gradual attachment until a sudden realisation "Ah, I like them." | Mainly Years 9-11 (??) |  
 
 
 I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc, but I didn't ask this consistently enough for it to be viable. Other good questions would've been "What's your definition of a crush?", "What made you stop having the crush?" 
@@ -91,7 +98,7 @@ I should've asked this question too, but here's some anecdotal answers that I go
 Side note: I had to talk to people I don't usually talk to because the opportunity presented itself, and I'm not going to deny free data am I?
 
 
-## Explanations: Analysis, Evaluation and Conclusions
+## Analysis
 
 First off. **2 people admitted they lied to me when giving the data**. And those are the ones that admitted to me. So there's definitely some SUS people here. Both times, the people have (in truth's data) increased the # of crushes and the longest duration of one.
 After looking at the data for a bit, it seems there's a few patterns here. Obviously, there's some cases where this completely doesn't apply but here we go. Shoutout to #4 for having **0** crushes throughout their existence so all the other questions were rendered moot.
@@ -102,8 +109,8 @@ The most popular time to have crushes was around Year 7-11, and second most comm
 
 The average crush duration was either ~1 school year (9-12 months) or ~4 months. I'm somewhat of an outlier by having more crushes during the later stages of life as opposed to the earlier ones, and my duration of crush formation is a bit longer than average.
 
-
-##### Potential Explanation
+## Evaluation
+### Potential Explanations
 An explanation for the lack of crushes during senior school (Years 10-12) could be from increased workload + less life/work/health balance, increased stress (from factors ranging from career to uni selection to 'do I stay with my parents'), etc.
 
 After getting a larger sample size, it seems some people tend to have a random crush that lasts for an extreme amount of time relative to the others. This makes me feel better (I thought I was alone in this! But not anymore; suck it!).
@@ -127,7 +134,7 @@ Well, there you go. I had some fun making this, talked to some people I don't us
 
 
 
-### Extra - My experiences
+## Extra - My experiences
 At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! I have suffered leaving my own experiences out here so YOU PEOPLE CAN GET FREE DATA, REMEMBER THE SUFFERING I HAVE ENDURED.
 
 "Clickbait (but technically true): They scored higher than I did in some subject at some time (although most people probably did at some point)"
@@ -161,7 +168,7 @@ Me: "Wait you LITTLE SHI-"
 
 On the plus side, I think I've been able to 'kill' crushes easier the more I've had them. Since S3 is basically finished and I've only had it for a few months. S2 was ~1 year and S1 was a bit longer. Does that mean I've *matured*? Weird word. 
 
-#### Funny observation:
+#### Funny observation
 
 I suspect I'm highly unusual in this manner (and based on one person's detailed version of how they form crushes, different to them).
 This is a really nice benefit actually, and I'm not sure if other people experience this to the same degree I do, but  physical attractiveness based on some evaluation metric (like personality, compatibility -> hobbies, interests, ethics, morals, etc.) changes once I get to know them better. Like it *really* changes physical attractiveness.

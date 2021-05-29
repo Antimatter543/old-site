@@ -14,14 +14,23 @@ comments: true
 		width: 50%;
 	}
 </style>
-<h3> Abstract (Spoilers) </h3>
+
+### Abstract (Spoilers) 
 First hackathon I've done. Joined a team, learnt a bunch of stuff about workflows, git, branches and communicating with a team among other things. Skip to <em> The Game </em> if you're a boring nancy, and skip to <em> Results </em> if you're the most boring nancy. T'was a wild week. Team name: Totoro.
 
 Here's our github repo: <a href="https://github.com/chrisrabe/ai-sports-2021"> AI sports 2021 </a>.
 
 Silent (team leader) also made his own reflection type thing: <a href="https://docs.google.com/document/d/1ozkP3XgFPLWy1wzUtgNeFF_y5ijLSH4Aw17bPBEn7fM/"> Here it is. </a> See May 1st Logs for my definitely not cherrypicked praise hehe.
 
-<h2> Background Information </h2>
+
+<h2> Table of Contents </h2>
+
+<ol>
+</ol>
+* Table of Contents (this text is replaced with the table of contents)
+{:toc}
+
+## Background Information 
 <a href="https://www.gocoder.one/aisports"> Coderone </a> is a (recent) startup company who so far hosts AI competitions. In December 2020, they hosted their first hackathon - a bomberesque game where your bot vs' another bot and wins by having more points than the enemy or letting the enemy die.
 
 <img src="/assets/coderone/oldgame.gif" alt="Gif of the old game">
@@ -44,14 +53,14 @@ I was planning on going solo, but yolo. Maybe a team would be good? (Spoilers: y
 
 After writing a quick self intro, someone we shall call Silent asked if I wanted to join their team. I asked a few questions, then joined. There were already 2 other people in the team. I was going to talk about them straight up, but there's some terminology there so it's better if I explain the game first.
 
-<h3> The Game </h3>
+### The Game 
 
 Here's the <a href ='https://docs.gocoder.one/'> game docs </a> for this version of the game if you're keen to delve further. As said before, it's a 1v1 kill or be killed situation. The game is a 9x9 map where players spawn with <code> 3 (initial ammo, hp, player diameter) </code> at a set position. Maps are symmetrical and pickups (ammo, powerups) spawn at random tiles every once in a while. You damage the enemy with bombs (more specifically, the 'blast' entities it shoots out). A powerup increases the player diameter by 1, so the length of the blast zone that explodes from the bomb is  <code> player_diameter //  2 </code>.
 
 Also, there's <b> fire </b> that starts spreading at 1800 ticks, and encircles the map until everything has a fire (technically a 'blast' with no expiry date) object on it.
 You can destroy the wood tiles with bombs, but the shiny stuff is immortal.
 
-<h4> Tournament Rules </h4>
+#### Tournament Rules 
 There's qualifiers, which is a round-robin tournaments. Results in... Results.
 The bot we submitted was the algo-bot instead of vm bot (we'll talk about that later).
 
@@ -63,7 +72,7 @@ Previously they used python but this time they decided to use a thing called <a 
 
 Anyways, let's go meet the team!
 
-<h3> The Team </h3>
+### The Team 
 <p>Silent - Software engineer guy, participated last time. Very pog. </p>
 <p> Anti - Me guy, it's me! </p>
 Waz - Data science guy, participated last time. Very nice.
@@ -74,7 +83,7 @@ Alex - Consists of 2 people (5th members) who didn't do anything so they essenti
 days joining. Basically, the guys that joined & quit. Alex is the term used for this. 
 </s>
 
-<h4> The team but more </h4>
+#### The team but more
 
 <b> Silent </b> was essentially the team leader. Once the game started (or close to it), he shared the private repo we would be committing in for the duration of the hackathon.
 The codebase he set up abstracted away the weird Docker stuff so our team could just focus on actually coding the bot instead of worrying about the infrastructure. He drew diagrams explaining the structure of the project as well as set up a discord server for the team, having chats for strategies, replays, todos, bug-fixes, etc (team decision).
@@ -97,11 +106,11 @@ That way, once I eventually do create an RL solution, I can appreciate the ?eleg
 <b> Gaurav </b> - Gaurav did what he did. He worked on the pickup and block destroy, and probably some other things that I'm not aware about. (I don't know about my team, but I <em> really </em> didn't want to work on pickup or block destroy for some reason, so this guy basically took the L for me. Pog. I think Silent helped a bit with those too.)
 
 
-<h3> Our Bot / Results </h3>
+## Our Bot / Results 
 
 Here's the github repository again. Talking about the bot(s) first, then the results. Our team name was Totoro (and for fun, our final submission was 'Spicy Totoro'. Don't ask me why, I have no clue.)
 
-<h4> Bot </h4>
+### Bot
 From our in-house scrims, the vm-bot consistently the algo-bot one it had the 'retreat' strategy, which was essentially a valuemap version of the basic avoid strat.
 However, when our local 2 core Gaurav ran the image, the vm bot was glitching out (and the algo-bot, but less so). Turns out that the vm bot was returning & executing strategies too late -- it was too slow. Now, we didn't find this until the day we had to submit for playoffs, so we quickly had to submit the algo-bot which I had diligently been working on, just watching it *lose and lose and lose* to vm-bot. Luckily, I had just created an immediate_enemy_trapped property (added it to the gamestate), and along with some last minute bugfixes with the team, algobot made it through qualifiers. Turns out working on algo-bot was useful after all.
 
@@ -119,7 +128,7 @@ Might've worded it a bit odd, so here's the brain code.
 
 **<a href="https://docs.google.com/document/d/1ozkP3XgFPLWy1wzUtgNeFF_y5ijLSH4Aw17bPBEn7fM/edit#"> Here's Silent's reflection that he somehow already made. </a>**
 
-<h4> Results </h4>
+### Results 
 
 TL;dr - Made it through qualifiers (came 13th), lost in playoffs. 
 
@@ -140,7 +149,7 @@ If I were to give any suggestions to the Coder One peeps, it's Docker. There has
 Overall, good work Coder One people!
 Shoutout to Valgrowth's comeback vs Wigglyblob (the team of Jigglybluff) in the grand finals. Wild games. Quite unfortunate for Wiggly, bit it is what it is.
 
-<h3> Conclusion </h3>
+# Conclusion 
 Due to computation resource issues, we switched from vm-bot to algo-bot before Qualifiers, which luckily wasn't that much worse than our vm-bot since I had kept on working on it. Then, we continued upgrading the bot, adding in better pathfinding + hazard avoidance as well as better killable detection (+ a tiny amount of fire-zone code) before handing it in to playoffs. Still lost, but we held our ground in the battles, consistently making it to endgames of 1800-2100 ticks before eventually dying out.
 
 This was definitely a fun experience, and I'll 100% do it again. The sheer amount I learnt from my team alone made this worthwhile even if we hadn't gone through qualifiers.
