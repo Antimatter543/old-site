@@ -11,6 +11,13 @@ comments: true
 ---
 Warning: This post contains swears and is highly sharp. You'll see what I mean. This is a combination of logic and sharp emotion that derides you with even more logic. If you aren't ready to see how I talk when I get genuinely worked up over something, don't go past 'Elbows on Table'. Good luck. This is raw me.
 
+<h2> Table of Contents </h2>
+<ul>
+</ul>
+* Table of Contents (this text is replaced with the table of contents)
+{:toc}
+
+
 ## Taboos and Sensitive Topics
 Note:
 A common trend for all of these (which is actually just talking about any topics in general), is only talk to them with people you **trust**. That goes for **any** topic. And obviously, if it's genuinely a sensitive topic, 
@@ -62,7 +69,7 @@ Seriously? Ok, say you think this. May I ask why? What is the logical derivation
 
 ### Homosexuality
 
-I wasn't gonna even put this in because it's so dumb to be against it if you created your own base set of [fundamental morals](/blog/1337/01/12/useful-concepts) and built up from there. Oh no!!!! The majority of the world population still wants to fuck the other gender so there's no anti-population problems (i.e still enough babies are being made so humanity's not gonna fucking die out). But these like 10% of the population want to fuck each other in the ass or do the scissors thing, oh no! I'm not there to watch it, but I don't like it, oh no! Sucks. There's way worse shit going on in this messed up planet that is really not fun to think about, but people who tend to feel attracted towards something that's not conventional is too much? At worst, homosexuality is probably some glitchy brain wiring. Not all glitches are bad (that's literally the whole point of evolution). Being against gays is kinda like being against evolution; evo's just doing its shit man; how do you think you were made?
+I wasn't gonna even put this in because it's so dumb to be against it if you created your own base set of [fundamental morals](/blog/1337/01/12/useful-concepts) and built up from there. Oh no!!!! The majority of the world population still wants to fuck the other gender so there's no anti-population problems (i.e still enough babies are being made so humanity's not gonna fucking die out). But these like 10% of the population want to fuck each other in the ass or do the scissors thing, oh no! I'm not there to watch it, but I don't like it, oh no! Sucks. There's way worse shit going on in this messed up planet that is really not fun to think about, but people who tend to feel attracted towards something that's not conventional is too much? At worst, homosexuality is some variation. The whole point of evolution. Given an enclosed environment, shoving a bunch of entities in there that mutate will eventually result in an optimal specimen for that specific environment. Being against gays is kinda like being against evolution; evo's just doing its shit man; how do you think you were made?
 
  That's all. Like, oh well, they wanna fuck their own gender. Who cares. Big deal. I only care about their potential and productivity and personality as a human being with ideas in their heads. People really stuck up over the smallest of things. "Oh that guy likes dick in his ass." Ok. Cool? I'd still fuckin resurrect Alan Turing any day of the week. I don't think I can ever forget that what was essentially homophobia drove **Alan Fucking Turing** to suicide.
 
@@ -72,6 +79,8 @@ Nobody's asking for you to strip naked, strap twenty rainbow flags onto yourself
 
 Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good? Also, this gives heterosexuals less competition to have to deal with for any N potential mating partner.
 
+
+{FUNDAMENTAL  MORALS -> religions; assume high level hodge podge morals. Conflicting ideas (God loves everyone unconditionally, but conditionally. Huh?) Not that there's anything wrong with religion; it's quite a good defense against nihilism and was a good enough approximation of a book of morals to get societies functioning for a while. Interesting how so many different cultures produced religions; maybe it's like the eye in evolution? The advantages of it were so powerful that the actor converged to it multiple times even when they weren't aware of others (i.e didn't have the gene originally?) }
 ## Racism and MORE
 **Editor's Note: I go ham here**
 
@@ -95,6 +104,12 @@ So, instead, let's **Swap the eggs**. The fertile eggs. Just yoink the few thous
 Even factoring in the weirdness of adopted family situations, I woooonnder what could possibly happen? I wonder if... Perhaps... The humans in the western well-off families will have a higher success rate, higher education, higher nutrition, better physicality, etc. Wow! I wonder if perhaps once you round all their stats up, it'll look just like any other statistical distribution of academic/sports grade for the same large N sample size.
 
 And what about the kids born in the undeveloped parts of Africa? I wonder if they'll have to work only menial labour jobs for hours upon hours a day in order to survive, which reduces their education, sleep, etc. I wonder if the lack of medicine would mean they have a higher death rate and constant malnutrition won't help too.
+
+
+### The "Catch"
+
+
+
 
 #### Side note on Diarrhea
 Oh yeah, you know that diarrhea used to be one of the leading causes of death before modern medicine and better nutrition? Seriously. [Diarrhea today has killed more than all 'intentional injuries'.](https://ourworldindata.org/childhood-diarrheal-diseases) It's actually a fucking nasty one, but to any developed nation it's just like 'oh haha fast poopies brrr'. It's the third leading cause of child mortality in the world. Main reason is because of the malnutrition and dehydration you experience after it. 
@@ -130,3 +145,86 @@ Like, imagine tree fractal UIs on javascript (the p5js library). Wouldn't that b
 Instead of it being some arbitrary concept that has no use, it's now a tool you used to solve a problem to get this really cool result!
 
 As a 'maths person', I didn't like art in primary school. In hindsight, I didn't like the way art was taught, and how we had to follow all these rules and weird colouring mechanics. Eventually, I realised the truth (other than math = art, because it is); A high-end skill ceiling for art is the ability to represent any image that you can conjure up in your imagination. **Any image**. **Can be**. **Created**. If you can visualise it, you can theoretically draw it.
+
+
+<!-- ### Abortion
+
+Let's get something straight. People die. Let's assume abortion is murder.
+
+This one is actually heavily dependent on the situation, but we'll follow the logic here:
+Going with the lower-class situation, potential young single mother with little financial backing.
+
+(If you want my truly personal no-pure logic held idea: I mean. Fuck em. People die all the time. If there's a legitimate reason for killing it (assuming it's murder and has a consciousness or something), go on. You could also stop child-deaths and human deaths by increasing road and traffic safety regulations, open sourcing technology to increase safety but that's not gonna happen is it? Not when there's money to be made. [Or maybe save the 4.6 million deaths per year from air pollution?](https://www.sciencedaily.com/terms/air_pollution.htm#:~:text=The%20World%20Health%20Organization%20estimates,directly%20attributable%20to%20air%20pollution.) No carbon tax tho, huh? Let's argue about abortion instead. Fucking what? Priorities. Get them.)
+Pro-life (in the conventional sense) is actually anti-life. Even if you murder the child now, the long run is worse. Because you'll end up hurting not only the child (by spawning him into a life of poverty), but also yourself (because you just signed a contract that forced you into poverty and can't leave it without doing some things that *hurt*.)
+
+In the words of someone: "I'd be pissed if I had a living parasite that I knew would ruin my life and its own life but I couldn't feetus yeetus it because some old guy said no. Bitch, you have the baby!"
+The primary reason pro-life = anti-life in this case is simple: Money.
+
+#### The example situation
+Why? Say the baby child is born. The independent mother, who is young and doesn't have a strong stable source of income, must defend the child (we'll assume in this case that foster care / adoption isn't a thing. The mother is raising the shitter to child hood). [Average child raising cost is $160K-550K](https://www.finder.com.au/life-insurance-and-the-cost-of-raising-children#:~:text=It%20found%20that%20the%20cost,to%20%24548%2C500%20over%2018%20years.). Without a strong income, the family is in poverty, yes? *Poverty*. Remember that word? That painful fucking scythe that strangles you? Yeah, that one. Let's go.
+
+Assuming 1 mother 1 child, the mother must first work potentially multiple jobs to be able to get enough money for basic necessities such as shelter (mortgage ass), electricity, food, etc. Given the fact that the mother is young leads to the conclusion that it is statistcally probable that most of these situations will have lower paying jobs, so the probability of only having a single high paying job is low. Thus, we have problem 1:
+
+Either the mother can leave the emotional and physical development of the child in shambles (which, by the way, motherly affection increases neural growth in children) whilst she has to work hours on end to pay for expenses, or the mother tends to the development of the child whilst forgoing the proper financial necessitities, which will lead to at best, malnutrition issues (guess what motherfucker? Malnutrition is really not good for a brain that growing.)
+
+Alright, so the kid is fucked one way or another. Now school starts; the kid's in poverty so instantly he's most likely going to some public school (nothing wrong with that). But. His fees for the books, the clothes, the shoes and socks? Sure, you can cover it initially. Can you cover the fees and excursions too? Oh, you can? Nice! You holding up well with that 1 meal a day every sometimes, bud? You think your kid doesn't worry about you? Fucking retard. Kids are kids, but they're not dumb. Say you somehow weren't abusive (or had an abusive partner -- by the way, if this is the case oh boy does the cycle repeat) and you managed to hold it together for the kid as he grows up. They'll grow worried over you to the point where they want to spend more time with you as opposed to getting an education which can at least give them a glimmer of hope at escaping the god forsaken cycle you're in.
+
+But he's already fallen down that spiral. In an attempt to help you, he's forsaken his future life as someone that can escape it. You can try to force him away (if you're strong enough to not get that emotional support), so he'll get some attachment issues from being rejected by his own and only authority figure as a child whilst you get completely brain fucked by not being able to support your kid when he needs it the most. By the way, saying things like "I'm doing this for you" doesn't really work. Hitting a child, even if they are given a reason why, does not diminish the feelings of insecurity the child felt when hit.
+
+This is assuming an ideal scenario where you aren't fucking the kid up remember?
+
+Oh, by the way, since this is poverty, guess what's happening in schoool!!?!?!???! Bullying time pooog!!! He's not gonna make that many friends because he's socially and emotionally traumitised oooooh spooooooky. And if they get fucked by an abusive parent, oh boy. It's already over.
+
+Because you know what's gonna happen to a kid that gets traumitised? They're gonna become you! The parent. They're now either completely fucked and doing criminal activities, wasting their life away, or are stuck in poverty looking for that glimmer of hope (so they get pushed to the poverty example).
+
+To sum up: They lived in poverty for 7-8 years, became aware
+
+Because killing it is worse than letting it live *this type of life*. Right?
+//
+So that's that example. What about foster caring the fucker?
+
+
+To be honest, I don't know how to explain this topic.
+
+At the end of the day, it just feels like, it's their choice? If I was a woman, I'm yeeting the fucker out. No poverty for us. We'll make that one again later, and he'll live a worthwhile life.
+
+If you were a woman (assuming you're pro-life), you can have the baby! It's that simple. This shit's way too complicated; combining the perspectives are really shit. So, just make it legal. If they want to, they can.
+
+
+**My professional conclusion: Don't be a dick. Make it legal, if they want to abort, they abort. If not, they not.**
+
+
+Consider the baby's perspective: Do they want to die or live? 
+The mother's perspective
+The boyfriend's perspective ??
+The environment's perspective????
+
+
+Pro-choice: If you wanna abort, you can, if you don't want to, don't.
+
+Pro life  : If you wanna abort, you can't, if you don't want to, you can't.
+
+This is the difference between the 2.
+
+
+I don't think this is fundamental moral level, but the path to reach it from moral basis is odd. Tl;dr: Don't be a dick! 
+
+
+////
+THE DATA:
+https://www.worldometers.info/abortions/
+
+So, if the number of abortions is insane, the to/die factor is this:
+What's the % of abortions/pregnancies that occur in impoverished families? Like..
+If it's 10%. Imagine. Imagine the number of poverty cycles you just added to the world because the fucker's didn't go byebye so now they'll have to suffer a shitty life before going byebye. Developing a country gets harder when you have more mouths to feed.
+/////
+
+Another way:
+
+Other people want you to do it, you don't want to do it, you get no benefit from doing it.
+
+What do other people get from doing it (some couple's gonna get a foster babi) and what do you get from doing it (even tho you didn't want to do it)? (A fockin baby lad, 9 months of pregnancy -> entails restrictions of lifestyle, vomit, pain, contraction, that thing called childbirth,) The baby: restrictions of lifestyles, enlarged canal or somethin -->
+
+I figured out a way to determine whether 
+1. Any moral problem has an overall solution (has a steady state as opposed to eternally fucked)
+2. How to reach an average consensus
