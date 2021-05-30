@@ -47,7 +47,7 @@ Tl;dr: Democratise the knowledge of relationships! Make it public domain and pro
 This has led me to collect data on crushes (or limerence). Now, relationships & crushes don't relate too directly, but they were close enough that I thought, "Why not?" To increase my knowledge of this domain (of crushes) will indirectly help me when I'll have to deal with relationships / attraction in the future. How, I'm not sure. But more data helps. And also, it's nice to just increase your knowledge on any particular topic. Perhaps this has been slightly influenced as I ~~currently~~ just had an object of limerence, but... Fuck it. This is still interesting on its own.
 
 
-Side note: so much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="LEX FRIDMAN ELON MUSTK VIDEO I couldn't find the timestamp so just watch them both. It might also have been a Joe Rogan podcast?"> this Lex Fridman podcast.</a> Also related to Exploiting the limbic system (another post).))
+Side note: So much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="http://www.youtube.com/watch?v=smK9dgdTl40&t=14m19s"> this Lex Fridman podcast (link works now).</a> Also related to Exploiting the limbic system (another post)).
 
 
 ## Accumulation of Data 
@@ -61,7 +61,7 @@ I just went around and asked people in real life (all in school) about these. In
 <li> Was it an instant thing or did the crush take time to form?</li>
 </ul>
 
-For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to. I did randomise the data so it wasn't most recent person is the latest number, but I decided against it (after I organised it...) because... I just didn't care enough. 
+For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to. I did randomise the data so it wasn't most recent person is the latest number, but I decided against it because it requires upkeep after each new set of data. 
 
 Notes: Four females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
 
@@ -129,10 +129,11 @@ Obviously the scope of this survey was a bit short; ideally I would've asked mor
 
 One thing which I really would've liked to do is *ask them who their crushes were*, and respectively make a **mindmap / relational diagram** of this. I say this because for one, in some conversations, multiple people have crushed / been infatuated on the same person at some point in time. Also, it would be fucking hilarious if the graph / mindmap shows a bidirectional link. That means A and B both liked each other at one/the same point in time.
 
-I really did want to go further in depth and from the few conversations where we did go in detail I learnt *a lot*, but alas, if I were to try and be too invasive (especially for cases where we don't really converse too often), the chances of being lied to and given false information would probably increase.
+I really did want to go further in depth and from the few conversations where we did go in detail I learnt *a lot*, but alas, if I were to try and be too invasive (especially for cases where we don't really converse too often), the chances of being lied to and given false information would probably increase. In future investigations, questions like "What's your definition of crush" and "Do you remember what the reason was for you to form that crush? Personality, looks, vibe, similarities, hobbies, etc" should definitely be asked.
 
 ## Conclusion
 Well, there you go. I had some fun making this, talked to some people I don't usually talk to and made some potential insights into a topic that's not really talked about. Huh!
+Overall, it seems like most people operate as expected.
 
 
 
@@ -157,7 +158,7 @@ Anyways, looking at my own experiences, it seems that there's a few things to co
 
 For all cases S1, S2, S3 (like State 1,2,3 in RL..? No? Ok, like seasons 1, 2, 3), the crush was majorly friend based and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period.
 
-We'll talk about S3 here. In this case, I'd realise she had the potential to be a life-long friend long before any limerence formed. Since quite a lock of ticks where ticked off some imaginary checklist, le pepega brain did the following:
+We'll talk about S3 here. In this case, I'd realise she had the potential to be a life-long friend long before any limerence formed. After a large number of ticks were ticked off some imaginary checklist, le pepega brain did the following:
 ```
 Pepeg brain: "Hey... You kinda like this person."
 
@@ -175,7 +176,7 @@ Pepeg brain: "nothin nothing! Don't mind me DON'T MIND ME."
 
 Me: "Wait you LITTLE SHI-"
 ```
-On the plus side, I think I've been able to 'kill' crushes easier the more I've had them. Since S3 is basically finished and I've only had it for a few months. S2 was ~1 year and S1 was a bit longer. Does that mean I've *matured*? Weird word. 
+On the plus side, I think I've been able to 'kill' crushes easier the more I've had them. Emotions are FOR THE WEAK (not actually; it's very hard to decouple yourself from emotions as a human so you might as well try to have a healthy symbiosis with them). Since S3 is basically finished and I've only had it for a few months. S2 was ~1 year and S1 was a bit longer. Does that mean I've *matured*? Weird word. 
 
 #### Funny observation
 
