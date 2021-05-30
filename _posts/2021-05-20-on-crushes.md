@@ -47,7 +47,7 @@ Tl;dr: Democratise the knowledge of relationships! Make it public domain and pro
 This has led me to collect data on crushes (or limerence). Now, relationships & crushes don't relate too directly, but they were close enough that I thought, "Why not?" To increase my knowledge of this domain (of crushes) will indirectly help me when I'll have to deal with relationships / attraction in the future. How, I'm not sure. But more data helps. And also, it's nice to just increase your knowledge on any particular topic. Perhaps this has been slightly influenced as I ~~currently~~ just had an object of limerence, but... Fuck it. This is still interesting on its own.
 
 
-Side note: so much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="LEX FRIDMAN ELON MUSTK VIDEO I couldn't find the timestamp so just watch them both. It might also have been a Joe Rogan podcast?"> this Lex Fridman podcast.</a> Also related to Exploiting the limbic system (another post).))
+Side note: So much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="http://www.youtube.com/watch?v=smK9dgdTl40&t=14m19s"> this Lex Fridman podcast (link works now).</a> Also related to Exploiting the limbic system (another post)).
 
 
 ## Accumulation of Data 
