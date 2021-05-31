@@ -63,12 +63,12 @@ I just went around and asked people in real life (all in school) about these. In
 
 For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to. I did randomise the data so it wasn't most recent person is the latest number, but I decided against it because it requires upkeep after each new set of data. 
 
-Notes: Four females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
+Notes: Five females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
 
 ### Results 
 Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more. 
 
-| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes | 
+| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes (Were crushes consistent over years or all in same year?) | 
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|
 | **Me** | 3 | A year | 6 months  / 3.5 years (only 1 case; instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 10, 11, 12. Low active (almost gone). |
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
@@ -90,7 +90,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 18 | 7|  ~6 months | 1 week / 3 years | Instant | Most recent was this year, consistent over time |
 | 19 | 7 | ~4 months | 3 months / 1 year | Most gradual, 2 instant | Grades 7-9, Grades 10, 11. Consistent |
 | 20 | 5 | 3-4 months | 1 month / 9 months | Gradual attachment until a sudden realisation "Ah, I like them." | Mainly Years 9-11 (??) |  
-
+| 21 | 18 | 3-4 months | 3 weeks - 7 years | Mostly Gradual | Year 10 to now, global (not school; only mostly) 
 
 I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc, but I didn't ask this consistently enough for it to be viable. Other good questions would've been "What's your definition of a crush?", "What made you stop having the crush?" 
 
@@ -133,7 +133,31 @@ I really did want to go further in depth and from the few conversations where we
 
 ## Conclusion
 Well, there you go. I had some fun making this, talked to some people I don't usually talk to and made some potential insights into a topic that's not really talked about. Huh!
-Overall, it seems like most people operate as expected.
+Overall, it seems like most people operate as expected. A coda is stored below.
+
+
+<span class='page-divider'> 
+	<span class='one'></span>
+	<span class='two'></span>
+</span>
+
+<span class='page-divider'> 
+	<span class='one'></span>
+	<span class='two'></span>
+</span>
+
+## A coda
+
+Another reason why I explored this topic is to see whether it can help to voluntarily choose what topics/items to hyperfixate on (i.e for productive purposes).
+
+Those who experience crushes where they think a lot about simulating conversations/thinking, thus depleting a large amount of computational resources <a href="" class=tooltip>(brain power) <span> similar to how crushes usually affect me </span> </a>  have probably noted that this type of 'obsession' based (our own term, not the conventional obsession you'll find in googling 'obsessive crushes') is **very** similar to whenever you're hyperfixated on a project / assignment.
+
+Whether it be a coding project, writing a novel, playing a sport, or speedrunning an assignment, you've probably experienced getting in the zone -- entering flow state -- before.
+
+With the above scenario where crushes eat your brain power up, I just noticed that it *could* be similar to a flow state, implying there's something about thinking about crushes which easily shoves you into a flow state.
+
+This is just a hypothesis, but what if greater control over crushes (your internal state) can improve your control over when to focus on things that matter (not saying crushes don't matter; you get my point)?
+Just food for thought. Anyways, there's some rawer versions of the concept of <a href='/blog/2019/11/14/exploiting-limbic-system'>  exploiting your limbic system for productivity here</a>, although it's badly written. You'll have to explore this on your own.
 
 
 
@@ -153,10 +177,10 @@ Anyways, looking at my own experiences, it seems that there's a few things to co
 
 1. They have to be respectable. It doesn't matter if they have the equivalent intelligence of 500000x Albert Einsteins; if I can't respect them as a person, it's an instant nope.
 2. I might have a thing towards intelligence / work ethic / perseverance.
-3. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have).
+3. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have. I think the atypical crushes during Years 10-12 may occur within individuals who, despite increased workload, have actually experienced less stress these years. *Maybe*.)
 4. Now that I think about, definitely some level of independence / I don't give a shit (don't ask me why, but hair that isn't perfectly straight and has some 'electricity' (thus, the lack of giving a shit in this aspect of life) in it looks better to me than perfectly normal hair.)
 
-For all cases S1, S2, S3 (like State 1,2,3 in RL..? No? Ok, like seasons 1, 2, 3), the crush was majorly friend based and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period.
+For all cases S1, S2, S3 (like State 1,2,3 in reinforcement learning..? No? Ok, like seasons 1, 2, 3), the crush was majorly friend based and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period.
 
 We'll talk about S3 here. In this case, I'd realise she had the potential to be a life-long friend long before any limerence formed. After a large number of ticks were ticked off some imaginary checklist, le pepega brain did the following:
 ```
@@ -183,4 +207,4 @@ On the plus side, I think I've been able to 'kill' crushes easier the more I've 
 I suspect I'm highly unusual in this manner (and based on one person's detailed version of how they form crushes, different to them).
 This is a really nice benefit actually, and I'm not sure if other people experience this to the same degree I do, but  physical attractiveness based on some evaluation metric (like personality, compatibility -> hobbies, interests, ethics, morals, etc.) changes once I get to know them better. Like it *really* changes physical attractiveness.
 
-I'll go through the example with S2 (secondary crush; this would be Grade 10-11). Let's assume I have a physical attraction metric. On initial meeting, I would have rated (purely on physical attractiveness) a 4/10. That's like, top 60%. It was in a physics class, and I deemed her 'a bit too polite' after our first conversation. However, as mutual time in an enclosed space increased, I realised *I've been jebaited*.  Anyways, come a physics data test FIA1, and she gets a 10/10, I 9/10 (lost the 10 by not rounding). Sometime between then and next term (i.e Term 2 grade 10), I realise that just by pure physical attraction, she's an 8/10; top 10%. On physical only. Wtf??? Obviously, nothing happened and it died out after ~7-9 months. Other people definitely experience this, but I haven't talked to anyone about the % increases so I can't tell.
+I'll go through the example with S2 (secondary crush; this would be Grade 10-11). Let's assume I have a physical attraction metric. On initial meeting, I would have rated (purely on physical attractiveness) a 4/10. That's like, top 60%. It was in a physics class, and I deemed her 'a bit too polite' after our first conversation. However, as mutual time in an enclosed space increased, I realised *I've been jebaited*.  Anyways, come a physics data test FIA1, and she gets a 10/10, I 9/10 (lost the 10 by not rounding). Sometime between then and next term (i.e Term 2 grade 10), I realise that just by pure physical attraction, she's an 8/10; top 10%. On physical only. Wtf??? Obviously, nothing happened and it died out after ~7-9 months. Other people definitely experience this, but I haven't talked to anyone about the % increases so I can't tell whether the degree to which it changes is atypical.
