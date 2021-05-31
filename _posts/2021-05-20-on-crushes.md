@@ -157,7 +157,7 @@ Whether it be a coding project, writing a novel, playing a sport, or speedrunnin
 With the above scenario where crushes eat your brain power up, I just noticed that it *could* be similar to a flow state, implying there's something about thinking about crushes which easily shoves you into a flow state.
 
 This is just a hypothesis, but what if greater control over crushes (your internal state) can improve your control over when to focus on things that matter (not saying crushes don't matter; you get my point)?
-Just food for thought. Anyways, there's some rawer versions of the concept of <a href='/blog/2019/11/14/exploiting-limbic-system'>  exploiting your limbic system for productivity here</a>, although it's badly written. You'll have to explore this on your own.
+Just food for thought. Anyways, there's some rawer versions of the concept of <a href='/blog/2019/11/14/exploiting-limbic-system'>  exploiting your limbic system for productivity here</a>, although it's badly written. You'll have to explore this on your own. Regardless, crushes are still a good playground at increasing your mental willpower/direction/whatever. Learning how to not attack emotions, but redirect/minimise/*ease and understand* them is important. 
 
 
 
