@@ -104,6 +104,10 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 29 | 9 | 6-7 months | 2 months / 10 months | Mostly gradual | Year 8 to Year 12 consistent | Similar hobbies | A lack of anything happening - time | 
 
 More in depth versions of the questions shown in table:
+1. Self-explanatory.
+2. Self-explanatory.
+3. Self-explanatory.
+4. Self-explanatory.
 5. Instant or Gradual - Did crushes take time to form usually or was it instant?
 6. Notes - Anything interesting given outside of the questions officially asked. Also serves as a placeholder for 'Were crushes consistent over years or all in same year?'
 7.  Preferred Type - Do you have any types /  are there common traits in your crushes? (physical attributes, mental attributes, etc.)
@@ -149,7 +153,7 @@ The average crush duration was either ~1 school year (9-12 months) or ~4 months.
 
 After adding some new questions (1st June onwards), there seems to be 2 main patterns in the 'death' of the crush: 
 - learning something unwanted about the crush 
-- 
+- time fades it or distance apart fades it.
 
 ## Evaluation
 ### Potential Explanations
