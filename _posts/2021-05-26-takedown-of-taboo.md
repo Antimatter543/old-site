@@ -26,9 +26,9 @@ A common trend for all of these (which is actually just talking about any topics
 Some things in the world that are considered 'taboo' or inappropriate to talk about make no sense. For example,
 the amount of money you have, your weight (women), your age (women), putting elbows on a table, etc. Not only are some of these (especially the women one) blatantly sexist, they also make NO FUCKING SENSE.
 
-Obviously, if the person you're talking to has some sensitive topic (say, with weight, they've been through some fucked up harrassment, bullying, etc. that has caused them serious trauma), then of course you'd not talk about that. Or at least understand it's a sensitive topic and you should tread lightly. But that's not topic specific, you spazza (I mean this endearingly)! You talk about war with people, but would you talk about it in the same detail when the person has major PTSD.
+Obviously, if the person you're talking to has some sensitive topic (say, with weight, they've been through some fucked up harrassment, bullying, etc. that has caused them serious trauma), ten of course you'd not talk about that. Or at least understand it's a sensitive topic and you should tread carefully. But that's not topic specific, you spazza (I mean this endearingly)! You talk about war with people, but would you talk about it in the same detail when the person has major PTSD? No! It completely depends on the person's unique circumstances.
 
-In reality, topics (such as the women one) are only deemed sensitive (and elicit a genuine reaction out of people) because SOCIETY HAS DEEMED IT SENSITIVE, AND THE PERSON IN THAT SOCIETY HAS TAKEN UP THE CULTURE'S VALUES TO FIT IN. If you think about it from a logical basis, it makes exactly 0 sense. 
+In reality, topics (such as the women age one) are only deemed sensitive (and elicit a genuine reaction out of people) because SOCIETY HAS DEEMED IT SENSITIVE, AND THE PERSON IN THAT SOCIETY HAS TAKEN UP THE CULTURE'S VALUES TO FIT IN. If you think about it from a logical basis, it makes exactly 0 sense.
 
 Are you serious? Let's talk about each of these individually.
 
@@ -69,8 +69,7 @@ Seriously? Ok, say you think this. May I ask why? What is the logical derivation
 
 ### Homosexuality
 
-I wasn't gonna even put this in because it's so dumb to be against it if you created your own base set of [fundamental morals](/blog/1337/01/12/useful-concepts) and built up from there. Oh no!!!! The majority of the world population still wants to fuck the other gender so there's no anti-population problems (i.e still enough babies are being made so humanity's not gonna fucking die out). But these like 10% of the population want to fuck each other in the ass or do the scissors thing, oh no! I'm not there to watch it, but I don't like it, oh no! Sucks. There's way worse shit going on in this messed up planet that is really not fun to think about, but people who tend to feel attracted towards something that's not conventional is too much? At worst, homosexuality is some variation. The whole point of evolution. Given an enclosed environment, shoving a bunch of entities in there that mutate will eventually result in an optimal specimen for that specific environment. Being against gays is kinda like being against evolution; evo's just doing its shit man; how do you think you were made?
-
+I wasn't gonna even put this in because it's so dumb to be against it if you created your own base set of [fundamental morals](/blog/1337/01/12/useful-concepts) and built up from there. Oh no!!!! The majority of the world population still wants to fuck the other gender so there's no anti-population problems (i.e still enough babies are being made so humanity's not gonna fucking die out). But these like 10% of the population want to fuck each other in the ass or do the scissors thing, oh no! I'm not there to watch it, but I don't like it, oh no! Sucks. There's way worse shit going on in this messed up planet that is really not fun to think about, but people who tend to feel attracted towards something that's not conventional is too much? At worst, homosexuality is some variation within the brain structure where a switch was flipped. That's the whole point of evolution. Given an enclosed environment, shoving a bunch of entities in there that mutate will eventually result in an optimal specimen for that specific environment. Being against gays is kinda like being against evolution; evo's just doing its shit man; how do you think you were made? Nature gives precisely 0 shits, it just does what it does.
  That's all. Like, oh well, they wanna fuck their own gender. Who cares. Big deal. I only care about their potential and productivity and personality as a human being with ideas in their heads. People really stuck up over the smallest of things. "Oh that guy likes dick in his ass." Ok. Cool? I'd still fuckin resurrect Alan Turing any day of the week. I don't think I can ever forget that what was essentially homophobia drove **Alan Fucking Turing** to suicide.
 
  Alan. Fucking. Turing. TURING.
@@ -78,9 +77,9 @@ I wasn't gonna even put this in because it's so dumb to be against it if you cre
 Nobody's asking for you to strip naked, strap twenty rainbow flags onto yourself and run down the street every day of the year, or yell "I LOVE GAY PEOPLE" at random intervals throughout the day (if they are, realise that they are being the dick here). Just go about your day, that's it. Nobody's asking you to do anything. Just don't walk up to someone and say 'yeah fuck you for being this thing you can't change.' That's pretty cringe, and is in fact a dick move. Not just about homos, for anything. 
 
 Side note: Don't gay people kinda help us with overpopulation problems? Most homo couples probably won't have kids. Like... Even though overpopulation won't really happen (it'll cap ~11 billion), isn't this just good? Also, this gives heterosexuals less competition to have to deal with for any N potential mating partner.
+<!-- 
 
-
-{FUNDAMENTAL  MORALS -> religions; assume high level hodge podge morals. Conflicting ideas (God loves everyone unconditionally, but conditionally. Huh?) Not that there's anything wrong with religion; it's quite a good defense against nihilism and was a good enough approximation of a book of morals to get societies functioning for a while. Interesting how so many different cultures produced religions; maybe it's like the eye in evolution? The advantages of it were so powerful that the actor converged to it multiple times even when they weren't aware of others (i.e didn't have the gene originally?) }
+{FUNDAMENTAL  MORALS -> religions; assume high level hodge podge morals. Conflicting ideas (God loves everyone unconditionally, but conditionally. Huh?) Not that there's anything wrong with religion; it's quite a good defense against nihilism and was a good enough approximation of a book of morals to get societies functioning for a while. Interesting how so many different cultures produced religions; maybe it's like the eye in evolution? The advantages of it were so powerful that the actor converged to it multiple times even when they weren't aware of others (i.e didn't have the gene originally?) } -->
 ## Racism and MORE
 **Editor's Note: I go ham here**
 
@@ -133,6 +132,9 @@ Say that you've somehow managed to become 5head by reading at your local library
 
 Who's gonna hire your broke ass? You think you have enough money to spend on fancy clothes when your mortgage is rear naked choking you out? You're getting railed harder than a railway on a major traintrack.
 
+Tl;dr: Let's assume everyone has roughly equal amounts of energy to spend per day. Those in poverty *must* spend much more energy to meet basic necessities and keep their life afloat, giving them little opportunity to improve themselves and by extension their situation. It takes all the energy just to keep the situation still.
+
+This is opposed to a non-impoverished person, who has much more energy to do whatever they want -- the safety net is much larger. They can *afford* to do much less, knowing that the safety net is there and their situation won't immediately de-escalate into some fuckfest. And if they want to do more, nice!
 
 ### Math
 
@@ -147,6 +149,7 @@ Instead of it being some arbitrary concept that has no use, it's now a tool you 
 As a 'maths person', I didn't like art in primary school. In hindsight, I didn't like the way art was taught, and how we had to follow all these rules and weird colouring mechanics. Eventually, I realised the truth (other than math = art, because it is); A high-end skill ceiling for art is the ability to represent any image that you can conjure up in your imagination. **Any image**. **Can be**. **Created**. If you can visualise it, you can theoretically draw it.
 
 
+## To do: Polyamogous thingy
 <!-- ### Abortion
 
 Let's get something straight. People die. Let's assume abortion is murder.

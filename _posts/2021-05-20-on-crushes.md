@@ -2,7 +2,7 @@
 layout: post
 title: "On Crushes"
 date: 2021-05-20
-reviewed: 2021-05-28
+reviewed: 2021-06-01
 
 published: true
 tags: non-professional gold
@@ -42,12 +42,12 @@ Like yes, sex is a thing. Yes, STDs bad, yes use protection. But seeing as quite
 
 Seriously, when do we learn about relationships? Why do we have to go through the horrible process of picking god awful matches, breakups, cheating, bad fighting, just because society deemed it 'weird' to talk and exchange information about the topic in public. Fuck you, weird's good! Before now (gaining that observation I started the blog with), I haven't really thought a lot about this whole scene of attraction/relationships. Yeah, the 'exploiting your limbic system' is a thing as well as a few simulated conversations of being with someone whomst I enjoy but that's not this topic at all.
 
-Tl;dr: Democratise the knowledge of relationships! Make it public domain and professionaly taught as opposed to only knowledge gained from close peers/family. 
+Tl;dr: Democratise the knowledge of relationships! Make it public domain and professionally taught as opposed to only knowledge gained from close peers/family. 
 
 This has led me to collect data on crushes (or limerence). Now, relationships & crushes don't relate too directly, but they were close enough that I thought, "Why not?" To increase my knowledge of this domain (of crushes) will indirectly help me when I'll have to deal with relationships / attraction in the future. How, I'm not sure. But more data helps. And also, it's nice to just increase your knowledge on any particular topic. Perhaps this has been slightly influenced as I ~~currently~~ just had an object of limerence, but... Fuck it. This is still interesting on its own.
 
 
-Side note: So much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="http://www.youtube.com/watch?v=smK9dgdTl40&t=14m19s"> this Lex Fridman podcast (link works now).</a> Also related to Exploiting the limbic system (another post)).
+Side note: So much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="http://www.youtube.com/watch?v=smK9dgdTl40&t=14m19s"> this Lex Fridman podcast (link works now).</a> Also related to Exploiting the limbic system (another post)). This also functions as good social exercise for me.
 
 
 ## Accumulation of Data 
@@ -59,41 +59,75 @@ I just went around and asked people in real life (all in school) about these. In
 <li> What was the average duration of your crushes?</li>
 <li> What was the shortest/longest duration you've had for one?</li>
 <li> Was it an instant thing or did the crush take time to form?</li>
+
 </ul>
 
 For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to. I did randomise the data so it wasn't most recent person is the latest number, but I decided against it because it requires upkeep after each new set of data. 
 
-Notes: Five females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. 
+Notes: Eight females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. I'll probably stop updating this (asking new people) once I reach ~40% female representation in the sample size. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. That being said, I have asked these question to people I've never talked to.
+
+All of the data (except for 1) comes from Year 12s in Australia approximately half way through the year.
 
 ### Results 
 Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more. 
 
-| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes (Were crushes consistent over years or all in same year?) | 
-|--------|--------------|------------------------|------------------------------------|------------------------------------|------|
-| **Me** | 3 | A year | 6 months  / 3.5 years (only 1 case; instead of switching the person of limerence, it just switched on/off same person) | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 10, 11, 12. Low active (almost gone). |
+| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes | Common crush traits | Why did the crush fade? | 
+|--------|--------------|------------------------|------------------------------------|------------------------------------|------|---|---|
+| **Me** | 3 | A year | 6 months  / 3.5 years | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 9, 10-11, 12. Low active (almost gone). | See <a href="#extra---my-experiences"> My Experiences </a> | Faded out (unreciprocated so I shouldn't waste energy: still took a while) |
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
-| 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. |
-| 4 | 0 | NA | NA | NA | Balling. 0 crushes Madlad #1. Lowkey late sleeper |
-| 5 | 4 | 6-12 months | Few weeks / 4-5 years | Gradual | None. Low active. |
-| 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it.
+| 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. | Inconsistent | Distance - time spent away from crush | 
+| 4 | 0 | NA | NA | NA | Balling. 0 crushes Madlad #1. Lowkey late sleeper | NA | NA |
+| 5 | 4 | 6-12 months | Few weeks / 4-5 years | Gradual | None. Low active rn. | All shorter than the person | Personality incompatibility |
+| 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it | Inconsistent | Faded: changed classes each year |
 |7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 |
 |8| 10 | 2 months | 1 week/ 1 year. | Usually instant | Mostly middle school | 
 | 9 (Virtual friend) | ~10 | NA | NA | Mix, but as time increases, more often gradual | NA x2 because didn't ask | 
-| 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | 
+| 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | Inconsistent | Faded over time |
 | 11 | 6 | ~4-5 months | 1 month / ~8 months | Mostly instant | One per year usually |
 | 12 |  11 | 2 months | 2 days / 5 months | Mix instant/gradual | Over the course of high school |
 | 13 | 5 | 5 months | 1 month / 9 months (school year) | Gradual | Most recent grade 10 | 
 | 14 | 4 | ~2.5 years | 6 months / 5 years | All Gradual | All in high school; 2 Yr 6, 1 Yr9, Yr 11. Low active.|
 | 15 | 5/ 25 (including 2D chars) | ~6 months | 1 week / 6 months; 5 years (if 2D)| Instant (holy fuck) | This guy is fucking crazy. I love it. Most recent last year. Madlad #2|
-| 16 | ~2 | 3-4 months | 2 weeks / 5months | Gradual | Both Year 9/10. Most people tend not to have them later. | 
+| 16 | ~2 | 3-4 months | 2 weeks / 5months | Gradual | Both Year 9/10. Most people tend not to have them later. | "They're all super hot". Not same ethnicity. | Personality wasn't really... worth it. |
 | 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 |
 | 18 | 7|  ~6 months | 1 week / 3 years | Instant | Most recent was this year, consistent over time |
 | 19 | 7 | ~4 months | 3 months / 1 year | Most gradual, 2 instant | Grades 7-9, Grades 10, 11. Consistent |
-| 20 | 5 | 3-4 months | 1 month / 9 months | Gradual attachment until a sudden realisation "Ah, I like them." | Mainly Years 9-11 (??) |  
-| 21 | 18 | 3-4 months | 3 weeks - 7 years | Mostly Gradual | Year 10 to now, global (not school; only mostly). Madlad #3. Broke my assumptions - You can in fact have multiple crushes at once. |
+| 20 | 5 | 3-4 months | 1 month / 9 months | Gradual attachment until a sudden realisation "Ah, I like them." | Mainly Years 9-11 |  Inconsistent, Something stands out about them | Faded over time / new crush |
+| 21 | 18 | 3-4 months | 3 weeks - 7 years | Mostly Gradual | Year 10 to now, global (not school; only mostly). Madlad #3. Broke my assumptions - You can in fact have multiple crushes at once. | Inconsistent, unknown | They all 'fucked me over'. I.e probably betrayal | 
+| 22 | 6 | 4 months | 2 months / 1 year | Instants | All in HS, consistent over grades. | Gamer boys | 
+| 23 | 3 | 1 year | 4 months / 2 years | Instant | Years 7,8,9 | Only consistent pattern: ethnicity. Sporty. Subjectively pretty. | Ghosted on skype. Rejected x3. Out of league (+ they had a bf) |
+| 24 | 4 | 6 months | 2 weeks / 3 years | Mostly Gradual | Grade 6 onwards, consistent. On/off same person sometimes. Strict parents on dating. The 3 years was a whole rollercoaster of emotions. | Tall, smart, jerks??? | 
+| 25 | 2 | 1 year | 6 months / 1.5 years | Gradual | Year 10, Year 12 (ongoing) | Tall, smart | Distance (long space difference, can't keep relationship) |
+| 26  | 1-2 | 6 months | 4 months / 9 months | Gradual | Whole life (mostly HS) Year 9, Year 11-12 | Inconsistent | "Cockhead", emotionally immature. | 
+| 27 | 7 | 4-7 months | 1 week / 1 year | Mix | Consistent over time | Looks subjectively pretty | Time, one sided so cut off the energy consumption.| 
+| 28 | 2 | 1 year | 1 year / 1 year | Slightly gradual | Year 7, Year 9, crushes since HS. | Inconsistent |  Personality incompatibility: learnt something about them. | 
+
+More in depth versions of the questions shown in table:
+5. Instant or Gradual - Did crushes take time to form usually or was it instant?
+6. Notes - Anything interesting given outside of the questions officially asked. Also serves as a placeholder for 'Were crushes consistent over years or all in same year?'
+7.  Preferred Type - Do you have any types /  are there common traits in your crushes? (physical attributes, mental attributes, etc.)
+8. What made you stop having that crush? Did it fade, or was there a specific reason?
+
+<!-- <table>
+  {% for row in site.data.crushes %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table> -->
+
 
 I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc, but I didn't ask this consistently enough for it to be viable. Other good questions would've been "What's your definition of a crush?", "What made you stop having the crush?" 
 
+Edit (1/06/21): Beginning re-asking the people again for the added questions.
 
 Side note: I had to talk to people I don't usually talk to because the opportunity presented itself, and I'm not going to deny free data am I?
 
@@ -110,6 +144,11 @@ The average number of crushes is ~2-4 people (excluding the two 10s), and everyb
 The most popular time to have crushes was around Year 7-11, and second most common was tied between primary (#6 is the Sus outlier here) & consistent throughout high school. Most crush formations were gradual, although there were some mixes and instants. Instants did slightly tend to have more crushes, although not by much. Obviously, increases in sample size will make this data more valid. Usually the longest crushes lasted at least a year.
 
 The average crush duration was either ~1 school year (9-12 months) or ~4 months. Some types (a minority) have more crushes during the later stages of high school (Years 10-12) as opposed to the earlier ones, and my duration of crush formation is a bit longer than average.
+
+
+After adding some new questions (1st June onwards), there seems to be 2 main patterns in the 'death' of the crush: 
+- learning something unwanted about the crush 
+- 
 
 ## Evaluation
 ### Potential Explanations
@@ -132,7 +171,8 @@ One thing which I really would've liked to do is *ask them who their crushes wer
 I really did want to go further in depth and from the few conversations where we did go in detail I learnt *a lot*, but alas, if I were to try and be too invasive (especially for cases where we don't really converse too often), the chances of being lied to and given false information would probably increase. In future investigations, questions like "What's your definition of crush" and "Do you remember what the reason was for you to form that crush? Personality, looks, vibe, similarities, hobbies, etc" should definitely be asked.
 
 ## Conclusion
-Well, there you go. I had some fun making this, talked to some people I don't usually talk to and made some potential insights into a topic that's not really talked about. Huh!
+Well, there you go. I had some fun making this, talked to some people I don't usually talk to and made some potential insights into a topic that's not really talked about. Huh! People, despite how they may act, almost universally seem to share emotions and some sort of lack of control over it. Incredible! So when you walk around, know that you are not alone in having these irrational thoughts. Wilding.
+
 Overall, it seems like most people operate as expected. A coda is stored below.
 
 
@@ -146,20 +186,14 @@ Overall, it seems like most people operate as expected. A coda is stored below.
 	<span class='two'></span>
 </span>
 
-## A coda
 
-Another reason why I explored this topic is to see whether it can help to voluntarily choose what topics/items to hyperfixate on (i.e for productive purposes).
-
-Those who experience crushes where they think a lot about simulating conversations/thinking, thus depleting a large amount of computational resources <a href="" class=tooltip>(brain power) <span> similar to how crushes usually affect me </span> </a>  have probably noted that this type of 'obsession' based (our own term, not the conventional obsession you'll find in googling 'obsessive crushes') is **very** similar to whenever you're hyperfixated on a project / assignment.
-
+<a href="" class=tooltip> A coda. Shoved it in here to reduce the length of this article.
+<span> Another reason why I explored this topic is to see whether it can help to voluntarily choose what topics/items to hyperfixate on (i.e for productive purposes).
+Those who experience crushes where they think a lot about simulating conversations/thinking, thus depleting a large amount of computational resources (brain power) have probably noted that this type of 'obsession' based (our own term, not the conventional obsession you'll find in googling 'obsessive crushes') is **very** similar to whenever you're hyperfixated on a project / assignment.
 Whether it be a coding project, writing a novel, playing a sport, or speedrunning an assignment, you've probably experienced getting in the zone -- entering flow state -- before.
-
 With the above scenario where crushes eat your brain power up, I just noticed that it *could* be similar to a flow state, implying there's something about thinking about crushes which easily shoves you into a flow state.
-
 This is just a hypothesis, but what if greater control over crushes (your internal state) can improve your control over when to focus on things that matter (not saying crushes don't matter; you get my point)?
-Just food for thought. Anyways, there's some rawer versions of the concept of <a href='/blog/2019/11/14/exploiting-limbic-system'>  exploiting your limbic system for productivity here</a>, although it's badly written. You'll have to explore this on your own. Regardless, crushes are still a good playground at increasing your mental willpower/direction/whatever. Learning how to not attack emotions, but redirect/minimise/*ease and understand* them is important. 
-
-
+Just food for thought. Anyways, there's some rawer versions of the concept of in exploiting your limbic system for productivity here, although it's badly written. You'll have to explore this on your own. Regardless, crushes are still a good playground at increasing your mental willpower/direction/whatever. Learning how to not attack emotions, but redirect/minimise/*ease and understand* them is important. </span> </a> 
 
 ## Extra - My experiences
 At this point, if you've read the data and don't care about my own personal experience, you can leave. I'm just gonna note down my own experiences with crushes here. This doesn't really offer anything other than a different perspective into the thing, so yep! I have suffered leaving my own experiences out here so YOU PEOPLE CAN GET FREE DATA, REMEMBER THE SUFFERING I HAVE ENDURED.
@@ -180,7 +214,7 @@ Anyways, looking at my own experiences, it seems that there's a few things to co
 3. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have. I think the atypical crushes during Years 10-12 may occur within individuals who, despite increased workload, have actually experienced less stress these years. *Maybe*.)
 4. Now that I think about, definitely some level of independence / I don't give a shit (don't ask me why, but hair that isn't perfectly straight and has some 'electricity' (thus, the lack of giving a shit in this aspect of life) in it looks better to me than perfectly normal hair.)
 
-For all cases S1, S2, S3 (like State 1,2,3 in reinforcement learning..? No? Ok, like seasons 1, 2, 3), the crush was majorly friend based and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period.
+For all cases S1, S2, S3 (like State 1,2,3 in reinforcement learning..? No? Ok, like seasons 1, 2, 3), the crush was majorly friend based and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period. In one case, instead of switching the person of limerence, it just switched on/off the same person for the duration of the crush.
 
 We'll talk about S3 here. In this case, I'd realise she had the potential to be a life-long friend long before any limerence formed. After a large number of ticks were ticked off some imaginary checklist, le pepega brain did the following:
 ```
