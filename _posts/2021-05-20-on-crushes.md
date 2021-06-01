@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "On Crushes"
+title: "Exploring the realm of crushes"
 date: 2021-05-20
 reviewed: 2021-06-01
 
 published: true
 tags: non-professional gold
-excerpt: "On the importance of attractions/relationships and the lack of verbal knowledge about this. Free data n=~20 here so you can make your own conclusions!"
+excerpt: "An exploration of crushes - a domain I'm not well versed in, which is why this article was made. On the importance of attractions/relationships and the lack of verbal knowledge about this. Survey n=~30 data gathered about crushes so you can create (more) data-based opinion on related topics!"
 comments: true
 ---
 Warning: Contains swears.
@@ -31,7 +31,7 @@ And the only reason humanity has made it this far is because they were *really h
 
 This only came to my mind after reading Love Is War. *What*. My world perspective was shifted by a text (although not the first time). This observation is so obvious and only requires 1 step of thinking, but I've never even thought about this domain at all.
 
-## Rationale 
+## Rationale - "Why are you doing this?"
 Given that humanity has only reached this point by the consistent fornification (I just mean 'fucking' here) over a large period of time, it suggests that the future of humanity is also reliant on this process. Thus, the entire topic of attraction actually appears to be quite an important one - one that is often thrown under the rug and deemed private or sensitive whathaveyou. 
 
 <img src="/assets/horni.PNG" alt="A great timeline image drawn by me in paint." width="90%">
@@ -49,7 +49,7 @@ This has led me to collect data on crushes (or limerence). Now, relationships & 
 
 Side note: So much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="http://www.youtube.com/watch?v=smK9dgdTl40&t=14m19s"> this Lex Fridman podcast (link works now).</a> Also related to Exploiting the limbic system (another post)). This also functions as good social exercise for me.
 
-
+Also, <a href="" class=tooltip> this <span> You're a dead man walking. So am I. Once we're dead, we're dead. The social consequences of being deemed a little odd crumble against the infinite wall of death. Basically, I don't care. You can either be a part of my data or not. You can read this or not. Someone will; it doesn't have to be you. But if you are, hey! How's your day? Enjoy this little adventure! </span> </a>.
 ## Accumulation of Data 
 
 ### Methodology 
@@ -71,11 +71,11 @@ All of the data (except for 1) comes from Year 12s in Australia approximately ha
 ### Results 
 Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more. 
 
-| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes | Common crush traits | Why did the crush fade? | 
+| Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes | Common crush traits (you have a type?) | Why did the crush fade? | 
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|---|---|
-| **Me** | 3 | A year | 6 months  / 3.5 years | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 9, 10-11, 12. Low active (almost gone). | See <a href="#extra---my-experiences"> My Experiences </a> | Faded out (unreciprocated so I shouldn't waste energy: still took a while) |
-| 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | 
-| 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. | Inconsistent | Distance - time spent away from crush | 
+| **Me** | 3 | A year | 6 months  / 3.5 years | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 9, 10-11, 12. Low active (almost gone). | See <a href="#extra---my-experiences"> My Experiences </a>. Hard work ethic, not immature,  <a href="https://www.youtube.com/watch?v=xlorA9H8ZgA"> does not give a two shit flying fuck. </a> | Faded out (unreciprocated so I shouldn't waste energy: still took a while) |
+| 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | Intelligence, shares similar interests | Mix: They left the school / personality incompatibility or not enough similarities |
+| 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. | Inconsistent - brown hair? Uncertain. | Distance - time spent away from crush (all ended up moving school) | 
 | 4 | 0 | NA | NA | NA | Balling. 0 crushes Madlad #1. Lowkey late sleeper | NA | NA |
 | 5 | 4 | 6-12 months | Few weeks / 4-5 years | Gradual | None. Low active rn. | All shorter than the person | Personality incompatibility |
 | 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it | Inconsistent | Faded: changed classes each year |
@@ -101,6 +101,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 26  | 1-2 | 6 months | 4 months / 9 months | Gradual | Whole life (mostly HS) Year 9, Year 11-12 | Inconsistent | "Cockhead", emotionally immature. | 
 | 27 | 7 | 4-7 months | 1 week / 1 year | Mix | Consistent over time | Looks subjectively pretty | Time, one sided so cut off the energy consumption.| 
 | 28 | 2 | 1 year | 1 year / 1 year | Slightly gradual | Year 7, Year 9, crushes since HS. | Inconsistent |  Personality incompatibility: learnt something about them. | 
+| 29 | 9 | 6-7 months | 2 months / 10 months | Mostly gradual | Year 8 to Year 12 consistent | Similar hobbies | A lack of anything happening - time | 
 
 More in depth versions of the questions shown in table:
 5. Instant or Gradual - Did crushes take time to form usually or was it instant?
@@ -213,6 +214,7 @@ Anyways, looking at my own experiences, it seems that there's a few things to co
 2. I might have a thing towards intelligence / work ethic / perseverance.
 3. Some other factors (probably hormonal, how much workload I'm under, etc. Just normal things that other people also have. I think the atypical crushes during Years 10-12 may occur within individuals who, despite increased workload, have actually experienced less stress these years. *Maybe*.)
 4. Now that I think about, definitely some level of independence / I don't give a shit (don't ask me why, but hair that isn't perfectly straight and has some 'electricity' (thus, the lack of giving a shit in this aspect of life) in it looks better to me than perfectly normal hair.)
+5. This is an extension of 4, but: "Knows when to not care." Another way of saying this is that they have priorities and follow their system, not getting sidetracked unless it's a worthwhile new event/topic/thing.
 
 For all cases S1, S2, S3 (like State 1,2,3 in reinforcement learning..? No? Ok, like seasons 1, 2, 3), the crush was majorly friend based and slightly romantic. Especially in S3. I'd much rather end up as long term friends (back at the "I have to be able to respect them as a person" thing) than have some dumb infatuation period. In one case, instead of switching the person of limerence, it just switched on/off the same person for the duration of the crush.
 
