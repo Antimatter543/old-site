@@ -36,11 +36,14 @@ Given that humanity has only reached this point by the consistent fornification 
 
 <img src="/assets/horni.PNG" alt="A great timeline image drawn by me in paint." width="90%">
 
-And fair play to that, but... Shouldn't this topic be more openly discussed in public forums, i.e places of public discussion. Should the science and psychology of attraction/crushes/love not be taught in schools for at least a bit, just like sex education is?
+And fair play to that, but... Shouldn't this topic be more openly discussed in public forums, i.e places of public discussion? Should the science and psychology of attraction/crushes/love not be taught in schools for at least a bit, just like sex education is?
 
 Like yes, sex is a thing. Yes, STDs bad, yes use protection. But seeing as quite a large percentage of the people you're talking to are going to end up in at least some type of relationship, isn't it good to teach them about boundaries, the general process of dating, being in a healthy relationship, learning how to fight (because fights will happen), etc.? It feels criminal to leave such a large topic of humanity's reason of being here away from public eyes to learn from.
 
 Seriously, when do we learn about relationships? Why do we have to go through the horrible process of picking god awful matches, breakups, cheating, bad fighting, just because society deemed it 'weird' to talk and exchange information about the topic in public. Fuck you, weird's good! Before now (gaining that observation I started the blog with), I haven't really thought a lot about this whole scene of attraction/relationships. Yeah, the 'exploiting your limbic system' is a thing as well as a few simulated conversations of being with someone whomst I enjoy but that's not this topic at all.
+
+Seeing as most people will enter a long term relationship, it's better to come prepared, no? You might be spending the rest of your life with them. 
+<a href='' class='tooltip'> Note. <span> Well, ~50% divorce rates might disagree with you. But does this statistic not reflect how bad people tend to be at maintaining healthy long term relationships? </span> </a>
 
 Tl;dr: Democratise the knowledge of relationships! Make it public domain and professionally taught as opposed to only knowledge gained from close peers/family. 
 
@@ -62,25 +65,29 @@ I just went around and asked people in real life (all in school) about these. In
 
 </ul>
 
+Two new questions were added:
+- Do you have a type / are there common traits between your crushes? Physical / mental traits, or 'inconsistent' between crushes.
+- Why did the crush fade? Was it just time, a specific reason, distance, etc.
+
 For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to. I did randomise the data so it wasn't most recent person is the latest number, but I decided against it because it requires upkeep after each new set of data. 
 
 Notes: Eight females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. I'll probably stop updating this (asking new people) once I reach ~40% female representation in the sample size. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. That being said, I have asked these question to people I've never talked to.
 
-All of the data (except for 1) comes from Year 12s in Australia approximately half way through the year.
+All of the data (except for 1) comes from Year 12s in Term 2 (mid-way through the year) in Australia.
 
 ### Results 
 Here's a table of the results as of ~May 2021. This applies only to the number of crushes people have had in high school or before, except for our boy S (who's a virtual friend of mine). He's a bit older than high school (let's say somewhere mid 20s), so he's got a bit more. 
 
 | Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes | Common crush traits (you have a type?) | Why did the crush fade? | 
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|---|---|
-| **Me** | 3 | A year | 6 months  / 3.5 years | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 9, 10-11, 12. Low active (almost gone). | See <a href="#extra---my-experiences"> My Experiences </a>. Hard work ethic, not immature,  <a href="https://www.youtube.com/watch?v=xlorA9H8ZgA"> does not give a two shit flying fuck. </a> | Faded out (unreciprocated so I shouldn't waste energy: still took a while) |
+| **Me** | 3 | A year | 6 months  / 3.5 years | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 9, 10-11, 12. None active. | See <a href="#extra---my-experiences"> My Experiences </a>. Hard work ethic, not immature,  <a href="https://www.youtube.com/watch?v=xlorA9H8ZgA"> does not give a two shit flying fuck. </a> | Faded out (unreciprocated so I shouldn't waste energy) + manual kill |
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | Intelligence, shares similar interests | Mix: They left the school / personality incompatibility or not enough similarities |
 | 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. | Inconsistent - brown hair? Uncertain. | Distance - time spent away from crush (all ended up moving school) | 
 | 4 | 0 | NA | NA | NA | Balling. 0 crushes Madlad #1. Lowkey late sleeper | NA | NA |
 | 5 | 4 | 6-12 months | Few weeks / 4-5 years | Gradual | None. Low active rn. | All shorter than the person | Personality incompatibility |
 | 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it | Inconsistent | Faded: changed classes each year |
 |7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 |
-|8| 10 | 2 months | 1 week/ 1 year. | Usually instant | Mostly middle school | 
+|8| 10 | 2 months | 1 week/ 1 year. | Usually instant | Mostly middle school | Wholesome, honest | Time, faded out | 
 | 9 (Virtual friend) | ~10 | NA | NA | Mix, but as time increases, more often gradual | NA x2 because didn't ask | 
 | 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | Inconsistent | Faded over time |
 | 11 | 6 | ~4-5 months | 1 month / ~8 months | Mostly instant | One per year usually |
@@ -90,11 +97,11 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 15 | 5/ 25 (including 2D chars) | ~6 months | 1 week / 6 months; 5 years (if 2D)| Instant (holy fuck) | This guy is fucking crazy. I love it. Most recent last year. Madlad #2|
 | 16 | ~2 | 3-4 months | 2 weeks / 5months | Gradual | Both Year 9/10. Most people tend not to have them later. | "They're all super hot". Not same ethnicity. | Personality wasn't really... worth it. |
 | 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 |
-| 18 | 7|  ~6 months | 1 week / 3 years | Instant | Most recent was this year, consistent over time |
+| 18 | 7|  ~6 months | 1 week / 3 years | Instant | Most recent was this year, consistent over time | Inconsistent | Did something 'unattractive' -> changed their opinions of the person | 
 | 19 | 7 | ~4 months | 3 months / 1 year | Most gradual, 2 instant | Grades 7-9, Grades 10, 11. Consistent |
 | 20 | 5 | 3-4 months | 1 month / 9 months | Gradual attachment until a sudden realisation "Ah, I like them." | Mainly Years 9-11 |  Inconsistent, Something stands out about them | Faded over time / new crush |
 | 21 | 18 | 3-4 months | 3 weeks - 7 years | Mostly Gradual | Year 10 to now, global (not school; only mostly). Madlad #3. Broke my assumptions - You can in fact have multiple crushes at once. | Inconsistent, unknown | They all 'fucked me over'. I.e probably betrayal | 
-| 22 | 6 | 4 months | 2 months / 1 year | Instants | All in HS, consistent over grades. | Gamer boys | 
+| 22 | 6 | 4 months | 2 months / 1 year | Instants | All in HS, consistent over grades. | Gamer boys | Sudden realisation of "ew" |  
 | 23 | 3 | 1 year | 4 months / 2 years | Instant | Years 7,8,9 | Only consistent pattern: ethnicity. Sporty. Subjectively pretty. | Ghosted on skype. Rejected x3. Out of league (+ they had a bf) |
 | 24 | 4 | 6 months | 2 weeks / 3 years | Mostly Gradual | Grade 6 onwards, consistent. On/off same person sometimes. Strict parents on dating. The 3 years was a whole rollercoaster of emotions. | Tall, smart, jerks??? | 
 | 25 | 2 | 1 year | 6 months / 1.5 years | Gradual | Year 10, Year 12 (ongoing) | Tall, smart | Distance (long space difference, can't keep relationship) |
@@ -102,6 +109,10 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 27 | 7 | 4-7 months | 1 week / 1 year | Mix | Consistent over time | Looks subjectively pretty | Time, one sided so cut off the energy consumption.| 
 | 28 | 2 | 1 year | 1 year / 1 year | Slightly gradual | Year 7, Year 9, crushes since HS. | Inconsistent |  Personality incompatibility: learnt something about them. | 
 | 29 | 9 | 6-7 months | 2 months / 10 months | Mostly gradual | Year 8 to Year 12 consistent | Similar hobbies | A lack of anything happening - time | 
+| 30 | 5 | 2 months | 1 month / 2 years | Gradual | Since high school, Year 10-12 | Dark, curly hair, not an asshole | Time, faded out | 
+| 31 | 3 | 6 months - 1 year | 6 months / 2 years | Gradual | High school, Year 7, 9-10, 11 | "Dumbarses", dark hair, smart | Moved away |  
+| 32 | 0 | NA | NA | NA | Madlad #4. | NA | NA |
+| 33 |  
 
 More in depth versions of the questions shown in table:
 1. Self-explanatory.
@@ -132,7 +143,7 @@ More in depth versions of the questions shown in table:
 
 I should've asked this question too, but here's some anecdotal answers that I got after speaking to some of the people about this, "Why were you attracted to those people?". Common answers were: similar personalities, hobbies, interests, etc, but I didn't ask this consistently enough for it to be viable. Other good questions would've been "What's your definition of a crush?", "What made you stop having the crush?" 
 
-Edit (1/06/21): Beginning re-asking the people again for the added questions.
+Edit (1/06/21): Beginning re-asking the people again for the added questions. These questions provide much more than the basic numbers and instead provide some sort of qualitative data, allowing more insight into this topic.
 
 Side note: I had to talk to people I don't usually talk to because the opportunity presented itself, and I'm not going to deny free data am I?
 
