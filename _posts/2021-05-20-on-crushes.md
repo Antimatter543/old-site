@@ -112,7 +112,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 30 | 5 | 2 months | 1 month / 2 years | Gradual | Since high school, Year 10-12 | Dark, curly hair, not an asshole | Time, faded out | 
 | 31 | 3 | 6 months - 1 year | 6 months / 2 years | Gradual | High school, Year 7, 9-10, 11 | "Dumbarses", dark hair, smart | Moved away |  
 | 32 | 0 | NA | NA | NA | Madlad #4. | NA | NA |
-| 33 |  
+
 
 More in depth versions of the questions shown in table:
 1. Self-explanatory.
