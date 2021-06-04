@@ -66,10 +66,13 @@ ul.posts li {
 /* Site header - You could just have header but for some reason we're gonna make it a class .site-header */
 
 .site-header {
-    border-top: 5px solid #424242;
+    /* border-top: 5px solid #333; */
     border-bottom: 1px solid #e8e8e8;
-    min-height: 56px;
-    color: #424242;
+    min-height: 50px;
+    color: #333;
+	background-color: #333;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 /* .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; } */
 
@@ -77,19 +80,26 @@ ul.posts li {
 .site-title:hover,
 .site-title:visited {
   display: block;
-  color: #333;
-  font-size: 26px;
+  /* color: #333; */
+  font-size: 24px;
   letter-spacing: -1px;
   float: left;
-  line-height: 56px;
+  line-height: 50px;
   position: relative;
   z-index: 1;
-  color: #424242;
+  color: #9d9d9d;
 }
 
   /* This is the About, etc. Stuff on the right - Site Nav */
-.site-nav { float: right; line-height: 56px; }
-.site-nav .menu-icon { display: none; }
+.site-nav { 
+	float: right; 
+	line-height: 50px; 
+}
+.site-nav .menu-icon { 
+	display: none; 
+	padding: 15px;
+	line-height: 50px;
+}
   /* These 2 displays hide a checkbox and a burger thing (wtf, why are they there??) */
 .site-nav .nav-trigger {
 display: none;
@@ -98,11 +108,15 @@ margin-bottom: 5px;
  }
   /* Color of links. */
 .site-nav .page-link{
-color: #665d5d;
+color: #9d9d9d;
 line-height: 1.5;
-font-weight: 500;
+font-weight: 200;
 font-size: 17px;
-padding: 10px;
+padding: 15px;
+transition: color 0.5s linear;
+}
+.site-nav .page-link:hover{
+	color: white;
 }
 
 
@@ -432,7 +446,7 @@ font-size: 25px;
       position: fixed;
       z-index: 10;
       top: 14px; right: 8px;
-      background-color: white;
+      background-color: #333;
       -webkit-border-radius: 5px;
       -moz-border-radius: 5px;
       border-radius: 5px;
