@@ -71,7 +71,7 @@ Two new questions were added:
 
 For those who I asked before the questions were created, the time between gathering the info and recording it is extended so there might be some incorrect info here. Of course, if they didn't want to answer, they didn't have to. I did randomise the data so it wasn't most recent person is the latest number, but I decided against it because it requires upkeep after each new set of data. 
 
-Notes: Eight females have been surveyed, so the female representation size is not close to where I want it yet. Will work on this. I'll probably stop updating this (asking new people) once I reach ~40% female representation in the sample size. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. That being said, I have asked these question to people I've never talked to.
+Notes: Ten females have been surveyed, which is an approximate ~30% female representation size. Ideally, I'd want more but I've decided to stop at n=32 for now. There are other things to do and I feel like I've collected enough data for a decent amount of insights. All surveyed individuals are not randomly picked individual, this is not a representative sample of the population. This is a representative sample of the types of people I feel comfortable speaking to (i.e am somewhat at least friends with) about just walking up to them and asking "How many crushes have you had?" No, I'm not going to make a random selection. That being said, I have asked these question to people I've never talked to.
 
 All of the data (except for 1) comes from Year 12s in Term 2 (mid-way through the year) in Australia.
 
@@ -86,7 +86,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 4 | 0 | NA | NA | NA | Balling. 0 crushes Madlad #1. Lowkey late sleeper | NA | NA |
 | 5 | 4 | 6-12 months | Few weeks / 4-5 years | Gradual | None. Low active rn. | All shorter than the person | Personality incompatibility |
 | 6 | 4 | ~1 year | Similar to average | Gradual | All crushes before high school. *Sus*. Taking their word for it | Inconsistent | Faded: changed classes each year |
-|7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 |
+|7 | 5 | 9 months (school year) | 3 months / 1.5 years | Instant | Mostly Yr 9-12 | Fun, can hold conversation. Has morals/is respectable | Lacks self-respect or lives without morals | 
 |8| 10 | 2 months | 1 week/ 1 year. | Usually instant | Mostly middle school | Wholesome, honest | Time, faded out | 
 | 9 (Virtual friend) | ~10 | NA | NA | Mix, but as time increases, more often gradual | NA x2 because didn't ask | 
 | 10 | 2 | 2-3 months | 1 month / 4 months | Gradual | Middle school; years 8-9. | Inconsistent | Faded over time |
@@ -96,7 +96,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 14 | 4 | ~2.5 years | 6 months / 5 years | All Gradual | All in high school; 2 Yr 6, 1 Yr9, Yr 11. Low active.|
 | 15 | 5/ 25 (including 2D chars) | ~6 months | 1 week / 6 months; 5 years (if 2D)| Instant (holy fuck) | This guy is fucking crazy. I love it. Most recent last year. Madlad #2|
 | 16 | ~2 | 3-4 months | 2 weeks / 5months | Gradual | Both Year 9/10. Most people tend not to have them later. | "They're all super hot". Not same ethnicity. | Personality wasn't really... worth it. |
-| 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 |
+| 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 | Taller than #17. Unexpected personality (different to what you'd expect --e.g somewhat that appears to be mean actually being really sweet) | Distance (moved apart), decided to compromise and remain friends |
 | 18 | 7|  ~6 months | 1 week / 3 years | Instant | Most recent was this year, consistent over time | Inconsistent | Did something 'unattractive' -> changed their opinions of the person | 
 | 19 | 7 | ~4 months | 3 months / 1 year | Most gradual, 2 instant | Grades 7-9, Grades 10, 11. Consistent |
 | 20 | 5 | 3-4 months | 1 month / 9 months | Gradual attachment until a sudden realisation "Ah, I like them." | Mainly Years 9-11 |  Inconsistent, Something stands out about them | Faded over time / new crush |
@@ -163,7 +163,7 @@ The average crush duration was either ~1 school year (9-12 months) or ~4 months.
 
 
 After adding some new questions (1st June onwards), there seems to be 2 main patterns in the 'death' of the crush: 
-- learning something unwanted about the crush 
+- learning something unwanted about the crush, i.e something that doesn't align with the primary audience's personality/morals.
 - time fades it or distance apart fades it.
 
 ## Evaluation
