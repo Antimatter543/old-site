@@ -20,7 +20,7 @@ a:visited { color: #000000; }
   /* Change max width? */
   max-width: 850px;
   padding: 0 30px;
-  margin: 5px auto;
+  margin: 10px auto;
   zoom: 1;
 }
 
@@ -42,7 +42,10 @@ Basically, class is for a whole section, id is a specific thing in that section 
 
 
 
-
+canvas {
+	position: absolute;
+	z-index: -1;
+}
 p {
   font-size: 16px;
   line-height: 1.6;
