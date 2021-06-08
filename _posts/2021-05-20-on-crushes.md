@@ -96,7 +96,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 | 14 | 4 | ~2.5 years | 6 months / 5 years | All Gradual | All in high school; 2 Yr 6, 1 Yr9, Yr 11. Low active.|
 | 15 | 5/ 25 (including 2D chars) | ~6 months | 1 week / 6 months; 5 years (if 2D)| Instant (holy fuck) | This guy is fucking crazy. I love it. Most recent last year. Madlad #2|
 | 16 | ~2 | 3-4 months | 2 weeks / 5months | Gradual | Both Year 9/10. Most people tend not to have them later. | "They're all super hot". Not same ethnicity. | Personality wasn't really... worth it. |
-| 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 | Taller than #17. Unexpected personality (different to what you'd expect --e.g somewhat that appears to be mean actually being really sweet) | Distance (moved apart), decided to compromise and remain friends |
+| 17 | 3 | ~7 months | 2 months (ongoing) / ~1 year | Gradual | Highschool only; Year 10, Year 11,Year 12 | Taller than #17. They have an unexpected personality (e.g seems mean but is nice), 'unobtainable' (has lots of girls around them), treats girls like guys | Distance (moved apart), decided to compromise and remain friends |
 | 18 | 7|  ~6 months | 1 week / 3 years | Instant | Most recent was this year, consistent over time | Inconsistent | Did something 'unattractive' -> changed their opinions of the person | 
 | 19 | 7 | ~4 months | 3 months / 1 year | Most gradual, 2 instant | Grades 7-9, Grades 10, 11. Consistent |
 | 20 | 5 | 3-4 months | 1 month / 9 months | Gradual attachment until a sudden realisation "Ah, I like them." | Mainly Years 9-11 |  Inconsistent, Something stands out about them | Faded over time / new crush |
