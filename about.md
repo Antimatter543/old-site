@@ -33,6 +33,7 @@ Year 2021 - Began delving into AI - starting from Kaggle's AI course and onwards
 /////
 
 ### Some resources I used to make this site (inspiration, tutorials, etc.)
+
 This site has been <em> creatively inspired </em> by many other websites (>7), but I'll name the first few that have been inspired from the most:
 <p>karpathy.github.io</p>
 
