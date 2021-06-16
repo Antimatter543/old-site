@@ -45,6 +45,7 @@ Basically, class is for a whole section, id is a specific thing in that section 
 canvas {
 	position: absolute;
 	z-index: -1;
+	float: center;
 }
 p {
   font-size: 16px;

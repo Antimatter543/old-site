@@ -18,7 +18,7 @@ If you're here to potentially learn, or to see someone else's experiences with s
 
 //////
 
-"This website has started in February 2021, after I re-organised my life priorities & goals in January of 2021. Before this, I didn't really do any extra-curriculum things and instead let time drag me around as it wished. Now, I at least try to do things that I think are meaningful or fun. Maybe I will fail, but I'll at least try, which is probably more than what some could say.
+This website has started in February 2021, after I re-organised my life priorities & goals in January of 2021. Before this, I didn't really do any extra-curriculum things and instead let time drag me around as it wished. Now, I at least try to do things that I think are meaningful or fun. Maybe I will fail, but I'll at least try, which is probably more than what some could say.
 	
 	I'll consider 2021 to be the first year where I actually began delving into programming as more than just a school subject (which we barely learnt anything from). 
 	
@@ -30,3 +30,16 @@ If you're here to potentially learn, or to see someone else's experiences with s
 	Year 2019 - Gamemaker games (oh hey, it's Frame of War :o)
 	Year 2020 - Understood what functions were, did some at-home research.
 Year 2021 - Began delving into AI - starting from Kaggle's AI course and onwards. (My skills have already increased dramatically from the beginning of this year)
+/////
+
+### Some resources I used to make this site (inspiration, tutorials, etc.)
+
+This site has been <em> creatively inspired </em> by many other websites (>7), but I'll name the first few that have been inspired from the most:
+<p>karpathy.github.io</p>
+
+<p>https://www.christopherlovell.co.uk/</p>
+<p> Jekyll Minima </p>
+<p> https://github.com/hankquinlan/hankquinlan.github.io/</p>
+<p>{That other thing for the projects page}  </p>
+https://www.youtube.com/watch?v=EO6OkltgudE
+
