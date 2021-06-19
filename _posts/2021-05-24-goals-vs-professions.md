@@ -15,7 +15,9 @@ asa
 <div class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
 </div>
-*Might  be a blog post, when we have [], it should be text that pops up above the immediately preceding text. E.g the word ‘shallow’, if you hovered over it, would show [Shallow, does not necessarily…].*
+
+
+<!-- *Might  be a blog post, when we have [], it should be text that pops up above the immediately preceding text. E.g the word ‘shallow’, if you hovered over it, would show [Shallow, does not necessarily…].* -->
 
 
 It seems that when people often ask the question “What do you want to be in life?”, or “What do you want to do in life”, the implied assumption is that you will answer it in terms of what profession you want to do, and not actually what you want to do. At least this was my experience when I randomly asked them.

@@ -41,11 +41,13 @@ If you want body to be normal, but have a section (i.e the text) be at 70% or wh
 Basically, class is for a whole section, id is a specific thing in that section (so we want to make a class) .text */
 
 
-
 canvas {
-	position: absolute;
-	z-index: -1;
-	float: center;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+	width: 100%;
 }
 p {
   font-size: 16px;
@@ -396,14 +398,14 @@ iframe[src*="ads-iframe"] { display: none; }
 		margin-top:-30px;
 		margin-left:28px;
 		width: 500px;
-		line-height:16px;
+		line-height:25px;
 	}
 	a.tooltip:hover span {
 		display:inline;
 		position:absolute;
-		color:#111;
+		color:#fff;
 		border:1px solid #DCA;
-		background:#fffAF0;
+		background:#555;
 	}
 	.callout {
 		z-index:20;
