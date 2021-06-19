@@ -7,11 +7,11 @@ includelink: true
 
 I'd like to minimise the number of regrets I have during my lifetime. I have some goals I'd like to achieve, so that's what I'm aiming for.
 
-This website was created around February 2021, and is continually updated as I... update it.
-However, you'll notice that some of the blog posts are pre-2021. This is just because that's the date when I had originally explored the concept. 
-If you click on the article, the most recent date where it's been reviewed will show (which is when it was published here).
+This website was created around February 2021 after some re-prioritising of goals. This site was built from scratch, following tutorials and *creative inspiration* from multiple other sites, as well as my own code + personal twists to things. Some of the canvas creations are mine, some aren't. All required effort to learn + implement (turns out learning a new language isn't that bad!). As someone who's dabbled in novel creating, it astounds me how much your own 'creativity' is lowkey just plagiarising off 200 different sources (and you notice it in every other text then). 
 
-If you're here for professional reasons, check out my skills / projects / blog posts (professional only).
+You'll notice that some of the blog posts are pre-2021. Those are the original dates that I had explored that concepts -- most recent date touched is shown inside the article.
+
+If you're here for professional reasons, check out my skills / projects / blog posts.
 
 If you're here to potentially learn, or to see someone else's experiences with something, check out the non-professional blog section. I've written about a few things which I'm quite pleased with, so check it out :). In there, you'll find some nice morals or lessons to learn, some tips for living and enjoying the limited time of consciousness you have. Sometimes I go into a bit of a philosophical tangent too, so there's that if you want. Obviously, you don't have to take away any topics, but just try playing around with them in your head: adapt the ideas to your model of reality -- evaluate it against your own, change what works and what doesn't. 
 
@@ -42,4 +42,5 @@ This site has been <em> creatively inspired </em> by many other websites (>7), b
 <p> https://github.com/hankquinlan/hankquinlan.github.io/</p>
 <p>{That other thing for the projects page}  </p>
 https://www.youtube.com/watch?v=EO6OkltgudE
+
 

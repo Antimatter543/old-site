@@ -1,8 +1,10 @@
 const canvas = document.querySelector('canvas')
 // canvas just variable name. Could name it 'c', etc.
 // Innerwidth/height is a window object.
+
 canvas.width = innerWidth/2
-canvas.height = innerHeight/2
+heightRatio = 0.4
+canvas.height = canvas.width * heightRatio
 
 var c = canvas.getContext('2d');
 //  could have named c as ctx instead but fuck it.
@@ -66,7 +68,13 @@ function randomIntFromRange(min, max) {
   
 	return Math.sqrt(Math.pow(xDist, 2) + Math.pow(yDist, 2))
   }
-  
+
+window.addEventListener('resize', function() {
+	canvas.width = innerWidth/2
+	canvas.height = canvas.width * heightRatio
+	init();
+
+})
   /// Real shit
 
 function Particle(x,y, radius, color) {
@@ -102,8 +110,9 @@ this.update = () => {
 // Implementation
 let particles
 function init() {
+	
 particles = []
-
+c.clearRect(0, 0, canvas.width, canvas.height)
 for (let i = 0; i < 100; i++) {
 	var colour = "#" + ((1<<24)*Math.random() | 0).toString(16)
 	particles.push(new Particle(canvas.width / 2, canvas.height / 2, 10, colour))

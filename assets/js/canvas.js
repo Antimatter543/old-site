@@ -1,3 +1,4 @@
+// Whatever this is, it's broken.
 import utils, { randomIntFromRange } from './utils'
 const canvas = document.getElementById('myCanvas')
 canvas.width = innerWidth / 5;
