@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Short Story: Shadow of Oneself"
-date: 2021-05-03
+date: 2020-09-16
 reviewed: 2021-06-10
 
 published: true
