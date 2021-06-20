@@ -2,8 +2,8 @@ const canvas = document.querySelector('canvas')
 // canvas just variable name. Could name it 'c', etc.
 // Innerwidth/height is a window object.
 
-canvas.width = innerWidth/2
-heightRatio = 0.4
+canvas.width = innerWidth
+heightRatio = 0.2
 canvas.height = canvas.width * heightRatio
 
 var c = canvas.getContext('2d');
@@ -85,8 +85,8 @@ function Particle(x,y, radius, color) {
 	this.radians = Math.random() * Math.PI * 2;
 	this.velocity = 0.05;
 	this.distanceFromCenter = {
-		x: randomIntFromRange(50,120),
-		y: randomIntFromRange(50,120)};
+		x: randomIntFromRange(80,150),
+		y: randomIntFromRange(80,150)};
 
 this.draw = () => {
 	c.beginPath();
