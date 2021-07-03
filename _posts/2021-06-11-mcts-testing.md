@@ -6,7 +6,7 @@ reviewed: 2021-05-12
 tags: professional
 published: false
 excerpt: "Wrapping my head around MCTS and actually being able to implement it in games.  "
-comments: true
+comments: false
 ---
 
 https://www.youtube.com/watch?v=UXW2yZndl7U

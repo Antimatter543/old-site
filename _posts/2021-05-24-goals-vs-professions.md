@@ -7,7 +7,7 @@ reviewed: 2021-05-24
 published: true
 tags: non-professional 
 excerpt: 'What you want to be vs what you want to do.'
-comments: true
+comments: false
 ---
 
 asa
