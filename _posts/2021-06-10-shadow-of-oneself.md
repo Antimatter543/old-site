@@ -9,7 +9,7 @@ tags: non-professional
 excerpt: "This was a little short story I made for my Year 11 'short story' (more flash fiction) exam. I hated that test; they call it short story 
 when it's 800-1000 words... How am I meant to make that good? You know how short 1000 words is???? Anyways, here it is. I also had to extract this idea from a certain poem about
 some normal family on a dinner table or whatever. Safe to say I er... Exercised my creative ability on it :)" 
-comments: true
+comments: false
 ---
 <h1 style="text-align:center;"> Shadow of Oneself </h1>
 <br>

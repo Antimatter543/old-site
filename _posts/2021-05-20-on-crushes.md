@@ -7,7 +7,7 @@ reviewed: 2021-06-09
 published: true
 tags: non-professional gold
 excerpt: "An exploration of crushes - a domain I'm not well versed in, which is why this article was made. On the importance of attractions/relationships and the lack of verbal knowledge about this. Survey n=~30 data gathered about crushes so you can create (more) data-based opinion on related topics!"
-comments: true
+comments: false
 ---
 Warning: Contains swears.
 

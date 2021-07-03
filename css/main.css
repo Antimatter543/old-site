@@ -47,7 +47,7 @@ canvas {
     margin-left: auto;
     margin-right: auto;
     display: block;
-	width: 100%;
+	/* width: 100%; */
 	position: absolute;
 	top: 25px;
 	left: 0px;
@@ -461,6 +461,7 @@ text-decoration: underline;
 
 /* Get rid of ads because wtf?? I didn't know there even were ads on my site. Wasn't even getting paid! */
 iframe[src*="ads-iframe"] { display: none; }
+iframe[src*="ads-container"] { display: none; }
 
 /* Tables */
   .post table {

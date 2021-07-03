@@ -8,7 +8,7 @@ reviewed: 2021-05-27
 published: true
 tags: non-professional
 
-comments: true
+comments: false
 ---
 Just some of the terminology I consider useful in life & general. There's a few definitions here as well as some (in my opinion) useful concepts. These usually follow the order of:
 

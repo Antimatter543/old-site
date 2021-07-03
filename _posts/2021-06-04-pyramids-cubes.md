@@ -6,7 +6,7 @@ reviewed: 2021-06-10
 published: true
 tags: non-professional 
 excerpt: Playing around with the proportion of volume for an N-dimensional pyramid within an N dimensional cuboid. Tried to figure ouut the proportion using only my background knowledge and no researching. 
-comments: true
+comments: false
 ---
 NOT  COMPLETE
 

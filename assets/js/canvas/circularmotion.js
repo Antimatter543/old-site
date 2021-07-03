@@ -34,6 +34,7 @@ const colors = [
 addEventListener('mousemove', (event) => {
 	mouse.x = event.clientX
 	mouse.y = event.clientY
+	console.log(mouse.x, mouse.y)
 })
 
 addEventListener('resize', () => {
@@ -80,7 +81,7 @@ function Particle(x,y, radius, color) {
 		this.color = color;
 		this.radians = Math.random() * Math.PI * 2;
 		this.velocity = 0.05;
-		this.distanceFromCenter = randomIntFromRange(50,120)
+		this.distanceFromCenter = randomIntFromRange(2,10)
 		this.lastMouse = {x: x, y: y};
 
 		
