@@ -32,7 +32,7 @@ It's the first game I've ever made, and it's also annoying to beat. Below is a v
 For an extra challenge, I decided to beat the game without any lasers. Even though the (spoilers) boss has some anti-laser mechanisms so you can't spam lasers to kill it (to a certain degree), the masochist in me decided "Hey, this game isn't hard enough. Let's beat it without this feature that I spent time adding in!". So that's what I did.
 
 
-<iframe src="https://www.youtube.com/embed/IX4cPKXT7-s"> </iframe>
+<iframe src="https://www.youtube.com/embed/IX4cPKXT7-s" allowfullscreen> </iframe>
 
 The first 2 levels are meant to be easy - to pull you off your guard. The 3rd level is also simple as long as you stay in the center; if you don't, you're going to meet hell. It looked obvious to me, but the people who played always moved away and er... Having 3 big aliens on your screen is not the best idea.
 Stage 3 Boss is a bit psycho... In the video, I killed it fast enough so that you don't have to see a certain surprise (that may involve approximately 8 extremely rapid close range fireballs). Dodgeable, but, barely.
