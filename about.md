@@ -5,7 +5,12 @@ permalink: /about/
 includelink: true
 ---
 
-I'd like to minimise the number of regrets I have during my lifetime. I have some goals I'd like to achieve, so that's what I'm aiming for.
+
+ Markup : 
+ - [ ] An uncompleted task
+- [x] A completed task
+
+<!-- I'd like to minimise the number of regrets I have during my lifetime. I have some goals I'd like to achieve, so that's what I'm aiming for.
 
 This website was created around February 2021 after some re-prioritising of goals. This site was built from scratch, following tutorials and *creative inspiration* from multiple other sites, as well as my own code + personal twists to things. Some of the canvas creations are mine, some aren't. All required effort to learn + implement (turns out learning a new language isn't that bad!). As someone who's dabbled in novel creating, it astounds me how much your own 'creativity' is lowkey just plagiarising off 200 different sources (and you notice it in every other text then). 
 
@@ -25,22 +30,20 @@ This website has started in February 2021, after I re-organised my life prioriti
 	I.e as of 2021, I am a 0 year old programmer. In 2022, I'll be a 1 year old programmer :D 
 	
 	If you want my experience as a programmer:
-	Year 2017: Introduced to html as a thing - made a really bad website for our school assessment (no deployment, just html & css).
-	Year 2018: Introduced to python - if statements, bools.
-	Year 2019 - Gamemaker games (oh hey, it's Frame of War :o)
-	Year 2020 - Understood what functions were, did some at-home research.
+	 2017: Introduced to html as a thing - made a really bad website for our school assessment (no deployment, just html & css).
+	 2018: Introduced to python - if statements, bools.
+	 2019 - Gamemaker games (oh hey, it's Frame of War :o)
+	 2020 - Understood what functions were, did some at-home research.
 Year 2021 - Began delving into AI - starting from Kaggle's AI course and onwards. (My skills have already increased dramatically from the beginning of this year)
-/////
+///// -->
 
 ### Some resources I used to make this site (inspiration, tutorials, etc.)
 
-This site has been <em> creatively inspired </em> by many other websites (>7), but I'll name the first few that have been inspired from the most:
-<p>karpathy.github.io</p>
-
-<p>https://www.christopherlovell.co.uk/</p>
-<p> Jekyll Minima </p>
-<p> https://github.com/hankquinlan/hankquinlan.github.io/</p>
-<p>{That other thing for the projects page}  </p>
-https://www.youtube.com/watch?v=EO6OkltgudE
+This site has been <em> creatively inspired </em> by many other websites (>7), similar to how every story is effectively a plagiarised mess of all the stories anyone has ever read, but I'll name the first few that have been inspired from the most :
+- karpathy.github.io
+- https://www.christopherlovell.co.uk/
+-  Jekyll Minima 
+-  https://github.com/hankquinlan/hankquinlan.github.io/
+- https://www.youtube.com/watch?v=EO6OkltgudE
 
 
