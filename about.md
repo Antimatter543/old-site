@@ -6,7 +6,28 @@ includelink: true
 ---
 
 
- Markup : 
+# WIP 
+Unfortunately, I've had to hunt most extra-curricular projects and experiences as I've never really had anyone who pushed me, encouraged me, to do things that would bring me outside my comfort zone and force me to learn, evolve. For instance, nobody told me to make a site. Nobody introduced me to programming or gamemaking or AI. And to those in a similar boat; respect. It's not easy when there's nobody else to talk about your projects to, right? 
+
+Of course, people that have been encouraged by a teacher or family member or friend will have faced their own struggles too (ofc). I have partially being taught -- by a rigid school system that somehow took the fun and creativity out of coding in grades 9 onwards, but it was very superficial and we really didn't do anything past booleans and conditionals for the most part. Trust in school to do that, huh?
+
+But the thing I love about computers and programming is that, it doesn't care. What a computer is designed to do is logical operations, and in these operations lies the means of effectively unlimited creativity. It doesn't care whether you're disabled, academic, have 50 prestigious titles or are a 12 year old located in some rural part of Africa. Build it, program it, and it will happen.
+The *potential* of creation is simply a great attractor to me.
+
+
+Current things I'm doing (kinda):
+- Learning kotlin
+- Learning unity game development + coding in C# => Evade game, simple roguelike?
+- Very casual leetcoding
+- Reading
+- Creating a simple handwriting (single symbol) recognition neural network
+- School ( ~_~ ) 
+
+
+Things that might be interesting :
+- Creating a visualisation of the travelling salesperson problem & heuristics to solve it 
+- Cellular automata?
+- Really trying in some kaggle / AIcrowd competition.
  - [ ] An uncompleted task
 - [x] A completed task
 
@@ -36,6 +57,7 @@ This website has started in February 2021, after I re-organised my life prioriti
 	 2020 - Understood what functions were, did some at-home research.
 Year 2021 - Began delving into AI - starting from Kaggle's AI course and onwards. (My skills have already increased dramatically from the beginning of this year)
 ///// -->
+
 
 ### Some resources I used to make this site (inspiration, tutorials, etc.)
 
