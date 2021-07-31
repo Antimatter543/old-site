@@ -23,6 +23,8 @@ It definitely requires an open mind to read; it's just... So cool. Viewing the w
 ## Tangent 
 Definitely radical/really far out stretched ideas of mine without too much evidence: It feels like the problems we face at the bleeding edge of physics, biology, etc. today such as the problem of dark matter *could* be solved with deeper knowledge of chaos theory, information flow, things like that etc.
 
+[Added 31/7/21] Also, perhaps the question (this is just food for thought) of "Can 3D information be encoded on a 2D space" may lead somewhere. This feels somewhat similar to the blackhole information paradox and black holes in general, but... Idk? I'm probably just spouting nonsense.
+
 Although, to get to this point with the information lens way of looking at things it will take time to building a competing theory. 
 Entering a small tangent now, competing theories A and B will predict identical outcomes for all previous experiments, but a (potentially slightly) different outcomes for a new one. The one that predicts better is the winenr (for now). It's similar to newtonian mechanics vs einstein!
 
