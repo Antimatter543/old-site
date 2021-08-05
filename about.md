@@ -6,13 +6,16 @@ includelink: true
 ---
 
 
-# WIP 
-Unfortunately, I've had to hunt most extra-curricular projects and experiences as I've never really had anyone who pushed me, encouraged me, to do things that would bring me outside my comfort zone and force me to learn, evolve. For instance, nobody told me to make a site. Nobody introduced me to programming or gamemaking or AI. And to those in a similar boat; respect. It's not easy when there's nobody else to talk about your projects to, right? 
+<!-- # WIP  -->
+<!-- Unfortunately, I've had to hunt most extra-curricular projects and experiences as I've never really had anyone who pushed me, encouraged me, to do things that would bring me outside my comfort zone and force me to learn, evolve. For instance, nobody told me to make a site. Nobody introduced me to programming or gamemaking or AI. And to those in a similar boat; respect. It's not easy when there's nobody else to talk about your projects to, right? 
 
 Of course, people that have been encouraged by a teacher or family member or friend will have faced their own struggles too (ofc). I have partially being taught -- by a rigid school system that somehow took the fun and creativity out of coding in grades 9 onwards, but it was very superficial and we really didn't do anything past booleans and conditionals for the most part. Trust in school to do that, huh?
 
 But the thing I love about computers and programming is that, it doesn't care. What a computer is designed to do is logical operations, and in these operations lies the means of effectively unlimited creativity. It doesn't care whether you're disabled, academic, have 50 prestigious titles or are a 12 year old located in some rural part of Africa. Build it, program it, and it will happen.
 The *potential* of creation is simply a great attractor to me.
+ -->
+
+👋 Hey! I'm Anti (or Yuv), and among other things, I like programming things. I'm currently 17 and finishing up my last year of high school, and I've been exploring programming at an increasingly complex (perhaps exponential) rate since Year 10 (and by that, I mean the first two years were *extremely* slow relative to my current pace). Obviously, nature doesn't like exponentials for too long and it only looks exponential because of the small sample size.
 
 
 Current things I'm doing (kinda):
@@ -20,14 +23,19 @@ Current things I'm doing (kinda):
 - Learning unity game development + coding in C# => Evade game, simple roguelike?
 - Very casual leetcoding
 - Reading
-- Creating a simple handwriting (single symbol) recognition neural network
+- Creating a simple handwriting (single symbol) recognition neural networkw
 - School ( ~_~ ) 
 
 
 Things that might be interesting :
 - Creating a visualisation of the travelling salesperson problem & heuristics to solve it 
 - Cellular automata?
-- Really trying in some kaggle / AIcrowd competition.
+- Really trying in some kaggle / AIcrowd competition. (Lux AI?)
+- MLSEC.io - https://www.microsoft.com/security/blog/2021/07/29/attack-ai-systems-in-machine-learning-evasion-competition/ August 6th - September 17th
+https://mlsec.io/
+
+
+Test below:
  - [ ] An uncompleted task
 - [x] A completed task
 
