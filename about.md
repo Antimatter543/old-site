@@ -15,7 +15,12 @@ But the thing I love about computers and programming is that, it doesn't care. W
 The *potential* of creation is simply a great attractor to me.
  -->
 
-👋 Hey! I'm Anti (or Yuv), and among other things, I like programming things. I'm currently 17 and finishing up my last year of high school, and I've been exploring programming at an increasingly complex (perhaps exponential) rate since Year 10 (and by that, I mean the first two years were *extremely* slow relative to my current pace). Obviously, nature doesn't like exponentials for too long and it only looks exponential because of the small sample size.
+👋 Hey! I'm Anti (or Yuv), and among other things, I like programming things. I'm currently 17 and finishing up my last year of high school, and I've been exploring programming at an increasingly complex (perhaps exponential) rate since Year 10 (and by that, I mean the first two years were *extremely* slow relative to my current pace). Obviously, nature doesn't like exponentials for too long and it only looks exponential because of the small time frame. I love the idea of freedom, creativity and also raw power that turing complete machines can give, and how its system of information processing is independent from the material substrate it's founded upon (anything that can make a NAND gate is equivalent to any other computing device). Basically, programming is cool.
+
+I'm most likely to go into a Machine Learning career, but the nature of my goal is action-based and not profession-based. Realistically, the closest jobs that align with the goal I want to achieve are probably researching @ Deepmind / OpenAI or somewhere similar or making a seriously good VR game that somehow beats the problem of converting reality motion -> simulated motion whilst keeping the reality user in one spot + producing the expected effects of movement.
+
+I also have a problem of biting off more than I can chew (I'll keep doing it, though) and trying to learn way too much in way too little time (it's not my fault there's so many interestings things out there). It's fun everytime though!
+
 
 
 Current things I'm doing (kinda):
@@ -23,6 +28,7 @@ Current things I'm doing (kinda):
 - Learning unity game development + coding in C# => Evade game, simple roguelike?
 - Very casual leetcoding
 - Reading
+- Udacity AWS ML Course
 - Creating a simple handwriting (single symbol) recognition neural networkw
 - School ( ~_~ ) 
 
