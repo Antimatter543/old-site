@@ -23,22 +23,28 @@ I also have a problem of biting off more than I can chew (I'll keep doing it, th
 
 
 
-Current things I'm doing (kinda):
+Current things I'm doing (kinda) - but I've procrastinated/wasted weeks of time :):
 - Learning kotlin
 - Learning unity game development + coding in C# => Evade game, simple roguelike?
 - Very casual leetcoding
 - Reading
 - Udacity AWS ML Course
-- Creating a simple handwriting (single symbol) recognition neural networkw
+- Creating a simple handwriting (single symbol) recognition neural network
 - School ( ~_~ ) 
-
+- Create a simple 3x+1 that goes to infinite, trying to find a number that disproves it. (Just a simple checker).
 
 Things that might be interesting :
 - Creating a visualisation of the travelling salesperson problem & heuristics to solve it 
 - Cellular automata?
+- AICrowd Neural MMO Challenge
+
 - Really trying in some kaggle / AIcrowd competition. (Lux AI?)
 - MLSEC.io - https://www.microsoft.com/security/blog/2021/07/29/attack-ai-systems-in-machine-learning-evasion-competition/ August 6th - September 17th
 https://mlsec.io/
+-  ML Generative music
+
+
+I might have too much to want to do... And I'm really slow at doing things in the first place, but I want to do everything and end up doing little (kinda). Anybody know how to fix this problem?
 
 
 Test below:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basic flask website with read/write from databases"
+title: "Basic Flask website"
 date: 2021-04-11
 reviewed: 2021-07-11
 tags: professional
