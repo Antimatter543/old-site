@@ -32,12 +32,12 @@ Current things I'm doing (kinda) - but I've procrastinated/wasted weeks of time 
 - Creating a simple handwriting (single symbol) recognition neural network
 - School ( ~_~ ) 
 - Create a simple 3x+1 that goes to infinite, trying to find a number that disproves it. (Just a simple checker).
+- Writing a book (currently ~30000 words), started 1/3/20, have periods of ON/TO BE CONTINUED (most of it is TBC'd). This'll take a while to finish.
 
 Things that might be interesting :
 - Creating a visualisation of the travelling salesperson problem & heuristics to solve it 
 - Cellular automata?
 - AICrowd Neural MMO Challenge
-
 - Really trying in some kaggle / AIcrowd competition. (Lux AI?)
 - MLSEC.io - https://www.microsoft.com/security/blog/2021/07/29/attack-ai-systems-in-machine-learning-evasion-competition/ August 6th - September 17th
 https://mlsec.io/
