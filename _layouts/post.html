@@ -10,7 +10,7 @@ layout: default
       <span class='one'></span>
       <span class='two'></span>
     </span>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.reviewed %} • Reviewed {{ page.reviewed | date: "%b %-d, %Y" }}{% endif %}</p>
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} asdasd• {{ page.author }}{% endif %}{% if page.reviewed %} • Reviewed {{ page.reviewed | date: "%b %-d, %Y" }}{% endif %}</p>
   </header>
 
   <article class="post-content">
@@ -34,4 +34,10 @@ layout: default
    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
    {% endif %}
+
+   <!--  I think it just keeps the script on anyways but wtf -->
+{% if page.math %}
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}
 </div>
