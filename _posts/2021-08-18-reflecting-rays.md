@@ -14,7 +14,7 @@ math: true
 ```
 Imagine a circular mirror with a radius of 5 that exists on an origin. 
 A ray of light beings at 10i-10j and enters the mirror such that 
-it intersects the point (-2, sqrt(29)). 
+it intersects the point (-2, sqrt(21)). 
 Assume that the mirror allows a ray to enter it before closing and thus trapping a light ray inside.
 
 If an incoming ray hits a surface at an angle, 
@@ -42,3 +42,7 @@ If you look back in history, this problem actually has some ancestry roots in a 
 
 
 [^1]: Originally, the question was -10i-10j and point -2, -sqrt(29). There's a few errors with this (I had the wrong diagram in my head which caused me to get the wrong angle and be thoroughly confused for an hour or two until it clicked): 1) The point that the ray intersects is actually on the same side as the ray initialisation point, i.e it 'hits' the circle on the outside (which I then demand it to bounce off). I.e it never got inside. Lmao. 
+
+https://matthew-brett.github.io/teaching/rotation_2d.html
+https://en.wikipedia.org/wiki/Rotation_matrix
+https://www.wolframalpha.com/widgets/view.jsp?id=bd71841fce4a834c804930bd48e7b6cf
