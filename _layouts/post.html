@@ -17,6 +17,11 @@ layout: default
   {{ content }}
   </article>
 
+    <!-- mathjax -->
+	{% if page.mathjax %}
+	<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	{% endif %}
+
   <!-- Disqus Commenting -->
   {% if page.comments %}
   <div id="disqus_thread"></div>
@@ -36,8 +41,4 @@ layout: default
    {% endif %}
 
    <!--  I think it just keeps the script on anyways but wtf -->
-{% if page.math %}
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-{% endif %}
 </div>
