@@ -5,7 +5,7 @@ date: 2021-08-12
 reviewed: 2021-06-10
 published: true
 tags: non-professional "rotation matrix" maths vectors light rays matrices "dot product" "implicit differentiation" perpendicular 
-excerpt: A self-generated problem that came to me after a specialist exam. It's a pretty problem to think about! Testing Mathjax.
+excerpt: A self-generated problem that came to me after a specialist exam. It's a pretty problem to think about! Testing Mathjax. Took disproportionately long to make this post relative to how long it takes to solve it... Mathjax and formatting is a pain, huh?
 comments: false
 mathjax: true
 ---
@@ -133,6 +133,71 @@ $$f'(x,y) = \frac{-x}{y} = \frac{dy}{dx}$$
 
 [IMAGE OF INPUT THINGY]
 
+Thus, for Point A $$(-2, \sqrt21)$$: 
+
+$$\begin{aligned} f'(x,y) &=  f'(-2, \sqrt21) \\
+m_T &= -\frac{2}{\sqrt21}  \end{aligned}$$
+
+We'll call it $$m_T$$ as a nickname for 'tangent gradient'.
+
+Now, our diagram looks like this:
+
+ [DIAGRAM THINGY; circle, ray, tangent]
+
+## 3. Find the normal 
+
+Easiest one. Just flip it $$90^o$$. There's a few ways to know that $$m_n = \frac{-1}{m_T}$$, and I actually only know one of them (figured it out when writing the post, actually!) If you assume knowledge of the dot product $$ a \dot b$$, and know that when $$ a \dot b = 0$$, a is perpendicular to b => $$a \perp b$$. And really, the $$\frac{-1}{m_T}$$ is flipping the tangent, and then making it x-1 so that when you dot product them they become 0. Thus, they are perpendicular! Cool. So,
+
+$$\begin{aligned}
+ m_n = \frac{-1}{m_T} &= \frac{-1}{\frac{2}{\sqrt21}} \\
+m_n &= \frac{-\sqrt21}{2} 
+\end{aligned}$$
+
+Oh yeah, our diagram's coming together.
+ [meme image?]
+
+![DIAGRAM](link)
+
+I can't help but draw the next thing here: humans have foresight, we can plan, so use it! We'll cal the first reflected ray $$r_1$$.
+
+## 4. find $$\theta$$
+
+[image]
+
+How can we find $$\theta$$? Well..
+
+Dot product!
+
+$$ \vec{a} \dot \vec{b} = |a||b|cos(\theta)$$
+
+But our $$m_n$$ is in cartesian form and not vector, oh noes! Is there a way to convert a gradient into a direction vector? 🤔
+
+Well, if a gradient is in $$ m = \frac{\Delta y}{\Delta x}$$ and $$\vec{d} = \begin{pmatrix} x \\ y \end{pmatrix} $$ and our $$ m_n = \frac{-sqrt21}{2} = \frac{\Delta y}{\Delta x}$$...
+HMMMMM.
+
+See where I'm going?
+
+Flip the lil thingy!
+
+$$\begin{aligned}
+m_n &\to \vec{d} \\ 
+\frac{\Delta y}{\Delta x} &\to \begin{pmatrix} x \\ y \end{pmatrix} \\ 
+\frac{-\sqrt21}{2} &\to \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} = \vec{d_n} 
+% Dn deez NU-
+\end{aligned}$$
+
+I'm just gonna call it $$m_n$$ even though it's technically $$\vec{d_n}$$. Take it or leave it.
+So now we have our $$m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$, going right an down. $$\vec{d_0} goes \begin{pmatrix} -8 \\ \sqrt21 + 10 \end{pmatrix} $$ so the diagram looks like:
+
+[DIAGRAM]
+
+So, doing [dot product]
+
+
+...
+
+
+//// Below is random stuff.
 
 % $$\mathit{Testsitgnng}$$
 
