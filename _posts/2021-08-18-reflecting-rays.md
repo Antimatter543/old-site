@@ -193,10 +193,30 @@ So now we have our $$m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$, going
 
 So, doing [dot product]
 
-
 ...
 
+We're finding the angle between vectors, right, so let's just do it! 
 
+Wooahh! Slow down there Nelly, what are you actually calculating?
+
+In the formula above, $$\theta$$ is the angle between 2 vectors.
+[img]
+
+See anytrhing fishy with the diagram above?
+Let's try to make A the origin, and since they're direction vectors, it doesn't matter where they start as long as they meet. They'll always give the same angle.
+[img of them  giving same angle]
+[img2]
+
+See it? Our $$\theta$$ isn't actually what's being calculated! We're really calculating $$\sim$$!!! Since that's the angle between the two direction vectors.
+
+Let's try it. Calculate $$\theta$$.
+
+Seriously, use $$\vec{a} = m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and $$\vec{b} = \vec{d_0} = \begin{pmatrix} -8 \\ \sqrt21+10 \end{pmatrix} $$.
+
+I get $$\theta = ...$$. You can use [symbolab](https://www.symbolab.com/solver/vector-angle-calculator "Symbolab link") , which seems a bit nonsense when we look at the diagram [show diagram small] and especially the desmos diagram for exact numbers.
+[diagram]
+
+Basically, **what we thought was $$\theta$$ in our heads wasn't actually the real $$\theta$$ we were calculating.**
 //// Below is random stuff.
 
 % $$\mathit{Testsitgnng}$$
