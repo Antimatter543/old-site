@@ -23,7 +23,9 @@ I also have a problem of biting off more than I can chew (I'll keep doing it, th
 
 
 
-Current things I'm doing (kinda) - but I've procrastinated/wasted weeks of time :):
+Current things I'm doing (kinda) - but I've procrastinated/wasted weeks of time :) / haven't touched in a while
+- Make posts for blog have a picture attached to each of them so they display in the blog list.
+- Also get tags to work where you can filter by tags for blog list.
 - Learning kotlin
 - Learning unity game development + coding in C# => Evade game, simple roguelike?
 - Very casual leetcoding
@@ -31,7 +33,7 @@ Current things I'm doing (kinda) - but I've procrastinated/wasted weeks of time 
 - Udacity AWS ML Course
 - Creating a simple handwriting (single symbol) recognition neural network
 - School ( ~_~ ) 
-- Create a simple 3x+1 that goes to infinite, trying to find a number that disproves it. (Just a simple checker).
+- Create a simple 3x+1 that goes to infinite, trying to find a number that disproves it. (Just a simple checker). DONE
 - Writing a book (currently ~30000 words), started 1/3/20, have periods of ON/TO BE CONTINUED (most of it is TBC'd). This'll take a while to finish.
 
 Things that might be interesting :

@@ -101,7 +101,7 @@ So it's going backwards in x, upwards in y. Makes sense to me! Note: it doesn't 
 
 So: 
 
-$$\vec{r} = \begin{pmatrix} 10 \\ 10 \end{pmatrix} + \begin{pmatrix} -8 \\ \sqrt21 + 10 \end{pmatrix}k $$
+$$\vec{r} = \begin{pmatrix} 10 \\ -10 \end{pmatrix} + \begin{pmatrix} -8 \\ \sqrt21 + 10 \end{pmatrix}k $$
 <!-- The above is how you can do matrices. I.e begin with pmatrix, and then the double backslash is when you want to go next line. -->
 
 Cool.
@@ -146,7 +146,7 @@ Now, our diagram looks like this:
 
 ## 3. Find the normal 
 
-Easiest one. Just flip it $$90^o$$. There's a few ways to know that $$m_n = \frac{-1}{m_T}$$, and I actually only know one of them (figured it out when writing the post, actually!) If you assume knowledge of the dot product $$ a \dot b$$, and know that when $$ a \dot b = 0$$, a is perpendicular to b => $$a \perp b$$. And really, the $$\frac{-1}{m_T}$$ is flipping the tangent, and then making it x-1 so that when you dot product them they become 0. Thus, they are perpendicular! Cool. So,
+Easiest one. Just flip it $$90^o$$. There's a few ways to know that $$m_n = \frac{-1}{m_T}$$, and I actually only know one of them (figured it out when writing the post, actually!) If you assume knowledge of the dot product $$a \cdot b $$, and know that when $$a \cdot b = 0$$, a is perpendicular to b => $$a \perp b$$. And really, the $$\frac{-1}{m_T}$$ is flipping the tangent, and then making it x-1 so that when you dot product them they become 0. Thus, they are perpendicular! Cool. So,
 
 $$\begin{aligned}
  m_n = \frac{-1}{m_T} &= \frac{-1}{\frac{2}{\sqrt21}} \\
@@ -168,7 +168,7 @@ How can we find $$\theta$$? Well..
 
 Dot product!
 
-$$ \vec{a} \dot \vec{b} = |a||b|cos(\theta)$$
+$$ \vec{a} \cdot \vec{b} = |a||b|cos(\theta)$$
 
 But our $$m_n$$ is in cartesian form and not vector, oh noes! Is there a way to convert a gradient into a direction vector? 🤔
 
@@ -193,9 +193,52 @@ So now we have our $$m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$, going
 
 So, doing [dot product]
 
-
 ...
 
+We're finding the angle between vectors, right, so let's just do it! 
+
+Wooahh! Slow down there Nelly, what are you actually calculating?
+
+In the formula above, $$\theta$$ is the angle between 2 vectors.
+[img]
+
+See anytrhing fishy with the diagram above?
+Let's try to make A the origin, and since they're direction vectors, it doesn't matter where they start as long as they meet. They'll always give the same angle.
+[img of them  giving same angle]
+[img2]
+
+See it? Our $$\theta$$ isn't actually what's being calculated! We're really calculating $$\sim$$!!! Since that's the angle between the two direction vectors.
+
+Let's try it. Calculate $$\theta$$.
+
+Seriously, use $$\vec{a} = m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and $$\vec{b} = \vec{d_0} = \begin{pmatrix} -8 \\ \sqrt21+10 \end{pmatrix} $$.
+
+I get $$\theta = ...$$. You can use [symbolab](https://www.symbolab.com/solver/vector-angle-calculator "Symbolab link") , which seems a bit nonsense when we look at the diagram [show diagram small] and especially the desmos diagram for exact numbers.
+[diagram]
+
+Basically, **what we thought was $$\theta$$ in our heads wasn't actually the real $$\theta$$ we were calculating.**
+
+So, how do we fix it? Well, it's actually really easy.
+
+[diagram]
+If that vector gets us the $$\theta$$, then if we flip $$\vec{d_0}$$ (direction vector of the first ray), it should give use the  other angle.
+
+So, $$-\vec{d_0} = \begin{pmatrix} 8 \\ -\sqrt21-10 \end{pmatrix} $$, and now we get:
+
+[image]
+
+Tada! And let's try it with our angle formula, 
+
+$$\vec{a} = m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and  $$\vec{b} = -\vec{d_0} = \begin{pmatrix} 8 \\ -\sqrt21-10 \end{pmatrix} $$
+
+$$\begin{aligned}
+\theta &= \cos^-1(\frac{a \cdot b}{|a||b|}) \\
+&= \cos^-1(\frac{\begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} \cdot \begin{pmatrix} 8 \\ -\sqrt21-10 \end{pmatrix}}{|m_n||-\vec{d_0}|}) \\ 
+&= \cos^-1(\frac{2*8 + -\sqrt21*(-\sqrt21-10)}{5*16.63}) \\
+&= \cos^-1(\frac{82.8258}{83.15}) \\ 
+&= \cos^-1(0.996) \\ 
+\theta &= 5.17\circ
+\end{aligned}$$
 
 //// Below is random stuff.
 
