@@ -92,16 +92,16 @@ $$\begin{aligned}
 \vec{d} &= Final - Init \\
 &= A - Init \\
 &= -2i+ \sqrt21j -(10i - 10j) \\  
-d &= -8i+(\sqrt21 +10)j
+d &= -12i+(\sqrt21 +10)j
 \end{aligned}$$
 
 I was going to do the calculations in column vector form but we're going to stick with i,j notation right now because it's easier to type up. I might switch it over eventually. Maybe. Probably not.
 
-So it's going backwards in x, upwards in y. Makes sense to me! Note: it doesn't matter if $$\vec{d}$$ is $$-8i+(\sqrt21 +10)j$$ or $$-80i+(10\sqrt21 +100)j$$, they still point in the same direction (e.g <--, <----) (same gradient). They just have different lengths; k is the scaling factor.
+So it's going backwards in x, upwards in y. Makes sense to me! Note: it doesn't matter if $$\vec{d}$$ is $$-12i+(\sqrt21 +10)j$$ or $$-120i+(10\sqrt21 +100)j$$, they still point in the same direction (e.g <--, <----) (same gradient). They just have different lengths; k is the scaling factor.
 
 So: 
 
-$$\vec{r} = \begin{pmatrix} 10 \\ -10 \end{pmatrix} + \begin{pmatrix} -8 \\ \sqrt21 + 10 \end{pmatrix}k $$
+$$\vec{r} = \begin{pmatrix} 10 \\ -10 \end{pmatrix} + \begin{pmatrix} -12 \\ \sqrt21 + 10 \end{pmatrix}k $$
 <!-- The above is how you can do matrices. I.e begin with pmatrix, and then the double backslash is when you want to go next line. -->
 
 Cool.
@@ -111,7 +111,7 @@ We already know it hits at Point A, so now let's find the normal! But first, we 
 ## 2. Find the Tangent at Point A 
 [DIAGRAM]
 
-I'm going to assume you have knowledge of derivatives & implicit differnetiation here (sorry). Now, a derivative is literally just a 'gradient function'. Instead of doing annoying $$\frac{\delta y}{\delta x}$$ every time, we do a sneaky calculus and say 2 points reaching infinitesimmaly close at Point X have gradient $$ m = f'(x) $$. 3blue1brown has good animations of these.
+I'm going to assume you have knowledge of derivatives & implicit differnetiation here (sorry). Now, a derivative is literally just a 'gradient function'. Instead of doing annoying $$\frac{\delta y}{\delta x}$$ every time, we do a sneaky calculus and say 2 points reaching infinitesimaly close at Point X have gradient $$ m = f'(x) $$. 3blue1brown has good animations of these.
 
 ![Moving gif of derivative. Points moving together at Point X.](/assets/maths/derivative.gif)
 
@@ -182,12 +182,12 @@ Flip the lil thingy!
 $$\begin{aligned}
 m_n &\to \vec{d} \\ 
 \frac{\Delta y}{\Delta x} &\to \begin{pmatrix} x \\ y \end{pmatrix} \\ 
-\frac{-\sqrt21}{2} &\to \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} = \vec{d_n} 
-% Dn deez NU-
+\frac{-\sqrt21}{2} &\to \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} = \vec{d_n} \\
+Dn deez NU-
 \end{aligned}$$
 
 I'm just gonna call it $$m_n$$ even though it's technically $$\vec{d_n}$$. Take it or leave it.
-So now we have our $$m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$, going right an down. $$\vec{d_0} goes \begin{pmatrix} -8 \\ \sqrt21 + 10 \end{pmatrix} $$ so the diagram looks like:
+So now we have our $$m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$, going right an down. $$\vec{d_0} goes \begin{pmatrix} -12 \\ \sqrt21 + 10 \end{pmatrix} $$ so the diagram looks like:
 
 [DIAGRAM]
 
@@ -202,7 +202,7 @@ Wooahh! Slow down there Nelly, what are you actually calculating?
 In the formula above, $$\theta$$ is the angle between 2 vectors.
 [img]
 
-See anytrhing fishy with the diagram above?
+See anything fishy with the diagram above?
 Let's try to make A the origin, and since they're direction vectors, it doesn't matter where they start as long as they meet. They'll always give the same angle.
 [img of them  giving same angle]
 [img2]
@@ -211,7 +211,7 @@ See it? Our $$\theta$$ isn't actually what's being calculated! We're really calc
 
 Let's try it. Calculate $$\theta$$.
 
-Seriously, use $$\vec{a} = m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and $$\vec{b} = \vec{d_0} = \begin{pmatrix} -8 \\ \sqrt21+10 \end{pmatrix} $$.
+Seriously, use $$\vec{a} = m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and $$\vec{b} = \vec{d_0} = \begin{pmatrix} -12 \\ \sqrt21+10 \end{pmatrix} $$.
 
 I get $$\theta = ...$$. You can use [symbolab](https://www.symbolab.com/solver/vector-angle-calculator "Symbolab link") , which seems a bit nonsense when we look at the diagram [show diagram small] and especially the desmos diagram for exact numbers.
 [diagram]
@@ -223,23 +223,109 @@ So, how do we fix it? Well, it's actually really easy.
 [diagram]
 If that vector gets us the $$\theta$$, then if we flip $$\vec{d_0}$$ (direction vector of the first ray), it should give use the  other angle.
 
-So, $$-\vec{d_0} = \begin{pmatrix} 8 \\ -\sqrt21-10 \end{pmatrix} $$, and now we get:
+So, $$-\vec{d_0} = \begin{pmatrix} 12 \\ -\sqrt21-10 \end{pmatrix} $$, and now we get:
 
 [image]
 
 Tada! And let's try it with our angle formula, 
 
-$$\vec{a} = m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and  $$\vec{b} = -\vec{d_0} = \begin{pmatrix} 8 \\ -\sqrt21-10 \end{pmatrix} $$
+$$m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and  $$-\vec{d_0} = \begin{pmatrix} 12 \\ -\sqrt21-10 \end{pmatrix} $$
 
 $$\begin{aligned}
 \theta &= \cos^-1(\frac{a \cdot b}{|a||b|}) \\
-&= \cos^-1(\frac{\begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} \cdot \begin{pmatrix} 8 \\ -\sqrt21-10 \end{pmatrix}}{|m_n||-\vec{d_0}|}) \\ 
-&= \cos^-1(\frac{2*8 + -\sqrt21*(-\sqrt21-10)}{5*16.63}) \\
-&= \cos^-1(\frac{82.8258}{83.15}) \\ 
-&= \cos^-1(0.996) \\ 
-\theta &= 5.17\circ
+&= \cos^-1(\frac{\begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} \cdot \begin{pmatrix} 12 \\ -\sqrt21-10 \end{pmatrix}}{|m_n||-\vec{d_0}|}) \\ 
+&= \cos^-1(\frac{2*12 + -\sqrt21*(-\sqrt21-10)}{5*\sqrt{265+20\sqrt{21}}}) \\
+&= \cos^-1(\frac{90.826}{83.15}) \\ 
+&= \cos^-1(0.96187) \\ 
+\theta &= 15.873^{\circ}
 \end{aligned}$$
 
+Now we know the angle that the ray also gets reflected by!
+
+## 5. Generate the reflected ray $$\vec{r_1}$$
+
+[IMAGE]
+
+$$\vec{r_1} = \vec{a} + k\vec{d}$$
+
+We'll say the initial point $$\vec{a} = \begin{pmatrix} -2 \\ \sqrt21 \end{pmatrix} $$ so it begins there. From the info we have, how do we figure out $$\vec{r_1}$$, namely, its direction vector $$\vec{d_1}$$?
+
+Well.
+
+This took a while, but first I tried to use dot product
+[stuff]
+maybe? But that didn't make too much sense to me. Why's the vector down there??
+
+Let's simplify the problem: Given an angle and a vector, how do I produce another vector $$r_1$$ (the rotated vector)?
+[image]
+
+Eventually, I found rotation matrices! They're so good. [link]
+
+$$ R(\theta) = \begin{bmatrix} \cos{\theta} & -\sin{\theta}  \\ \sin{\theta} & \cos{\theta} \end{bmatrix} $$
+
+Basically, multiplying a vector $$v_1$$ and $$R(\theta)$$, we do:
+
+$$\vec{v_2} = R(\theta)\vec{v_1} $$
+[x' y' stuff ....], 
+
+where $$x' = x\cos{\theta}-y\sin{\theta}, 
+
+y' = x\sin{\theta} + y\cos{\theta}$$
+
+These are OP. We can use either  $$m_n$$ and rotate clockwise by $$\theta$$ or use $$-\vec{d_0}$$ and rotate clockwise by $$2\theta$$. By the way, rotating clockwise is literally just a $$-\theta$$.
+
+We'll just use $$m_n$$.
+
+$$\begin{aligned}
+\vec{d_1} &= R(\theta) \cdot \vec{m_n} \\
+&= R(-15.873^{\circ}) \cdot \vec{m_n} \\
+&= \begin{bmatrix} \cos{-15.873^{\circ}} & -\sin{-15.873^{\circ}}  \\ \sin{-15.873^{\circ}} & \cos{-15.873^{\circ}} \end{bmatrix} \cdot \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} \\ 
+\vec{d_1} &= \begin{pmatrix} 0.670 \\ -4.955 \end{pmatrix}
+\end{aligned}$$
+
+Note: You might get a different answer, but they should still be the same direction vector (i.e one is a scalar of the other). You can easily check this by doing $$\frac{\Delta Y}{\Delta X}$$ on desmos or something and seeing if both our vectors give you the same gradient. Don't forget your angle changes based on which vector you rotated :).
+
+Nice! And since we know its starting point $$(-2, \sqrt21) Point A$$, so:
+
+$$\begin{aligned}
+\vec{r_1} &= \vec{a} + k\vec{d} \\ 
+\vec{r_1} &=  \begin{pmatrix} -2 \\ \sqrt21 \end{pmatrix} + \begin{pmatrix} 0.670 \\ -4.955  \end{pmatrix}k
+\end{aligned}$$
+
+And that's our reflected ray equation!
+
+## 6. Find Point B
+[IMAGE]
+
+This one is arguably very simple (especially if you have technology). You just find where the ray and the circle intersect. There'll only be two points (think of a straight line going through a circle), and one of them is our initial starting point.
+
+The only confusing part would be converting from vector format to cartesian form so you can figure out the intersection, but as long as you just *think* about what's going on, and what's what, you'll be fine. Let's get converting!
+
+Alright, we have: 1 point (our initial point), and the direction (i.e our gradient).
+As I said earlier on, vector is in $$(x,y)$$ but gradients are $$\frac{\Delta y}{\Delta x}$$ so we just flip our $$\vec{d_1}$$ from $$\begin{pmatrix} 1.5789 \\ -4.7442 \end{pmatrix}$$ to $$m = \frac{-4.955}{0.670}$$. That's our gradient (you can see it in desmos; it's going downwards. Makes sense to me!) Our initial point is $$-2i + \sqrt21j$$, so, using a nice form of straight line equation that lets us find it given a specific point:
+
+$$\begin{aligned}
+ y - y_1 &= m(x-x_1) \\ 
+y - \sqrt21 &= \frac{-4.955}{0.670}(x--2) \\
+y ~&= \frac{-4.955}{0.670}x -14.791 +\sqrt21 \\ 
+y ~&= \frac{-4.955}{0.670}x - 10.208
+\end{aligned}$$
+
+Looking at an desmos image, it looks like.
+![Diagram reflected ray and circle](/assets/maths/step6.png)
+
+But isolation is sad! (And dangerous), so let's see our final image.
+
+![THE FINAL CIRCLE (no coords)](/assets/maths/completenocoords.png)
+
+With axes shown:
+
+![THE FINAL CIRCLE (axes shown!)](/assets/maths/completewithcoords.png)
+
+Our Point B is approximately $$(-0.711, -4.949)$$!!! Woooo!!!
+
+The way you solve it on paper is to substitute y into $$x^2 + y^2 = 25$$ and and solve that quadratic. [DO THIS LATER]
+[IMAGE]
 //// Below is random stuff.
 
 % $$\mathit{Testsitgnng}$$
