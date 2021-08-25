@@ -12,27 +12,19 @@ mathjax: true
 
 # The Original Question
 >
-<p style="font-size: 20px"; "center-align"> Imagine a circular mirror with a radius of 5 that exists on an origin. 
-A ray of light beings at 10i-10j and enters the mirror such that 
-it intersects the point (-2, sqrt(21)). 
-Assume that the mirror allows a ray to enter it before closing and thus trapping a light ray inside. </p>
-```
-Imagine a circular mirror with a radius of 5 that exists on an origin. 
+<p style="font-size: 20px; text-align: center; "> Imagine a circular mirror with a radius of 5 that exists on an origin. 
 A ray of light beings at 10i-10j and enters the mirror such that 
 it intersects the point (-2, sqrt(21)). 
 Assume that the mirror allows a ray to enter it before closing and thus trapping a light ray inside.
-
-If an incoming ray hits a surface at an angle, 
-it is reflected off the surface at the same angle to the normal (the law of reflection).
+<br>
+<br>
 
 What is the point where the first reflected ray 
-collides with the circular mirror (excluding the reflected ray's initial position)?
-```
+collides with the circular mirror (excluding the reflected ray's initial position)? </p>
+
 This is a calculator allowed question (I'm thinking of a TI-84 graphics calculator when I say this)
 Note on original question. [^1]
 
-
-<p style="font-family: Computer Modern"> sadasd a</p>
 <h2> Table of Contents </h2>
 
 <ol>
@@ -191,15 +183,18 @@ So now we have our $$m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$, going
 
 [DIAGRAM]
 
-So, doing [dot product]
-
-...
+So, doing
+$$\begin{aligned}
+\vec{a} \cdot \vec{b} &= |a||b|cos(\theta) \\ 
+\theta &= \cos^-1(\frac{a \cdot b}{|a||b|}) 
+\end{aligned}$$
 
 We're finding the angle between vectors, right, so let's just do it! 
 
 Wooahh! Slow down there Nelly, what are you actually calculating?
 
 In the formula above, $$\theta$$ is the angle between 2 vectors.
+
 [img]
 
 See anything fishy with the diagram above?
@@ -213,7 +208,7 @@ Let's try it. Calculate $$\theta$$.
 
 Seriously, use $$\vec{a} = m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and $$\vec{b} = \vec{d_0} = \begin{pmatrix} -12 \\ \sqrt21+10 \end{pmatrix} $$.
 
-I get $$\theta = ...$$. You can use [symbolab](https://www.symbolab.com/solver/vector-angle-calculator "Symbolab link") , which seems a bit nonsense when we look at the diagram [show diagram small] and especially the desmos diagram for exact numbers.
+I get $$\theta = 164.13^{\circ}$$. You can use [symbolab](https://www.symbolab.com/solver/vector-angle-calculator "Symbolab link") , which seems a bit nonsense when we look at the diagram [show diagram small] and especially the desmos diagram for exact numbers.
 [diagram]
 
 Basically, **what we thought was $$\theta$$ in our heads wasn't actually the real $$\theta$$ we were calculating.**
@@ -240,7 +235,7 @@ $$\begin{aligned}
 \theta &= 15.873^{\circ}
 \end{aligned}$$
 
-Now we know the angle that the ray also gets reflected by!
+Now we know the angle that the ray also gets reflected by! If you calculated the other angle before, you'll notice that our $$\theta$$ is just $$180^{\circ}-original$$. If you don't get why, draw out the 2 vectors. Seriously! And then try flipping one of them and seeing what angle that gets. Straight lines, 180... Ring a bell?
 
 ## 5. Generate the reflected ray $$\vec{r_1}$$
 
@@ -270,9 +265,9 @@ $$\begin{aligned}
 \begin{pmatrix} x' \\ y' \end{pmatrix} &= \begin{bmatrix} \cos{\theta} & -\sin{\theta}  \\ \sin{\theta} & \cos{\theta} \end{bmatrix} \cdot \begin{pmatrix} x \\ y \end{pmatrix}
 \end{aligned}$$
 
-where $$x' = x\cos{\theta}-y\sin{\theta}, 
+where $$x' = x\cos{\theta}-y\sin{\theta}$$, 
 
-y' = x\sin{\theta} + y\cos{\theta}$$
+and $$y' = x\sin{\theta} + y\cos{\theta}$$
 
 These are OP. We can use either  $$m_n$$ and rotate clockwise by $$\theta$$ or use $$-\vec{d_0}$$ and rotate clockwise by $$2\theta$$. By the way, rotating clockwise is literally just a $$-\theta$$.
 
@@ -355,10 +350,13 @@ The first way that comes to my mind is: Well, if you can do it for 2D circles, w
 The second extension would be to generalise this problem into f(n) \rightarrow (x,y). I.e, given how many bounces you want (n), tell me the Point that the light ray hits. This is why I started the ray as $$r_0$$, so you could easily say: "Oh, where does the 5th reflected ray hit? f(5). The question we solved above is f(1), "The point that the first reflected ray hits", Point B.
 I'd probably work this out programmatically first before trying to convert it back into maths speak.
 
-If you combine the two extensions I suggested, the ultimate question would be, "Create an $$f(D, n, \vec{a}, \vec{d}) \rightarrow (x,y,z, ...)$$ that returns the coordinates of the n'th light ray collision within a hypersphere given the dimensional number of the system, $$D$$, the number of times the ray is reflected, $$n$$, and the initial starting point and direction vector of the light ray $$\vec{a}, \vec{d}$$ respectively.
-Assume the light can enter the hypersphere before it is trapped inside. "
+If you combine the two extensions I suggested, the ultimate question would be, 	
 
-That sounds fun. Contact me if you do them, I'd love to see it! I wonder if it eventually hits all points on the hypersphere or if it follows a pattern, and whether this applies to any dimension or only certain ones. So cool, right?
+<b>"Create an $$f(D, n, \vec{a}, \vec{d}) \rightarrow (x,y,z, ...)$$ that returns the coordinates of the  light ray $$\vec{r_n} $$ collision within a hypersphere given the dimensional number of the system, $$D$$, the number of times the ray is reflected, $$n$$, and the initial starting point and direction vector of the light ray $$\vec{a}, \vec{d}$$ respectively.
+Assume the light can enter the hypersphere before it is trapped inside. 
+Let $$\vec{r_0}$$ be the initial ray." </b>
+
+It's worded a bit poorly, but you'd get what I meant given the context of this post. That sounds fun. Contact me if you do them, I'd love to see it! I wonder if it eventually hits all points on the hypersphere or if it follows a pattern, and whether this applies to any dimension or only certain ones. So cool, right?
 
 
 
