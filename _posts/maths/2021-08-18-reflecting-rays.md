@@ -2,20 +2,20 @@
 layout: post
 title: Reflecting Rays, Circular Mirrors and Points
 date: 2021-08-12
-reviewed: 2021-06-10
+reviewed: 2021-08-25
 published: true
 tags: non-professional "rotation matrix" maths vectors light rays matrices "dot product" "implicit differentiation" perpendicular 
-excerpt: A self-generated problem that came to me after a specialist exam. It's a pretty problem to think about! Testing Mathjax. Took disproportionately long to make this post relative to how long it takes to solve it... Mathjax and formatting is a pain, huh?
+excerpt: A problem about how light would reflect in a perfectly circular mirror (and some interesting questions extending into 3D). Took disproportionately long to make this post relative to how long it takes to solve it. Learnt Mathjax here.
 comments: false
 mathjax: true
 ---
 
 # The Original Question
-> Imagine a circular mirror with a radius of 5 that exists on an origin. 
+>
+<p style="font-size: 20px"; "center-align"> Imagine a circular mirror with a radius of 5 that exists on an origin. 
 A ray of light beings at 10i-10j and enters the mirror such that 
 it intersects the point (-2, sqrt(21)). 
-Assume that the mirror allows a ray to enter it before closing and thus trapping a light ray inside.
-
+Assume that the mirror allows a ray to enter it before closing and thus trapping a light ray inside. </p>
 ```
 Imagine a circular mirror with a radius of 5 that exists on an origin. 
 A ray of light beings at 10i-10j and enters the mirror such that 
@@ -28,11 +28,11 @@ it is reflected off the surface at the same angle to the normal (the law of refl
 What is the point where the first reflected ray 
 collides with the circular mirror (excluding the reflected ray's initial position)?
 ```
+This is a calculator allowed question (I'm thinking of a TI-84 graphics calculator when I say this)
 Note on original question. [^1]
 
-[An explanation of how this problem was generated, how it was solved, and how you can easily extend the questions into all sorts of fun areas!
-Coming soon.]
 
+<p style="font-family: Computer Modern"> sadasd a</p>
 <h2> Table of Contents </h2>
 
 <ol>
@@ -41,7 +41,7 @@ Coming soon.]
 {:toc}
 
 # Preface
-I had the idea for this question just after my final internal specialist exam (specialist is equivalent to Maths C or whatever your extended x2 maths is). However, this question isn't really a specialis question as much as a question that involves some topics covered in the subject. I implore you to try it out! You can use google :)
+I had the idea for this question just after my final internal specialist exam (specialist is equivalent to Maths C or whatever your extended x2 maths is). However, this question isn't really a specialis question as much as a question that involves some topics covered in the subject. I implore you to try it out! You can use google, but try to search for sub-problems instead of the true problem instead.
 
 This question actually has some old roots in a problem I was thinking about in 2019 -- ray reflection --. There's a quick conclusion I wrote somewhere: I'll upload some pictures if I can find the papers.
 
@@ -50,7 +50,7 @@ Anyways, let's delve into this one! Don't ask me why, but this question brings m
 The way I will solve it is by actually explaining the concepts before using them, which is useful for learning but takes much more space.
 
 # Solving
-Firstly, let's understand what's actually going on here by drawing a nice diagram. I'm going to be using desmos here with some very nice snipping tool skills (it was either that or my hand-drawn items, and here's an example of one(LINK IT HERE). Maybe it's not too bad?). 
+Firstly, let's understand what's actually going on here by drawing a nice diagram. I'm going to be using desmos here with some very nice snipping tool skills (it was either that or my hand-drawn items, and here's an [example of one](LINK IT HERE). Maybe it's not too bad?). 
 
 ![Diagram of circle and rays (unsolved)](/assets/maths/unknowncircle.png)
 
@@ -74,7 +74,7 @@ We can get to Point B and figure out the solution in a few simple steps. Working
 I made some calculation errors on some steps, but Step 5 was the one that stumped me for a bit when I was trying to solve it; kept gettin nonsense $$r_1$$'s.
 Anyways, let's solve it.
 
-## 1. Find the direction vector of $$r_1$$
+## 1. Find the direction vector of $$r_0$$
 Let's get the diagram back.
 [DIAGRAM OF JUST CIRCLE + R1]
 
@@ -265,8 +265,10 @@ $$ R(\theta) = \begin{bmatrix} \cos{\theta} & -\sin{\theta}  \\ \sin{\theta} & \
 
 Basically, multiplying a vector $$v_1$$ and $$R(\theta)$$, we do:
 
-$$\vec{v_2} = R(\theta)\vec{v_1} $$
-[x' y' stuff ....], 
+$$\begin{aligned}
+\vec{v_2} = R(\theta) \cdot \vec{v_1} \\ 
+\begin{pmatrix} x' \\ y' \end{pmatrix} &= \begin{bmatrix} \cos{\theta} & -\sin{\theta}  \\ \sin{\theta} & \cos{\theta} \end{bmatrix} \cdot \begin{pmatrix} x \\ y \end{pmatrix}
+\end{aligned}$$
 
 where $$x' = x\cos{\theta}-y\sin{\theta}, 
 
@@ -283,9 +285,9 @@ $$\begin{aligned}
 \vec{d_1} &= \begin{pmatrix} 0.670 \\ -4.955 \end{pmatrix}
 \end{aligned}$$
 
-Note: You might get a different answer, but they should still be the same direction vector (i.e one is a scalar of the other). You can easily check this by doing $$\frac{\Delta Y}{\Delta X}$$ on desmos or something and seeing if both our vectors give you the same gradient. Don't forget your angle changes based on which vector you rotated :).
+Note: You might get a different answer, but they should still be the same direction vector (i.e one is a scalar of the other). You can easily check this by doing $$\frac{\Delta y}{\Delta x}$$ on desmos or something and seeing if both our vectors give you the same gradient. Don't forget your angle changes based on which vector you rotated :).
 
-Nice! And since we know its starting point $$(-2, \sqrt21) Point A$$, so:
+Nice! And since we know its starting point  Point A $$(-2, \sqrt21) $$:
 
 $$\begin{aligned}
 \vec{r_1} &= \vec{a} + k\vec{d} \\ 
@@ -302,7 +304,7 @@ This one is arguably very simple (especially if you have technology). You just f
 The only confusing part would be converting from vector format to cartesian form so you can figure out the intersection, but as long as you just *think* about what's going on, and what's what, you'll be fine. Let's get converting!
 
 Alright, we have: 1 point (our initial point), and the direction (i.e our gradient).
-As I said earlier on, vector is in $$(x,y)$$ but gradients are $$\frac{\Delta y}{\Delta x}$$ so we just flip our $$\vec{d_1}$$ from $$\begin{pmatrix} 1.5789 \\ -4.7442 \end{pmatrix}$$ to $$m = \frac{-4.955}{0.670}$$. That's our gradient (you can see it in desmos; it's going downwards. Makes sense to me!) Our initial point is $$-2i + \sqrt21j$$, so, using a nice form of straight line equation that lets us find it given a specific point:
+As I said earlier on, vector is in $$(x,y)$$ but gradients are $$\frac{\Delta y}{\Delta x}$$ so we just flip our $$\vec{d_1}$$ from $$\begin{pmatrix}0.670 \\ -4.955 \end{pmatrix}$$ to $$m = \frac{-4.955}{0.670}$$. That's our gradient (you can see it in desmos; it's going downwards. Makes sense to me!) Our initial point is $$-2i + \sqrt21j$$, so, using a nice form of straight line equation that lets us find it given a specific point:
 
 $$\begin{aligned}
  y - y_1 &= m(x-x_1) \\ 
@@ -324,21 +326,44 @@ With axes shown:
 
 Our Point B is approximately $$(-0.711, -4.949)$$!!! Woooo!!!
 
-The way you solve it on paper is to substitute y into $$x^2 + y^2 = 25$$ and and solve that quadratic. [DO THIS LATER]
+The way you solve it on paper is to substitute y into $$x^2 + y^2 = 25$$ and and solve that quadratic. So, for solving on paper:
+
+$$\begin{aligned}
+x^2 + (\frac{-4.955}{0.670}x - 10.208)^2 &= 5^2 \\ 
+55.69x^2+150.99x+79.2 &= 0 \\ 
+x &= -2, -0.711 \\ 
+\end{aligned}$$
+
+So there's our 2 intersection x's, and we know that $$ x = -2 $$ is our initial point, so the answer must be $$x = -0.711$$. Don't just end it here, finish the question! Find Point B!
+
+$$\begin{aligned}
+x^2 + y^2 &= 25 \\
+ y &= \sqrt{25-(-0.711)^2} \\
+y &= \pm 4.949
+\end{aligned}$$
+
+Using some common sense, the sector of the circle we want is in the negative y axis, so it's $$y =-4.949$$. Therefore, our $$Point B = (-0.711, -4.949)$$. Nice!
+
 [IMAGE]
-//// Below is random stuff.
-
-% $$\mathit{Testsitgnng}$$
 
 
-% \mathit{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+## Extensions
+
+The first way that comes to my mind is: Well, if you can do it for 2D circles, why not 3D spheres? Differentiating it (I'm guessing by using multivariable calculus, which I have not currently learnt) to get a plane equation tangent @ any point on the sphere, and doing the same thing (but in 3D) of course would be interesting. And well... Why stop there!? An N dimensional hypersphere, why not? It'll still bounce at the same angle incoming to the normal (normal hyperplane?). :o
+
+![Extension 1, a sphere with a vector pointing through it](/assets/maths/extension1.png)
+The second extension would be to generalise this problem into f(n) \rightarrow (x,y). I.e, given how many bounces you want (n), tell me the Point that the light ray hits. This is why I started the ray as $$r_0$$, so you could easily say: "Oh, where does the 5th reflected ray hit? f(5). The question we solved above is f(1), "The point that the first reflected ray hits", Point B.
+I'd probably work this out programmatically first before trying to convert it back into maths speak.
+
+If you combine the two extensions I suggested, the ultimate question would be, "Create an $$f(D, n, \vec{a}, \vec{d}) \rightarrow (x,y,z, ...)$$ that returns the coordinates of the n'th light ray collision within a hypersphere given the dimensional number of the system, $$D$$, the number of times the ray is reflected, $$n$$, and the initial starting point and direction vector of the light ray $$\vec{a}, \vec{d}$$ respectively.
+Assume the light can enter the hypersphere before it is trapped inside. "
+
+That sounds fun. Contact me if you do them, I'd love to see it! I wonder if it eventually hits all points on the hypersphere or if it follows a pattern, and whether this applies to any dimension or only certain ones. So cool, right?
 
 
-% $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
-
-% $$ x = y^2 $$
 
 
+### Footnotes / Other
 If you look back in history, this problem actually has some ancestry roots in a problem I was thinking about in grade 10 involving the reflection of  <a href="#" class="tooltip">light in a mirror <span> took me way too long to notice the simplest thing - I blame missing a lesson + only being taught a 'fixed' set of cases instead of the general system). </span> </a> Huh!
 
 
