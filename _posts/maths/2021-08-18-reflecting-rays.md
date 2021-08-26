@@ -2,7 +2,7 @@
 layout: post
 title: Reflecting Rays, Circular Mirrors and Points
 date: 2021-08-12
-reviewed: 2021-08-25
+reviewed: 2021-08-26
 published: true
 tags: non-professional "rotation matrix" maths vectors light rays matrices "dot product" "implicit differentiation" perpendicular 
 excerpt: A problem about how light would reflect in a perfectly circular mirror (and some interesting questions extending into 3D). Took disproportionately long to make this post relative to how long it takes to solve it. Learnt Mathjax here.
@@ -15,7 +15,7 @@ mathjax: true
 <p style="font-size: 20px; text-align: center; "> Imagine a circular mirror with a radius of 5 that exists on an origin. 
 A ray of light beings at 10i-10j and enters the mirror such that 
 it intersects the point (-2, sqrt(21)). 
-Assume that the mirror allows a ray to enter it before closing and thus trapping a light ray inside.
+Assume that the mirror allows a ray to enter before closing and thus trapping a light ray inside.
 <br>
 <br>
 
@@ -42,7 +42,7 @@ Anyways, let's delve into this one! Don't ask me why, but this question brings m
 The way I will solve it is by actually explaining the concepts before using them, which is useful for learning but takes much more space.
 
 # Solving
-Firstly, let's understand what's actually going on here by drawing a nice diagram. I'm going to be using desmos here with some very nice snipping tool skills (it was either that or my hand-drawn items, and here's an [example of one](LINK IT HERE). Maybe it's not too bad?). 
+Firstly, let's understand what's actually going on here by drawing a nice diagram. I'm going to be using desmos here with some very nice snipping tool skills (it was either that or my hand-drawn items).
 
 ![Diagram of circle and rays (unsolved)](/assets/maths/unknowncircle.png)
 
@@ -68,7 +68,7 @@ Anyways, let's solve it.
 
 ## 1. Find the direction vector of $$r_0$$
 Let's get the diagram back.
-[DIAGRAM OF JUST CIRCLE + R1]
+![DIAGRAM OF JUST CIRCLE + R1](/assets/maths/img/1.png)
 
 $$r_0$$ being in i,j components is not really ideal, and in this case we want (x,y). So we'll just convert it. The ray starts at $$(10, -10)$$ and we have to reach $$(-2, \sqrt21)$$.
 
@@ -78,7 +78,7 @@ $$\vec{a}$$ is the initial position, $$\vec{d}$$ is the direction vector, k is a
 
 Of course, the direction vector is the direction it's going: towards Point A, $$(-2, \sqrt21)$$ from $$(10, -10)$$. Thus, the direction is just:
 
-[IMAGE OF SIMPLE TRIG THING]
+![IMAGE OF SIMPLE TRIG THING](/assets/maths/img/2.png)
 
 $$\begin{aligned}
 \vec{d} &= Final - Init \\
@@ -101,7 +101,7 @@ Cool.
 We already know it hits at Point A, so now let's find the normal! But first, we need to find the tangent as an intermediary step.
 
 ## 2. Find the Tangent at Point A 
-[DIAGRAM]
+![Circle, ray and tangent](/assets/maths/img/1.png)
 
 I'm going to assume you have knowledge of derivatives & implicit differnetiation here (sorry). Now, a derivative is literally just a 'gradient function'. Instead of doing annoying $$\frac{\delta y}{\delta x}$$ every time, we do a sneaky calculus and say 2 points reaching infinitesimaly close at Point X have gradient $$ m = f'(x) $$. 3blue1brown has good animations of these.
 
@@ -123,7 +123,7 @@ $$f(x,y) = x^2 + y^2 = 5^2$$
 
 $$f'(x,y) = \frac{-x}{y} = \frac{dy}{dx}$$
 
-[IMAGE OF INPUT THINGY]
+![A function is simply a process that eats inputs and spits out (produces) an output.](/assets/maths/img/3.png)
 
 Thus, for Point A $$(-2, \sqrt21)$$: 
 
@@ -134,27 +134,24 @@ We'll call it $$m_T$$ as a nickname for 'tangent gradient'.
 
 Now, our diagram looks like this:
 
- [DIAGRAM THINGY; circle, ray, tangent]
+![Wow crazy ray tangent circle!!](/assets/maths/img/4.png)
 
 ## 3. Find the normal 
 
-Easiest one. Just flip it $$90^o$$. There's a few ways to know that $$m_n = \frac{-1}{m_T}$$, and I actually only know one of them (figured it out when writing the post, actually!) If you assume knowledge of the dot product $$a \cdot b $$, and know that when $$a \cdot b = 0$$, a is perpendicular to b => $$a \perp b$$. And really, the $$\frac{-1}{m_T}$$ is flipping the tangent, and then making it x-1 so that when you dot product them they become 0. Thus, they are perpendicular! Cool. So,
+Easiest one. Just flip it $$90^o$$. There's a few ways to know that $$m_n = \frac{-1}{m_T}$$, and I actually only know one of them (figured it out when writing the post, actually!) If you assume knowledge of the dot product $$a \cdot b $$, and know that when $$a \cdot b = 0$$, a is perpendicular to b => $$a \perp b$$. And really, the $$\frac{-1}{m_T}$$ is flipping the tangent, and then making it -1/x so that when you dot product them they become 0. Thus, they are perpendicular! Cool. So,
 
 $$\begin{aligned}
  m_n = \frac{-1}{m_T} &= \frac{-1}{\frac{2}{\sqrt21}} \\
 m_n &= \frac{-\sqrt21}{2} 
 \end{aligned}$$
 
-Oh yeah, our diagram's coming together.
- [meme image?]
+Oh yeah, our diagram's coming together (no meme images today, however).
 
-![DIAGRAM](link)
+![DIAGRAM](/assets/maths/img/5.png)
 
 I can't help but draw the next thing here: humans have foresight, we can plan, so use it! We'll cal the first reflected ray $$r_1$$.
 
 ## 4. find $$\theta$$
-
-[image]
 
 How can we find $$\theta$$? Well..
 
@@ -181,7 +178,7 @@ Dn deez NU-
 I'm just gonna call it $$m_n$$ even though it's technically $$\vec{d_n}$$. Take it or leave it.
 So now we have our $$m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$, going right an down. $$\vec{d_0} goes \begin{pmatrix} -12 \\ \sqrt21 + 10 \end{pmatrix} $$ so the diagram looks like:
 
-[DIAGRAM]
+![DIAGRAM](/assets/maths/img/6.png)
 
 So, doing
 $$\begin{aligned}
@@ -195,12 +192,14 @@ Wooahh! Slow down there Nelly, what are you actually calculating?
 
 In the formula above, $$\theta$$ is the angle between 2 vectors.
 
-[img]
+![DIAGRAM](/assets/maths/img/7.png)
+
 
 See anything fishy with the diagram above?
-Let's try to make A the origin, and since they're direction vectors, it doesn't matter where they start as long as they meet. They'll always give the same angle.
-[img of them  giving same angle]
-[img2]
+Let's try to make A the origin, and since they're direction vectors, it doesn't matter where they start as long as they meet. They'll always give the same angle (draw this and experiment on paper to proof it for yourself if you want).
+
+![oofy vectors](/assets/maths/img/8.png)
+
 
 See it? Our $$\theta$$ isn't actually what's being calculated! We're really calculating $$\sim$$!!! Since that's the angle between the two direction vectors.
 
@@ -209,18 +208,21 @@ Let's try it. Calculate $$\theta$$.
 Seriously, use $$\vec{a} = m_n = \begin{pmatrix} 2 \\ -\sqrt21 \end{pmatrix} $$ and $$\vec{b} = \vec{d_0} = \begin{pmatrix} -12 \\ \sqrt21+10 \end{pmatrix} $$.
 
 I get $$\theta = 164.13^{\circ}$$. You can use [symbolab](https://www.symbolab.com/solver/vector-angle-calculator "Symbolab link") , which seems a bit nonsense when we look at the diagram [show diagram small] and especially the desmos diagram for exact numbers.
-[diagram]
+
+![Circle diagram and angle](/assets/maths/img/9.png)
+
+Does that look like $$164^{\circ}$$ to you?
 
 Basically, **what we thought was $$\theta$$ in our heads wasn't actually the real $$\theta$$ we were calculating.**
 
 So, how do we fix it? Well, it's actually really easy.
 
-[diagram]
-If that vector gets us the $$\theta$$, then if we flip $$\vec{d_0}$$ (direction vector of the first ray), it should give use the  other angle.
+![oofy vectors](/assets/maths/img/8.png)
+If that vector gets us the $$\propto$$, then if we turn $$\vec{d_0}$$ around (direction vector of the first ray), it should give use the  other angle.
 
 So, $$-\vec{d_0} = \begin{pmatrix} 12 \\ -\sqrt21-10 \end{pmatrix} $$, and now we get:
 
-[image]
+![fixedvectors](/assets/maths/img/10.png)
 
 Tada! And let's try it with our angle formula, 
 
@@ -239,7 +241,8 @@ Now we know the angle that the ray also gets reflected by! If you calculated the
 
 ## 5. Generate the reflected ray $$\vec{r_1}$$
 
-[IMAGE]
+![Hypothetical reflected ray drawn](/assets/maths/img/11.png)
+
 
 $$\vec{r_1} = \vec{a} + k\vec{d}$$
 
@@ -247,18 +250,18 @@ We'll say the initial point $$\vec{a} = \begin{pmatrix} -2 \\ \sqrt21 \end{pmatr
 
 Well.
 
-This took a while, but first I tried to use dot product
-[stuff]
-maybe? But that didn't make too much sense to me. Why's the vector down there??
+This took a while, but first I tried to rearrange dot product maybe? But that didn't make too much sense to me. Why's the vector down there??
 
 Let's simplify the problem: Given an angle and a vector, how do I produce another vector $$r_1$$ (the rotated vector)?
-[image]
+![DIAGRAM](/assets/maths/img/12.png)
 
-Eventually, I found rotation matrices! They're so good. [link]
+
+Eventually, I found rotation matrices! They're so good. [Here's a link to read more](https://en.wikipedia.org/wiki/Rotation_matrix), and [this one](https://matthew-brett.github.io/teaching/rotation_2d.html)
 
 $$ R(\theta) = \begin{bmatrix} \cos{\theta} & -\sin{\theta}  \\ \sin{\theta} & \cos{\theta} \end{bmatrix} $$
 
 Basically, multiplying a vector $$v_1$$ and $$R(\theta)$$, we do:
+![DIAGRAM](/assets/maths/img/13.png)
 
 $$\begin{aligned}
 \vec{v_2} = R(\theta) \cdot \vec{v_1} \\ 
@@ -292,7 +295,8 @@ $$\begin{aligned}
 And that's our reflected ray equation!
 
 ## 6. Find Point B
-[IMAGE]
+![DIAGRAM](/assets/maths/img/14.png)
+
 
 This one is arguably very simple (especially if you have technology). You just find where the ray and the circle intersect. There'll only be two points (think of a straight line going through a circle), and one of them is our initial starting point.
 
@@ -339,9 +343,6 @@ y &= \pm 4.949
 
 Using some common sense, the sector of the circle we want is in the negative y axis, so it's $$y =-4.949$$. Therefore, our $$Point B = (-0.711, -4.949)$$. Nice!
 
-[IMAGE]
-
-
 ## Extensions
 
 The first way that comes to my mind is: Well, if you can do it for 2D circles, why not 3D spheres? Differentiating it (I'm guessing by using multivariable calculus, which I have not currently learnt) to get a plane equation tangent @ any point on the sphere, and doing the same thing (but in 3D) of course would be interesting. And well... Why stop there!? An N dimensional hypersphere, why not? It'll still bounce at the same angle incoming to the normal (normal hyperplane?). :o
@@ -352,11 +353,11 @@ I'd probably work this out programmatically first before trying to convert it ba
 
 If you combine the two extensions I suggested, the ultimate question would be, 	
 
-<b>"Create an $$f(D, n, \vec{a}, \vec{d}) \rightarrow (x,y,z, ...)$$ that returns the coordinates of the  light ray $$\vec{r_n} $$ collision within a hypersphere given the dimensional number of the system, $$D$$, the number of times the ray is reflected, $$n$$, and the initial starting point and direction vector of the light ray $$\vec{a}, \vec{d}$$ respectively.
+<b>"Create an $$f(D, n, \vec{a}, \vec{d}, P_1) \rightarrow (x,y,z, ...)$$ that returns the coordinates of the  light ray $$\vec{r_n} $$ collision within a hypersphere at Point $$P_1 $$ given the dimensional number of the system, $$D$$, the number of times the ray is reflected, $$n$$, and the initial starting point and direction vector of the light ray $$\vec{a}, \vec{d}$$ respectively.
 Assume the light can enter the hypersphere before it is trapped inside. 
 Let $$\vec{r_0}$$ be the initial ray." </b>
 
-It's worded a bit poorly, but you'd get what I meant given the context of this post. That sounds fun. Contact me if you do them, I'd love to see it! I wonder if it eventually hits all points on the hypersphere or if it follows a pattern, and whether this applies to any dimension or only certain ones. So cool, right?
+It's worded a bit poorly, but you'd get what I meant given the context of this post. That sounds fun. Actually, you could generalise it even more by just letting $$P_1$$ become $$P$$, *any point on the hypersphere*. Contact me if you do them, I'd love to see it! I wonder if it eventually hits all points on the hypersphere or if it follows a pattern, and whether this applies to any dimension or only certain ones. So cool, right?
 
 
 
