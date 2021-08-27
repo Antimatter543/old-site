@@ -353,13 +353,13 @@ I'd probably work this out programmatically first before trying to convert it ba
 
 If you combine the two extensions I suggested, the ultimate question would be, 	
 
-<b>"Create an $$f(D, n, \vec{a}, \vec{d}, P_1) \rightarrow (x,y,z, ...)$$ that returns the coordinates of the  light ray $$\vec{r_n} $$ collision within a hypersphere at Point $$P_1 $$ given the dimensional number of the system, $$D$$, the number of times the ray is reflected, $$n$$, and the initial starting point and direction vector of the light ray $$\vec{a}, \vec{d}$$ respectively.
+<b>"Create an $$f(D, n, \vec{a}, \vec{d}) \rightarrow (x,y,z, ...)$$ that returns the coordinates of the  light ray $$\vec{r_n} $$ collision within a hypersphere at Point $$P_n $$ given the dimensional number of the system, $$D$$, the number of times the ray is reflected, $$n$$, and the initial starting point and direction vector of the light ray $$\vec{a}, \vec{d}$$ respectively.
 Assume the light can enter the hypersphere before it is trapped inside. 
 Let $$\vec{r_0}$$ be the initial ray." </b>
 
-It's worded a bit poorly, but you'd get what I meant given the context of this post. That sounds fun. Actually, you could generalise it even more by just letting $$P_1$$ become $$P$$, *any point on the hypersphere*. Contact me if you do them, I'd love to see it! I wonder if it eventually hits all points on the hypersphere or if it follows a pattern, and whether this applies to any dimension or only certain ones. So cool, right?
+It's worded a bit poorly, but you'd get what I meant given the context of this post. For context, our Point A in the 2D example would be considered $$P_0$$, and Point B (the one we solved for) would be $$P_1$$. That sounds fun. Actually, you could generalise it even more by just letting $$P_1$$ become $$P$$, *any point on the hypersphere*. Contact me if you do them, I'd love to see it! I wonder if it eventually hits all points on the hypersphere or if it follows a pattern, and whether this applies to any dimension or only certain ones. So cool, right?
 
-
+Furthermore, if you *really* felt like it, you could add irl values like the speed of light so $$\vec{r}$$ becomes a function of time $$\vec{r}(t)$$. From there, you could ask "**When** does $$P_n$$ occur if the first ray is initialised at t=0 seconds?"
 
 
 ### Footnotes / Other
