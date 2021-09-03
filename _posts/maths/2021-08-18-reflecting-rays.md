@@ -33,7 +33,7 @@ Note on original question. [^1]
 {:toc}
 
 # Preface
-I had the idea for this question just after my final internal specialist exam (specialist is equivalent to Maths C or whatever your extended x2 maths is). However, this question isn't really a specialis question as much as a question that involves some topics covered in the subject. I implore you to try it out! You can use google, but try to search for sub-problems instead of the true problem instead.
+I had the idea for this question just after my final internal specialist exam (specialist is equivalent to Maths C or whatever your extended x2 maths is). However, this question isn't really a specialist question as much as a question that involves some topics covered in the subject. I implore you to try it out! You can use google, but try to search for sub-problems instead of the true problem instead.
 
 This question actually has some old roots in a problem I was thinking about in 2019 -- ray reflection --. There's a quick conclusion I wrote somewhere: I'll upload some pictures if I can find the papers.
 
