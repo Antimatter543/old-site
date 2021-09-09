@@ -5,6 +5,19 @@ permalink: /about/
 includelink: true
 ---
 
+# About Me
+<br>
+
+👋 Hey! I'm Anti (or Yuv).
+I'm currently a final year high school student who is interested in AI (specifically Reinforcement Learning) and has some goals relating to pushing the frontier of transferring the potential possibilities of the future into the present.
+
+Reading and writing is also fun:
+
+- Sci-fi, Fantasy and Non-fiction are my favourite genres to read \| The Little Prince is my favourite book.
+- I may be "writing" (i.e doing work on it for 2 weeks before abandoning it for 6 months at a time) a book -- currently at 30000 words, and only TONS of it has to be scrapped each time I come back :).
+
+I play games sometimes, too and have a somewhat informal interest in mathematics and physics (in case that wasn't obvious by *certain* posts).
+
 
 <!-- # WIP  -->
 <!-- Unfortunately, I've had to hunt most extra-curricular projects and experiences as I've never really had anyone who pushed me, encouraged me, to do things that would bring me outside my comfort zone and force me to learn, evolve. For instance, nobody told me to make a site. Nobody introduced me to programming or gamemaking or AI. And to those in a similar boat; respect. It's not easy when there's nobody else to talk about your projects to, right? 
@@ -15,13 +28,15 @@ But the thing I love about computers and programming is that, it doesn't care. W
 The *potential* of creation is simply a great attractor to me.
  -->
 
-👋 Hey! I'm Anti (or Yuv), and among other things, I like programming things. I'm currently 17 and finishing up my last year of high school, and I've been exploring programming at an increasingly complex (perhaps exponential) rate since Year 10 (and by that, I mean the first two years were *extremely* slow relative to my current pace). Obviously, nature doesn't like exponentials for too long and it only looks exponential because of the small time frame. I love the idea of freedom, creativity and also raw power that turing complete machines can give, and how its system of information processing is independent from the material substrate it's founded upon (anything that can make a NAND gate is equivalent to any other computing device). Basically, programming is cool.
+<!-- 👋 Hey! I'm Anti (or Yuv), and among other things, I like programming things. I'm currently 17 and finishing up my last year of high school, and I've been exploring programming at an increasingly complex (perhaps exponential) rate since Year 10 (and by that, I mean the first two years were *extremely* slow relative to my current pace). Obviously, nature doesn't like exponentials for too long and it only looks exponential because of the small time frame. I love the idea of freedom, creativity and also raw power that turing complete machines can give, and how its system of information processing is independent from the material substrate it's founded upon (anything that can make a NAND gate is equivalent to any other computing device). Basically, programming is cool.
 
 I'm most likely to go into a Machine Learning career, but the nature of my goal is action-based and not profession-based. Realistically, the closest jobs that align with the goal I want to achieve are probably researching @ Deepmind / OpenAI or somewhere similar or making a seriously good VR game that somehow beats the problem of converting reality motion -> simulated motion whilst keeping the reality user in one spot + producing the expected effects of movement.
 
-I also have a problem of biting off more than I can chew (I'll keep doing it, though) and trying to learn way too much in way too little time (it's not my fault there's so many interestings things out there). It's fun everytime though!
+I also have a problem of biting off more than I can chew (I'll keep doing it, though) and trying to learn way too much in way too little time (it's not my fault there's so many interestings things out there). It's fun everytime though! -->
 
 
+
+## Random
 
 Current things I'm doing (kinda) - but I've procrastinated/wasted weeks of time :) / haven't touched in a while
 - Make posts for blog have a picture attached to each of them so they display in the blog list.
