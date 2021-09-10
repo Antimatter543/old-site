@@ -31,6 +31,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     font-weight: 300;
+	color: #313131;
     background-color: #fdfdfd;
   }
 /* OH I THINK THE BODY BEING 70% + margin means if we put the nav in the body, it won't be able to take the whole thing.
@@ -54,7 +55,7 @@ canvas {
 	z-index: -1;
 }
 p {
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.6;
   color:#222222;
   margin: 0px;
