@@ -6,13 +6,14 @@ reviewed: 2021-06-10
 
 published: true
 tags: non-professional 
-excerpt: "This was a little short story I made for my Year 11 'short story' (more flash fiction) exam. I hated that test; they call it short story 
-when it's 800-1000 words... How am I meant to make that good? You know how short 1000 words is???? Anyways, here it is. I also had to extract this idea from a certain poem about
-some normal family on a dinner table or whatever. Safe to say I er... Exercised my creative ability on it :)" 
+excerpt: "This was a little short story I made for my Year 11 'short story' (more flash fiction) exam. I hated that test - How is a short story only 800-1000 words?? I also had to extract this idea from a stimulus about
+some normal family at a dinner table. Safe to say I er... Exercised my creative ability on it ;)" 
 comments: false
 ---
 <h1 style="text-align:center;"> Shadow of Oneself </h1>
 <br>
+
+<small> Disclaimer: This was actually what I wrote the day *before* the exam. What I actually wrote must've been a bit different. </small>
 
 Hercul’s task was simple: eliminate the one known as the Destroyer of Nations, Harbinger of Catastrophe, Ruinous Creation, Annihilator Valaksar. Sent as one of The Association’s greatest heroes, the others had already separated from him to scour the above-ground labyrinth as fast as possible. The ancient structure easily surpassed the grandest cities in size and yet copied the aura of a shy child, with only its entrance peeking out of a gargantuan mountain that housed the rest of the building under its weight. Crooked dead vines and eerie silence sprawled across the colossal stone doorway which displayed an innumerable number of routes that led deeper into the maze. The floor had long since been displaced and broken by nature’s wrath. 
 
@@ -63,10 +64,23 @@ Hercul leapt, sword in hand.
 
 <div align="center"> *** </div>
 <div style="color:#444; text-align:center;">
-“Aeza!” Sar cried, trembling, hugging onto her lifeless corpse as the red amalgamation consumed them both, its hideous mass covering them. “Wake up! Wake up!”
-You are a worthy vessel. Become the champion of Valak. Your hatred is mine. 
-The nightmarish ooze erupted with insidious laughter as it overtook the majority of Sar’s mind.
-Hate me for all you have. For what I have done. Your hate, my strength.
+“Aeza!” Sar cried, trembling, hugging onto her lifeless corpse as the red amalgamation consumed them both, its hideous mass covering them. “Wake up, Aeza. Wake up!” Only its hideous voice spoke.
+
+<br>
+<br>
+<b> You are a worthy vessel. Become the champion of Valak. Your hatred is mine.   </b>
+
+The nightmarish ooze erupted with insidious laughter as it overtook the majority of Sar’s mind. 
+<br>
+<br>
+
+<b>Hate me for all you have.</b> 
+<br>
+
+<b>For what I have done.</b>
+<br>
+
+<b>Your hate, my strength.</b>
 </div>
 <div align="center"> *** </div>
 
