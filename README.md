@@ -1,3 +1,5 @@
+If you are reading this, you've caught me with my pants down, as they say. Please stop looking. I'll finish up the new site by the 20th Feb 2023 hopefully 😭
+
 # antimatter543.github.io
  http://jmcglone.com/guides/github-pages/ This POGGERS.
  Also, whenever I look at the github.io's of websites, it's mildly annoying how there's never a link to the actual website, so you have to search it up. Oh no, +5 seconds! Anyways, here's the link:
