@@ -2,7 +2,7 @@
 name: Antimatter
 title: Anti's site
 description: "Some guy does things."
-baseurl: ""
+baseurl: "old-site"
 url: "https://antimatter543.github.io/old-site"
 github_username: antimatter543
 # Build settings
