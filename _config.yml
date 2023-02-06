@@ -2,8 +2,8 @@
 name: Antimatter
 title: Anti's site
 description: "Some guy does things."
-baseurl: ""
-# url: "https://antimatter543.github.io"
+baseurl: "/old-site"
+url: "https://antimatter543.github.io"
 github_username: antimatter543
 # Build settings
 markdown: kramdown
