@@ -1,4 +1,4 @@
-If you are reading this, you've caught me with my pants down, as they say. Please stop looking. I'll finish up the new site by the 20th Feb 2023 hopefully 😭
+If you are reading this, you've caught me with my pants down, as they say. Please stop looking. I'll finish up the new site by the 20th Feb 2023 hopefully 😭. Okay, me from 6/02/23 here, I'm leaving this repo here, as an era past. If you can fix the css/why it's not doing le connections right (it does it fine if you run it locally), send a PR! Thanks!
 
 # antimatter543.github.io
  http://jmcglone.com/guides/github-pages/ This POGGERS.
