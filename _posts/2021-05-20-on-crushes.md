@@ -7,9 +7,11 @@ reviewed: 2021-06-09
 published: true
 tags: non-professional gold
 excerpt: "An exploration of crushes - a domain I'm not well versed in, which is why this article was made. On the importance of attractions/relationships and the lack of verbal knowledge about this. Survey n=~30 data gathered about crushes so you can create (more) data-based opinion on related topics!"
-comments: false
+comments: true
 ---
 Warning: Contains swears.
+Edit from the future; 7/02/23 me here speaking: I was considering not uploading this to my new site, but I remember spending a fair amount of time on this piece of work, and don't see why it shouldn't be uploaded, albeit with some slight changes.
+
 
 <h2> Table of Contents </h2>
 
@@ -51,7 +53,7 @@ Tl;dr: Democratise the knowledge of relationships! Make it public domain and pro
 This has led me to collect data on crushes (or limerence). Now, relationships & crushes don't relate too directly, but they were close enough that I thought, "Why not?" To increase my knowledge of this domain (of crushes) will indirectly help me when I'll have to deal with relationships / attraction in the future. How, I'm not sure. But more data helps. And also, it's nice to just increase your knowledge on any particular topic. Perhaps this has been slightly influenced as I ~~currently~~ just had an object of limerence, but... Fuck it. This is still interesting on its own.
 
 
-Side note: So much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="http://www.youtube.com/watch?v=smK9dgdTl40&t=14m19s"> this Lex Fridman podcast (link works now).</a> Also related to Exploiting the limbic system (another post)). This also functions as good social exercise for me.
+Side note: So much brain power is invested into how to get laid (the dumb brain controls the smart brain a lot of the time, see <a href="http://www.youtube.com/watch?v=smK9dgdTl40&t=14m19s"> this Lex Fridman podcast </a>. Also related to Exploiting the limbic system (another post)). This also functions as good social exercise for me.
 
 Also, <a href="" class=tooltip> this <span> You're a dead man walking. So am I. Once we're dead, we're dead. The social consequences of being deemed a little odd crumble against the infinite wall of death. Basically, I don't care. You can either be a part of my data or not. You can read this or not. Someone will; it doesn't have to be you. But if you are, hey! How's your day? Enjoy this little adventure! </span> </a>.
 ## Accumulation of Data 
@@ -81,7 +83,7 @@ Here's a table of the results as of ~May 2021. This applies only to the number o
 
 | Person | # of Crushes | Average Crush Duration | Shortest/Longest Duration of Crush | Instant or Gradual Crush Formation | Notes | Common crush traits (you have a type?) | Why did the crush fade? | 
 |--------|--------------|------------------------|------------------------------------|------------------------------------|------|---|---|
-| **Me** | 3 | A year | 6 months  / 3.5 years | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 9, 10-11, 12. None active. | See <a href="#extra---my-experiences"> My Experiences </a>. Hard work ethic, not immature,  <a href="https://www.youtube.com/watch?v=xlorA9H8ZgA"> does not give a two shit flying fuck. </a> | Faded out (unreciprocated so I shouldn't waste energy) + manual kill |
+| **Me** | 3 | A year | 6 months  / 3.5 years | Gradual until it hit (~few months-year) | Detailed notes in extra. ~Grade 9, 10-11, 12. None active. | Hard work ethic, not immature,  <a href="https://www.youtube.com/watch?v=xlorA9H8ZgA"> does not give a two shit flying fuck. </a> | Faded out (unreciprocated so I shouldn't waste energy) + manual kill |
 | 2 | 2 | ~6 months | At least 6 months | Gradual formation | Grade 6, 10 for crushes. | Intelligence, shares similar interests | Mix: They left the school / personality incompatibility or not enough similarities |
 | 3 | 3 | ~1 years  | 6 months / 1.5 years | Mix | Year 6,7,7. Sometimes has a dream and gets really into someone for 1 week before it fades. | Inconsistent - brown hair? Uncertain. | Distance - time spent away from crush (all ended up moving school) | 
 | 4 | 0 | NA | NA | NA | Balling. 0 crushes Madlad #1. Lowkey late sleeper | NA | NA |
@@ -253,10 +255,3 @@ Pepeg brain: "nothin nothing! Don't mind me DON'T MIND ME."
 Me: "Wait you LITTLE SHI-"
 ```
 On the plus side, I think I've been able to 'kill' crushes easier the more I've had them. Emotions are FOR THE WEAK (not actually; it's very hard to decouple yourself from emotions as a human so you might as well try to have a healthy symbiosis with them). Since S3 is basically finished and I've only had it for a few months. S2 was ~1 year and S1 was a bit longer. Does that mean I've *matured*? Weird word. 
-
-#### Funny observation
-
-I suspect I'm highly unusual in this manner (and based on one person's detailed version of how they form crushes, different to them).
-This is a really nice benefit actually, and I'm not sure if other people experience this to the same degree I do, but  physical attractiveness based on some evaluation metric (like personality, compatibility -> hobbies, interests, ethics, morals, etc.) changes once I get to know them better. Like it *really* changes physical attractiveness.
-
-I'll go through the example with S2 (secondary crush; this would be Grade 10-11). Let's assume I have a physical attraction metric. On initial meeting, I would have rated (purely on physical attractiveness) a 4/10. That's like, top 60%. It was in a physics class, and I deemed her 'a bit too polite' after our first conversation. However, as mutual time in an enclosed space increased, I realised *I've been jebaited*.  Anyways, come a physics data test FIA1, and she gets a 10/10, I 9/10 (lost the 10 by not rounding). Sometime between then and next term (i.e Term 2 grade 10), I realise that just by pure physical attraction, she's an 8/10; top 10%. On physical only. Wtf??? Obviously, nothing happened and it died out after ~7-9 months. Other people definitely experience this, but I haven't talked to anyone about the % increases so I can't tell whether the degree to which it changes is atypical.

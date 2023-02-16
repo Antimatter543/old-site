@@ -18,12 +18,13 @@ If you're here for professional reasons, check out my professional posts! Honest
 non-professional posts to scout out my reasoning system / method of communication (there's some cool maths problems!)
 <ul class="posts"> 
 
+	<!-- Btw this should be an include since we use it here and in blog too lol. -->
     {% for post in site.posts %}
         <li>
         {% if post.tags[0] == 'professional' %}
 
             <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> 
-			<a href="{{ post.url }}" title="{{ post.title }}" {% if post.tags[1] == 'gold'%} style="color: rgb(184, 175, 48); font-weight: 500;" {%endif%}>{{ post.title }}</a>
+			<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" {% if post.tags[1] == 'gold'%} style="color: rgb(184, 175, 48); font-weight: 500;" {%endif%}>{{ post.title }}</a>
             <br>
 			{% if post.excerpt %}
             <p> {{ post.excerpt }} </p>

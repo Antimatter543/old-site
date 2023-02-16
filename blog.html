@@ -12,7 +12,7 @@ includelink: false
         {% if post.tags[0] == 'professional' %}
 
             <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> 
-			<a href="{{ post.url }}" title="{{ post.title }}" {% if post.tags[1] == 'gold'%} style="color: rgb(184, 175, 48); font-weight: 500;" {%endif%}>{{ post.title }}</a>
+			<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" {% if post.tags[1] == 'gold'%} style="color: rgb(184, 175, 48); font-weight: 500;" {%endif%}>{{ post.title }}</a>
             <br>
 			{% if post.excerpt %}
             <p> {{ post.excerpt }} </p>

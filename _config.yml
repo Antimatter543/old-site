@@ -2,7 +2,7 @@
 name: Antimatter
 title: Anti's site
 description: "Some guy does things."
-baseurl: "/old-site"
+baseurl: "/old-site" # comment this out for posts to work locally. Idk. No idea.
 url: "https://antimatter543.github.io"
 github_username: antimatter543
 # Build settings
